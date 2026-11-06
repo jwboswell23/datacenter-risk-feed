@@ -1,7 +1,62 @@
 {
-"updated": "2026-11-05T20:38:38.449064+00:00",
-"run_date": "2026-11-05",
+"updated": "2026-11-06T12:03:46.966711+00:00",
+"run_date": "2026-11-06",
 "rows": [
+{
+"id": "EV-TE-0275",
+"st": "Texas",
+"juris": "Texas",
+"cls": "C. Political campaign",
+"status": "Election result (unofficial, not certified)",
+"summary": "Gina Hinojosa defeated incumbent Greg Abbott in the November 3 gubernatorial election. News reports available by November 5 describe the result as a\u2026",
+"p_binding": "0",
+"next_date": "Certification and inauguratio\u2026",
+"updated": "2026-11-06"
+},
+{
+"id": "EV-OH-0243",
+"st": "Ohio",
+"juris": "Trenton",
+"cls": "A. Voter-driven",
+"status": "Election result (unofficial, not certified)",
+"summary": "Voters approved Issue 17, a data-center restriction. Reports differ on its scope: some describe a ban on data centers above 25 MW within city limits,\u2026",
+"p_binding": "75",
+"next_date": "",
+"updated": "2026-11-06"
+},
+{
+"id": "EV-OH-0232",
+"st": "Ohio",
+"juris": "Piqua",
+"cls": "A. Voter-driven",
+"status": "Election result (unofficial, not certified)",
+"summary": "Voters approved a charter amendment prohibiting construction of data centers with peak power demand above 25 MW in Piqua. The amendment defines data\u2026",
+"p_binding": "75",
+"next_date": "",
+"updated": "2026-11-06"
+},
+{
+"id": "EV-OH-0171",
+"st": "Ohio",
+"juris": "Ohio General Assembly",
+"cls": "B. Regulator-driven",
+"status": "3 Introduced as legislation or ordinance",
+"summary": "H.B. 646 began as a proposal for a 13-member Data Center Commission to study data-center impacts. That version was scrapped after a Select Committee\u2026",
+"p_binding": "25",
+"next_date": "2026-11-10",
+"updated": "2026-11-06"
+},
+{
+"id": "EV-GE-0163",
+"st": "Georgia",
+"juris": "Georgia General Assembly",
+"cls": "C. Political campaign",
+"status": "Election result (unofficial, not certified)",
+"summary": "Democrats unofficially won a majority of the Georgia House for the first time in 22 years (reported ~93 of 180 seats; a few races unsettled). Republi\u2026",
+"p_binding": "",
+"next_date": "2026-11-20",
+"updated": "2026-11-06"
+},
 {
 "id": "EV-VI-0474",
 "st": "Virginia",
@@ -275,61 +330,6 @@
 "summary": "Henrico County allocated $60 million in data-center tax revenue to an affordable housing trust fund intended to assist 750 first-time homebuyers earn\u2026",
 "p_binding": "95",
 "next_date": "",
-"updated": "2026-11-05"
-},
-{
-"id": "EV-VI-0449",
-"st": "Virginia",
-"juris": "Henrico County",
-"cls": "B. Regulator-driven",
-"status": "5 Adopted by the relevant government",
-"summary": "QTS Data Centers received the last major rezoning approval before Henrico's zoning change, allowing a reported 17 data centers across two sites. The\u2026",
-"p_binding": "95",
-"next_date": "",
-"updated": "2026-11-05"
-},
-{
-"id": "EV-VI-0448",
-"st": "Virginia",
-"juris": "Henrico County",
-"cls": "B. Regulator-driven",
-"status": "5 Adopted by the relevant government",
-"summary": "Henrico County denied Centra Logistics' vested-rights claim for its data-center project. Centra subsequently proposed a by-right warehouse and distri\u2026",
-"p_binding": "85",
-"next_date": "",
-"updated": "2026-11-05"
-},
-{
-"id": "EV-VI-0447",
-"st": "Virginia",
-"juris": "Henrico County",
-"cls": "B. Regulator-driven",
-"status": "5 Adopted by the relevant government",
-"summary": "Henrico County amended its zoning ordinance to eliminate by-right data-center development in industrial, business, and office districts. New projects\u2026",
-"p_binding": "95",
-"next_date": "",
-"updated": "2026-11-05"
-},
-{
-"id": "EV-VI-0446",
-"st": "Virginia",
-"juris": "Goochland County and Virginia General A\u2026",
-"cls": "D. Community opposition",
-"status": "1 Rumored or reported",
-"summary": "An opposition-group member called for slowing data-center development, preferably through a county moratorium, and otherwise urged state legislators\u2026",
-"p_binding": "5",
-"next_date": "",
-"updated": "2026-11-05"
-},
-{
-"id": "EV-VI-0445",
-"st": "Virginia",
-"juris": "Goochland County and Henrico County",
-"cls": "D. Community opposition",
-"status": "Unknown / unverified",
-"summary": "A group of Henrico residents held a community meeting about proposed Goochland data centers. Hundreds of neighbors and elected officials from both co\u2026",
-"p_binding": "0",
-"next_date": "Upcoming meetings with Goochl\u2026",
 "updated": "2026-11-05"
 }
 ]

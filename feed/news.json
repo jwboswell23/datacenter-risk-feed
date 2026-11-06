@@ -1,7 +1,47 @@
 {
-"updated": "2026-11-05T20:38:38.449064+00:00",
-"run_date": "2026-11-05",
+"updated": "2026-11-06T12:03:46.966711+00:00",
+"run_date": "2026-11-06",
 "rows": [
+{
+"date": "2026-11-09",
+"st": "Multi",
+"headline": "U.S. Senate cloture vote on BAAJA (S. 5653 via H.R. 2347) ~5:30 pm Nov 9; needs 60",
+"why": "Bill would require covered loads of 20 MW or more to pay full incremental grid costs; applies in all four states if enacted. Stage: introduced, not passed.",
+"cls": "B regulator-driven",
+"affected": "All large-load projects nationally",
+"src": "ENR / McGuireWoods",
+"url": "https://www.enr.com/articles/64174-senate-leaders-tee-up-vote-on-permitting-reform-after-midterms"
+},
+{
+"date": "2026-11-06",
+"st": "TX",
+"headline": "Industry expects any Texas pause to run into mid-2027; Aurora, Modo Energy, GLJ estimates",
+"why": "Houston Chronicle: Aurora Energy Research expects a pause to last to June/July 2027; GLJ Research estimates ~13 GW of Texas capacity exposed. Analyst estimates, not offi\u2026",
+"cls": "C political campaign",
+"affected": "Texas projects not yet permitted",
+"src": "Houston Chronicle",
+"url": "https://www.houstonchronicle.com/business/economy/article/democratic-texas-data-center-hinojosa-meaning-22511688.php"
+},
+{
+"date": "2026-11-06",
+"st": "Multi",
+"headline": "Bloomberg/Cleanview: ~40% of pending U.S. capacity sits in states whose governors-elect pledged pauses; BNEF\u2026",
+"why": "Macro context only; statewide headlines are not applied to individual projects in the database.",
+"cls": "C political campaign",
+"affected": "Context",
+"src": "Bloomberg",
+"url": "https://www.bloomberg.com/news/articles/2026-11-06/new-governors-set-to-challenge-big-swath-of-data-center-capacity"
+},
+{
+"date": "2026-11-06",
+"st": "Multi",
+"headline": "Data Centers on the Ballot tracker: 44 of 45 restriction counts complete; all 21 Ohio measures complete; no c\u2026",
+"why": "Site displays a \"simulated returns\" preview banner; nothing certified. Cross-check with county boards before treating as binding.",
+"cls": "A voter-driven",
+"affected": "Multi-state",
+"src": "datacentersontheballot.com",
+"url": "https://datacentersontheballot.com/"
+},
 {
 "date": "2026-11-05",
 "st": "Multi",
@@ -113,6 +153,46 @@
 "url": "https://datacentersontheballot.com/"
 },
 {
+"date": "2026-11-05",
+"st": "TX",
+"headline": "Hinojosa on CNN: \"not that I hate data centers\"; will seek laws and pause activity \"until we have those prote\u2026",
+"why": "Tone softens to conditional/partnership framing; no change on the ladder (still a proposal, no EO until Jan 2027). Scope to permitted or under-construction projects rema\u2026",
+"cls": "C political campaign",
+"affected": "All Texas pipeline; ~25 GW reported under construction and\u2026",
+"src": "The Hill / Reuters",
+"url": "https://thehill.com/homenews/state-watch/6203045-texas-hinojosa-data-centers/"
+},
+{
+"date": "2026-11-05",
+"st": "OH",
+"headline": "Trenton Issue 17: effect on Prologis project under construction unclear; Amazon annexation could be refiled",
+"why": "Grandfathering unresolved; mayor (resigning Jan 1) offers no policy direction. Results unofficial.",
+"cls": "A voter-driven",
+"affected": "Prologis Trenton (~250 MW reported); proposed AWS campus ou\u2026",
+"src": "WCPO",
+"url": "https://www.wcpo.com/news/local-news/butler-county/trenton/trenton-voters-approve-data-center-ban-whats-next-for-amazon-prologis"
+},
+{
+"date": "2026-11-05",
+"st": "OH",
+"headline": "Lame-duck session Nov 10 - Dec 17; Sub. HB 646 recommitted to Senate Energy; advocates urge 12-month moratori\u2026",
+"why": "HB 646 (study commission, water reporting, large-load tariff, >250 MW generation requirement) could move in lame duck; moratorium ask is advocacy only, no sponsor.",
+"cls": "B regulator-driven",
+"affected": "All Ohio projects (prospective)",
+"src": "cleveland.com / Ohio House",
+"url": "https://www.ohiohouse.gov/legislation/136/hb646"
+},
+{
+"date": "2026-11-05",
+"st": "VA",
+"headline": "No confirmed material change; Loudoun formal pause resolution vote remains Nov 17; community marches in Hampt\u2026",
+"why": "Class D opposition without a specific instrument; Loudoun pause already in effect since Sept 15.",
+"cls": "D community opposition",
+"affected": "Loudoun pipeline (pause already effective)",
+"src": "Ground News (WAVY/WDBJ)",
+"url": "https://ground.news/article/va-residents-march-to-demand-pause-on-new-data-centers"
+},
+{
 "date": "2026-11-04",
 "st": "OH",
 "headline": "AP: Acton wins Ohio governor race",
@@ -141,6 +221,36 @@
 "affected": "All on-site-generation projects",
 "src": "Yahoo Finance",
 "url": "https://finance.yahoo.com/energy/articles/gas-turbine-shortage-just-became-210000180.html"
+},
+{
+"date": "2026-11-04",
+"st": "GA",
+"headline": "Democrats flip Georgia House (unofficial ~93 seats); GOP holds Senate 29-27",
+"why": "Raises odds that cost-allocation or pause-supporting legislation clears the House in 2027; Senate stays a Republican check. Certification: counties Nov 9, state Nov 20.",
+"cls": "C political campaign",
+"affected": "All Georgia projects indirectly (2027 session)",
+"src": "AJC / Georgia Recorder",
+"url": "https://www.ajc.com/politics/2026/11/democrats-poised-to-win-majority-in-georgia-house-for-first-time-in-22-years/"
+},
+{
+"date": "2026-11-04",
+"st": "GA",
+"headline": "Kemp: no special session to curtail executive powers",
+"why": "Removes near-term pre-emption risk to Governor-elect Bottoms' pledged executive pause; a budget-only session remains possible.",
+"cls": "C political campaign",
+"affected": "Statewide (executive-action pathway)",
+"src": "AJC",
+"url": "https://www.ajc.com/politics/2026/11/brian-kemp-rejects-special-session-to-redraw-maps/"
+},
+{
+"date": "2026-11-04",
+"st": "OH",
+"headline": "Piqua: three commissioners recalled; city says effect of charter amendment on Meta project \"unclear\"",
+"why": "Local permitting body reshaped; applicability to project underway undetermined.",
+"cls": "A voter-driven",
+"affected": "Meta Piqua",
+"src": "WYSO",
+"url": "https://www.wyso.org/local-and-statewide-news/2026-11-04/piqua-voters-recall-three-city-commissioners-approve-charter-amendment-aimed-at-data-centers"
 },
 {
 "date": "2026-11-02",
