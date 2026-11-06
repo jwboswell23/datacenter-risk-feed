@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-06T12:03:46.966711+00:00",
+"updated": "2026-11-06T12:04:42.874494+00:00",
 "run_date": "2026-11-06",
 "rows": [
 {
@@ -96,22 +96,6 @@
 "avg_prior": "",
 "direction": "new / single data point",
 "latest_quote": "The results turned out the way that they did because the people getting up to that podium, telling us how they felt, had been ignored.",
-"latest_url": "https://www.wyso.org/local-and-statewide-news/2026-11-04/piqua-voters-recall-three-city-commissioners-approve-charter-amendment-aimed-at-data-centers"
-},
-{
-"who": "City of Piqua (official statement)",
-"office": "City of Piqua public information office",
-"st": "OH",
-"party": "n/a",
-"role": "Local permit / zoning authority",
-"tenure": "in_office",
-"n": 1,
-"latest_date": "2026-11-04",
-"latest_stance": "0",
-"avg_30d": 0.0,
-"avg_prior": "",
-"direction": "new / single data point",
-"latest_quote": "It is unclear at this time if and how this Charter amendment may affect the Meta data center project currently underway.",
 "latest_url": "https://www.wyso.org/local-and-statewide-news/2026-11-04/piqua-voters-recall-three-city-commissioners-approve-charter-amendment-aimed-at-data-centers"
 },
 {
@@ -385,6 +369,22 @@
 "direction": "new / single data point",
 "latest_quote": "I am on board with council's decision for emergency passage.",
 "latest_url": "https://www.vindy.com/news/local-news/2026/06/lordstown-extends-data-center-moratorium/"
+},
+{
+"who": "Jon Burns",
+"office": "Speaker of the Georgia House (Republica\u2026",
+"st": "GA",
+"party": "R",
+"role": "State legislature",
+"tenure": "in_office",
+"n": 1,
+"latest_date": "2026-04-07",
+"latest_stance": "-1",
+"avg_30d": "",
+"avg_prior": -1.0,
+"direction": "new / single data point",
+"latest_quote": "[The House passed] one of the strongest ratepayer protection acts in the nation, which would have ensured Georgians aren't footing the bill\u2026",
+"latest_url": "https://www.ajc.com/business/2026/04/georgia-lawmakers-leave-data-center-tax-breaks-intact-punt-on-energy-costs/"
 }
 ]
 }

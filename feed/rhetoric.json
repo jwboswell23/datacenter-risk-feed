@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-06T12:03:46.966711+00:00",
+"updated": "2026-11-06T12:04:42.874494+00:00",
 "run_date": "2026-11-06",
 "rows": [
 {
@@ -134,23 +134,6 @@
 "stance": "-1",
 "direction": "new / single data point",
 "topic": "local charter amendment / Met\u2026",
-"src": "WYSO",
-"url": "https://www.wyso.org/local-and-statewide-news/2026-11-04/piqua-voters-recall-three-city-commissioners-approve-charter-amendment-aimed-at-data-centers",
-"prec": "exact"
-},
-{
-"date": "2026-11-04",
-"who": "City of Piqua (official statement)",
-"office": "City of Piqua public information office",
-"st": "OH",
-"party": "n/a",
-"role": "Local permit / zoning authority",
-"tenure": "in_office",
-"type": "official statement",
-"quote": "It is unclear at this time if and how this Charter amendment may affect the Meta data center project currently underway.",
-"stance": "0",
-"direction": "new / single data point",
-"topic": "local charter amendment / gra\u2026",
 "src": "WYSO",
 "url": "https://www.wyso.org/local-and-statewide-news/2026-11-04/piqua-voters-recall-three-city-commissioners-approve-charter-amendment-aimed-at-data-centers",
 "prec": "exact"
@@ -511,6 +494,23 @@
 "src": "Loudoun County (Briskman re\u2026",
 "url": "https://www.loudoun.gov/DocumentCenter/View/222331/Statement---Loudoun-Board-Enacts-Pause-on-Data-Centers",
 "prec": "exact"
+},
+{
+"date": "2026-09-16",
+"who": "Phyllis Randall",
+"office": "Chair, Loudoun County Board of Supervis\u2026",
+"st": "VA",
+"party": "D",
+"role": "Local permit / zoning authority",
+"tenure": "in_office",
+"type": "board meeting remarks",
+"quote": "We do not have to talk in stark extremes all the time. We can say we support jobs and we support the economy. We hear the workers and we hear the citizens. It does not have to be one or the other.",
+"stance": "-1",
+"direction": "steady",
+"topic": "local pause / zoning",
+"src": "DC News Now",
+"url": "https://www.dcnewsnow.com/news/local-news/virginia/loudoun-county/loudoun-county-board-votes-to-advance-pause-on-data-center-applications",
+"prec": "approx"
 }
 ]
 }
