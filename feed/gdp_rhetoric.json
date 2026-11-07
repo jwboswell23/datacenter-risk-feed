@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-06T13:43:17.416588+00:00",
-"run_date": "2026-11-06",
+"updated": "2026-11-07T12:19:21.644816+00:00",
+"run_date": "2026-11-07",
 "rows": [
 {
 "st": "TX",
@@ -47,20 +47,20 @@
 {
 "st": "GA",
 "state": "Georgia",
-"index": 23.5,
+"index": 24.4,
 "index_1w": 14.6,
 "chg_1w": 0.0,
-"n_officials": 6,
-"w_total": 17.0,
-"n_exposed": 57,
+"n_officials": 8,
+"w_total": 19.5,
+"n_exposed": 58,
 "n_permitted": 24,
-"n_land": 6,
+"n_land": 7,
 "n_contracted": 27,
-"exposed_mw_hi": 13916,
+"exposed_mw_hi": 14174,
 "exposed_capex_lo": 159.3,
 "exposed_capex_hi": 187.1,
-"b_lo": 21.51,
-"b_hi": 24.98,
+"b_lo": 21.53,
+"b_hi": 25.0,
 "pdelay_now": 41.8,
 "headline_delayed_lo": 8.11,
 "headline_delayed_hi": 9.34
@@ -68,11 +68,11 @@
 {
 "st": "OH",
 "state": "Ohio",
-"index": 21.1,
+"index": 30.9,
 "index_1w": 20.0,
-"chg_1w": 0.0,
-"n_officials": 7,
-"w_total": 16.0,
+"chg_1w": 10.0,
+"n_officials": 11,
+"w_total": 23.5,
 "n_exposed": 34,
 "n_permitted": 4,
 "n_land": 5,
@@ -89,5 +89,5 @@
 ],
 "exposed_stages": "permitted_not_under_construction (20% 12-mo spend), land_controlled_not_permitted (10%), contracted_or_projected (5%)",
 "note": "overlay inputs only; headline GDP model unchanged",
-"as_of_1w": "2026-10-30"
+"as_of_1w": "2026-10-31"
 }

@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-06T13:43:17.416588+00:00",
-"run_date": "2026-11-06",
+"updated": "2026-11-07T12:19:21.644816+00:00",
+"run_date": "2026-11-07",
 "rows": [
 {
 "date": "2026-11-09",
@@ -11,6 +11,86 @@
 "affected": "All large-load projects nationally",
 "src": "ENR / McGuireWoods",
 "url": "https://www.enr.com/articles/64174-senate-leaders-tee-up-vote-on-permitting-reform-after-midterms"
+},
+{
+"date": "2026-11-07",
+"st": "TX",
+"headline": "ERCOT issuing second-round information requests to ~80% of 257 developers; probing whether projects were down\u2026",
+"why": "Audit report due Dec 10, PUCT Dec 17; downsizing findings could reclassify projects. Pause on new 75 MW+ energizations continues.",
+"cls": "E infrastructure",
+"affected": "All ERCOT-connected pipeline (EV-TE-0383)",
+"src": "San Antonio Express-News",
+"url": "https://www.expressnews.com/business/article/ercot-data-centers-power-grid-oversight-22514525.php"
+},
+{
+"date": "2026-11-07",
+"st": "TX",
+"headline": "Lubbock P&Z unanimously sends 12 data-center regulations to council; first moratorium hearing Nov 10, 2 p.m.",
+"why": "Ladder moves to 4 (committee approved); 90-day pause needs 6 of 7 votes after Dec 10 second hearing.",
+"cls": "B regulator",
+"affected": "Lubbock pipeline (EV-TE-0345/0347)",
+"src": "Texas Scorecard / Lubbock Lights",
+"url": "https://texasscorecard.com/local/commission-votes-to-send-data-center-regulation-recommendations-to-lubbock-city-council/"
+},
+{
+"date": "2026-11-07",
+"st": "TX",
+"headline": "Riot 10-Q names Anthropic as tenant of 910 MW Corsicana powered-land lease (15 yr, ~$28bn); phases Sep 2027 /\u2026",
+"why": "Largest single Texas AI lease; existing ~1 GW interconnection limits exposure to the ERCOT pause but phase deliveries still depend on ERCOT/PUCT treatment.",
+"cls": "E infrastructure",
+"affected": "PRJ-TE-0620",
+"src": "Riot Platforms / Bitcoin Magazine",
+"url": "https://www.riotplatforms.com/riot-platforms-reports-third-quarter-2026-financial-results-and-strategic-highlights/"
+},
+{
+"date": "2026-11-07",
+"st": "GA",
+"headline": "Dade County commissioner proposes 90-day data-center moratorium after Master Works signals ~300 MW interest;\u2026",
+"why": "First Dade instrument; new project row PRJ-GE-0859 (0-300 MW, no capex). Public meeting Nov 23.",
+"cls": "B regulator",
+"affected": "PRJ-GE-0859 (EV-GE-0164)",
+"src": "Local 3 News",
+"url": "https://www.local3news.com/local-news/dade-county-commissioner-calls-for-90-day-data-center-moratorium/article_d92fddbf-afd4-45ef-aafd-1d974ffe0fd6.html"
+},
+{
+"date": "2026-11-07",
+"st": "GA",
+"headline": "OpenAI publishes Project Camellia Community Compact; says it will work to keep project on schedule ahead of N\u2026",
+"why": "Voluntary commitments (full energy-cost coverage, closed-loop cooling, annual audit) are counter-evidence to opposition but not binding until written into conditions.",
+"cls": "D community opposition",
+"affected": "PRJ-GE-0167 (EV-GE-0165)",
+"src": "OpenAI / WJCL",
+"url": "https://www.wjcl.com/article/openai-effingham-county-delays-data-center-vote/74357634"
+},
+{
+"date": "2026-11-07",
+"st": "OH",
+"headline": "Ohio legislators signal compromise possible on data-center rules but no lame-duck commitment (Reineke, DeMora\u2026",
+"why": "HB 646 components (cost coverage, sales-tax change) could move by Dec 31; probability 25%. Rhetoric index updated.",
+"cls": "C campaign/political",
+"affected": "All Ohio pipeline (EV-OH-0265)",
+"src": "WKBN",
+"url": "https://www.wkbn.com/news/ohio/ohio-lawmakers-say-compromise-possible-in-data-center-regulations/"
+},
+{
+"date": "2026-11-07",
+"st": "VA",
+"headline": "NextEra-Dominion accept 101 of 117 SCC merger conditions; evidentiary hearing Nov 17 (PUR-2026-00112)",
+"why": "Shared-infrastructure item: conditions could shape capital plan and large-load posture for the 54.9 GW Dominion queue; not a restriction.",
+"cls": "E infrastructure",
+"affected": "Dominion-served VA pipeline (EV-VI-0475)",
+"src": "Environment+Energy Leader",
+"url": "https://www.environmentenergyleader.com/articles/45510-nextera-and-dominion-accept-101-virginia-merger-conditions"
+},
+{
+"date": "2026-11-07",
+"st": "Multi",
+"headline": "Data Centers on the Ballot tracker: all 21 Ohio counts unchanged since Nov 3-4; nothing certified; no VA/GA/T\u2026",
+"why": "No change vs Nov 6 copy; Ohio county boards certify by Nov 24 (statutory window).",
+"cls": "A voter",
+"affected": "Ohio local measures",
+"src": "datacentersontheballot.com",
+"url": "https://datacentersontheballot.com/"
 },
 {
 "date": "2026-11-06",
@@ -221,86 +301,6 @@
 "affected": "All on-site-generation projects",
 "src": "Yahoo Finance",
 "url": "https://finance.yahoo.com/energy/articles/gas-turbine-shortage-just-became-210000180.html"
-},
-{
-"date": "2026-11-04",
-"st": "GA",
-"headline": "Democrats flip Georgia House (unofficial ~93 seats); GOP holds Senate 29-27",
-"why": "Raises odds that cost-allocation or pause-supporting legislation clears the House in 2027; Senate stays a Republican check. Certification: counties Nov 9, state Nov 20.",
-"cls": "C political campaign",
-"affected": "All Georgia projects indirectly (2027 session)",
-"src": "AJC / Georgia Recorder",
-"url": "https://www.ajc.com/politics/2026/11/democrats-poised-to-win-majority-in-georgia-house-for-first-time-in-22-years/"
-},
-{
-"date": "2026-11-04",
-"st": "GA",
-"headline": "Kemp: no special session to curtail executive powers",
-"why": "Removes near-term pre-emption risk to Governor-elect Bottoms' pledged executive pause; a budget-only session remains possible.",
-"cls": "C political campaign",
-"affected": "Statewide (executive-action pathway)",
-"src": "AJC",
-"url": "https://www.ajc.com/politics/2026/11/brian-kemp-rejects-special-session-to-redraw-maps/"
-},
-{
-"date": "2026-11-04",
-"st": "OH",
-"headline": "Piqua: three commissioners recalled; city says effect of charter amendment on Meta project \"unclear\"",
-"why": "Local permitting body reshaped; applicability to project underway undetermined.",
-"cls": "A voter-driven",
-"affected": "Meta Piqua",
-"src": "WYSO",
-"url": "https://www.wyso.org/local-and-statewide-news/2026-11-04/piqua-voters-recall-three-city-commissioners-approve-charter-amendment-aimed-at-data-centers"
-},
-{
-"date": "2026-11-02",
-"st": "TX",
-"headline": "E&E: Patrick, Schwertner urge PUCT to reject 765-kV transmission applications",
-"why": "Statement after 15-hour Senate hearing with rural landowners; transmission timing risk for West Texas loads.",
-"cls": "B regulator-driven",
-"affected": "ERCOT 765-kV plan; West Texas campuses",
-"src": "E&E News",
-"url": "https://www.eenews.net/articles/texas-regulators-urged-to-halt-33b-transmission-plan/"
-},
-{
-"date": "2026-10-30",
-"st": "VA",
-"headline": "Loudoun County: Board enacts pause on data centers",
-"why": "Board statement on pause; grandfathering of by-right/approved projects to be verified.",
-"cls": "B regulator-driven",
-"affected": "Loudoun County unapproved applications",
-"src": "Loudoun County",
-"url": "https://www.loudoun.gov/DocumentCenter/View/222331/Statement---Loudoun-Board-Enacts-Pause-on-Data-Centers"
-},
-{
-"date": "2026-10-28",
-"st": "VA",
-"headline": "Governor Spanberger: Loudoun data-center standards statement",
-"why": "'What has been permitted in years past is not permitted into the future.'",
-"cls": "B regulator-driven",
-"affected": "Loudoun County",
-"src": "Office of the Governor of Virginia",
-"url": "https://www.governor.virginia.gov//newsroom/news-releases/2026/october-releases/name-1127820-en.html"
-},
-{
-"date": "2026-10-20",
-"st": "OH",
-"headline": "Court News Ohio: Supreme Court ruling in Lordstown data-center case",
-"why": "Ruling on charter/zoning dispute; sets precedent for Ohio local bans.",
-"cls": "B regulator-driven",
-"affected": "Lordstown; Ohio charter municipalities",
-"src": "Court News Ohio",
-"url": "https://www.courtnewsohio.gov/cases/2026/SCO/1020/251497.asp"
-},
-{
-"date": "2026-10-15",
-"st": "Multi",
-"headline": "Inside the Data Center: large power transformers 128-160 weeks",
-"why": "Substation-class transformer lead times past 160 weeks; a switching-cost input.",
-"cls": "E infrastructure constraint",
-"affected": "All grid-connected projects",
-"src": "Inside the Data Center",
-"url": "https://insidethedatacenter.com/articles/transformer-shortage/"
 }
 ]
 }

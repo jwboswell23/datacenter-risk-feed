@@ -1,18 +1,7 @@
 {
-"updated": "2026-11-06T13:43:17.416588+00:00",
-"run_date": "2026-11-06",
+"updated": "2026-11-07T12:19:21.644816+00:00",
+"run_date": "2026-11-07",
 "rows": [
-{
-"date": "2026-11-06",
-"st": "Georgia",
-"county": "Douglas",
-"id": "PRJ-GE-0337",
-"name": "Amazon ATL 114 Campus",
-"catalyst": "Close of the public-comment period for Georgia air application 30374; subsequent agency disposition is not sp\u2026",
-"mx": 4,
-"comp": 2.8,
-"mw_hi": 0
-},
 {
 "date": "2026-11-10",
 "st": "Texas",
@@ -287,6 +276,17 @@
 "mx": 5,
 "comp": 3.05,
 "mw_hi": 0
+},
+{
+"date": "2026-11-21",
+"st": "Georgia",
+"county": "Floyd County",
+"id": "PRJ-GE-0169",
+"name": "Microsoft ATL80 Floyd County Campus",
+"catalyst": "DRI #4860 regional review finding (scheduled completion Nov 21, 2026); then local site-plan/permits",
+"mx": 5,
+"comp": 3.3,
+"mw_hi": 380
 },
 {
 "date": "2026-11-29",

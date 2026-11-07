@@ -1,7 +1,106 @@
 {
-"updated": "2026-11-06T13:43:17.416588+00:00",
-"run_date": "2026-11-06",
+"updated": "2026-11-07T12:19:21.644816+00:00",
+"run_date": "2026-11-07",
 "rows": [
+{
+"id": "EV-VI-0475",
+"st": "Virginia",
+"juris": "Virginia State Corporation Commission (\u2026",
+"cls": "E. Infrastructure constraint",
+"status": "Unknown / unverified",
+"summary": "NextEra and Dominion accepted 101 of 117 merger conditions proposed by SCC staff and the Consumer Counsel and 13 more with modifications, in rebuttal\u2026",
+"p_binding": "",
+"next_date": "2026-11-17",
+"updated": "2026-11-07"
+},
+{
+"id": "EV-TE-0383",
+"st": "Texas",
+"juris": "ERCOT / Public Utility Commission of Te\u2026",
+"cls": "E. Infrastructure constraint",
+"status": "6 Effective and enforceable",
+"summary": "ERCOT told the Express-News it is issuing a second round of requests for information to about 80% of the 257 developers that answered the September R\u2026",
+"p_binding": "100",
+"next_date": "2026-12-10",
+"updated": "2026-11-07"
+},
+{
+"id": "EV-TE-0347",
+"st": "Texas",
+"juris": "Lubbock Planning & Zoning Commission",
+"cls": "B. Regulator-driven",
+"status": "4 Approved by committee or planning commission",
+"summary": "The Planning and Zoning Commission discussed staff-recommended data-center standards and postponed a vote on the recommendations until November.",
+"p_binding": "40",
+"next_date": "2026-11-10",
+"updated": "2026-11-07"
+},
+{
+"id": "EV-TE-0345",
+"st": "Texas",
+"juris": "Lubbock",
+"cls": "B. Regulator-driven",
+"status": "3 Introduced as legislation or ordinance",
+"summary": "Lubbock City Council initiated the procedure to consider a 90-day pause on requests and approvals for large-scale data centers. The proposal requires\u2026",
+"p_binding": "55",
+"next_date": "2026-11-10",
+"updated": "2026-11-07"
+},
+{
+"id": "EV-TE-0268",
+"st": "Texas",
+"juris": "Governor of Texas; ERCOT; Public Utilit\u2026",
+"cls": "E. Infrastructure constraint",
+"status": "6 Effective and enforceable",
+"summary": "Abbott directed an audit and verification of data-center projects seeking ERCOT grid connections. The directive was reported to halt projects or new\u2026",
+"p_binding": "85",
+"next_date": "2026-12-10",
+"updated": "2026-11-07"
+},
+{
+"id": "EV-OH-0265",
+"st": "Ohio",
+"juris": "Ohio General Assembly (136th), lame-duc\u2026",
+"cls": "C. Political campaign",
+"status": "2 Proposed by an official or legislator",
+"summary": "Sen. Bill Reineke (R-Tiffin), reported as likely next Senate president, would not promise data-center regulation passes in lame duck (\"I don't know w\u2026",
+"p_binding": "25",
+"next_date": "2026-12-31",
+"updated": "2026-11-07"
+},
+{
+"id": "EV-GE-0165",
+"st": "Georgia",
+"juris": "Effingham County",
+"cls": "D. Community opposition",
+"status": "1 Rumored or reported",
+"summary": "OpenAI published a Community Compact (Nov 5) committing to pay full energy infrastructure and service costs, closed-loop cooling, local hiring, resid\u2026",
+"p_binding": "",
+"next_date": "2026-11-17",
+"updated": "2026-11-07"
+},
+{
+"id": "EV-GE-0164",
+"st": "Georgia",
+"juris": "Dade County",
+"cls": "B. Regulator-driven",
+"status": "2 Proposed by an official or legislator",
+"summary": "Commissioner Melissa C. Bradford introduced a proposed 90-day moratorium at the Nov 5 Board of Commissioners workshop after Atlanta-based Master Work\u2026",
+"p_binding": "55",
+"next_date": "2026-11-23",
+"updated": "2026-11-07"
+},
+{
+"id": "EV-GE-0044",
+"st": "Georgia",
+"juris": "Bulloch County",
+"cls": "B. Regulator-driven",
+"status": "6 Effective and enforceable",
+"summary": "The county\u2019s existing moratorium covers data-center projects in unincorporated Bulloch County through December 31, 2026. On November 2, 2026, the Dat\u2026",
+"p_binding": "100",
+"next_date": "2026-11-16",
+"updated": "2026-11-07"
+},
 {
 "id": "EV-TE-0275",
 "st": "Texas",
@@ -230,105 +329,6 @@
 "status": "Unknown / unverified",
 "summary": "Northern Virginia is reported as the world's largest data-center market, with 11,800 MW of connected capacity. This is a market-capacity report, not\u2026",
 "p_binding": "0",
-"next_date": "",
-"updated": "2026-11-05"
-},
-{
-"id": "EV-VI-0458",
-"st": "Virginia",
-"juris": "Loudoun County",
-"cls": "B. Regulator-driven",
-"status": "3 Introduced as legislation or ordinance",
-"summary": "Phase 2 of the county\u2019s Data Center Standards and Locations initiative began to develop policy guidance and use-specific standards for data centers a\u2026",
-"p_binding": "35",
-"next_date": "",
-"updated": "2026-11-05"
-},
-{
-"id": "EV-VI-0457",
-"st": "Virginia",
-"juris": "Loudoun County",
-"cls": "B. Regulator-driven",
-"status": "6 Effective and enforceable",
-"summary": "Loudoun County is requiring additional documentation from land-use applicants proposing a High Energy Use Facility, in compliance with Virginia state\u2026",
-"p_binding": "90",
-"next_date": "",
-"updated": "2026-11-05"
-},
-{
-"id": "EV-VI-0456",
-"st": "Virginia",
-"juris": "Loudoun County",
-"cls": "B. Regulator-driven",
-"status": "3 Introduced as legislation or ordinance",
-"summary": "Two supervisors proposed auditing roughly 15 approved data-center and substation projects, potentially removing grandfathering protections. The repor\u2026",
-"p_binding": "10",
-"next_date": "",
-"updated": "2026-11-05"
-},
-{
-"id": "EV-VI-0455",
-"st": "Virginia",
-"juris": "Loudoun County",
-"cls": "B. Regulator-driven",
-"status": "3 Introduced as legislation or ordinance",
-"summary": "The Board advanced an effort to examine whether the 2025 grandfathering exceptions can be ended for certain administrative data-center applications.\u2026",
-"p_binding": "25",
-"next_date": "",
-"updated": "2026-11-05"
-},
-{
-"id": "EV-VI-0454",
-"st": "Virginia",
-"juris": "Loudoun County",
-"cls": "B. Regulator-driven",
-"status": "5 Adopted by the relevant government",
-"summary": "The Board adopted a grandfathering resolution allowing certain pending data-center site plans and amendments to proceed through by-right administrati\u2026",
-"p_binding": "85",
-"next_date": "2026-10-06 was identified for\u2026",
-"updated": "2026-11-05"
-},
-{
-"id": "EV-VI-0453",
-"st": "Virginia",
-"juris": "Loudoun County",
-"cls": "B. Regulator-driven",
-"status": "5 Adopted by the relevant government",
-"summary": "Phase 1 of the county\u2019s Data Center Standards and Locations initiative amended zoning rules so that most newly proposed data centers require Special\u2026",
-"p_binding": "95",
-"next_date": "",
-"updated": "2026-11-05"
-},
-{
-"id": "EV-VI-0452",
-"st": "Virginia",
-"juris": "Loudoun County",
-"cls": "B. Regulator-driven",
-"status": "6 Effective and enforceable",
-"summary": "The Board directed staff to study a pause in July 2026, then enacted an immediate temporary pause on its consideration of certain legislative data-ce\u2026",
-"p_binding": "80",
-"next_date": "2026-11-17",
-"updated": "2026-11-05"
-},
-{
-"id": "EV-VI-0451",
-"st": "Virginia",
-"juris": "Loudoun County",
-"cls": "B. Regulator-driven",
-"status": "5 Adopted by the relevant government",
-"summary": "The Board of Supervisors voted unanimously on a series of measures under a preliminary agreement with Amazon, intended to eliminate potential data-ce\u2026",
-"p_binding": "65",
-"next_date": "",
-"updated": "2026-11-05"
-},
-{
-"id": "EV-VI-0450",
-"st": "Virginia",
-"juris": "Henrico County",
-"cls": "B. Regulator-driven",
-"status": "5 Adopted by the relevant government",
-"summary": "Henrico County allocated $60 million in data-center tax revenue to an affordable housing trust fund intended to assist 750 first-time homebuyers earn\u2026",
-"p_binding": "95",
 "next_date": "",
 "updated": "2026-11-05"
 }
