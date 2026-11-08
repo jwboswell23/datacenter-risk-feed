@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-07T12:19:21.644816+00:00",
-"run_date": "2026-11-07",
+"updated": "2026-11-08T12:13:59.270549+00:00",
+"run_date": "2026-11-08",
 "rows": [
 {
 "date": "2026-11-09",
@@ -11,6 +11,86 @@
 "affected": "All large-load projects nationally",
 "src": "ENR / McGuireWoods",
 "url": "https://www.enr.com/articles/64174-senate-leaders-tee-up-vote-on-permitting-reform-after-midterms"
+},
+{
+"date": "2026-11-08",
+"st": "Multi",
+"headline": "Amazon paid $99.8M for 23 acres at 44146 Wade Drive (Loudoun) for a 100-ft data center; no special exception\u2026",
+"why": "New land-controlled campus (PRJ-VI-0850). Any SE application would fall under the Loudoun pause if adopted Nov 17; staff already flagged height vs General Plan.",
+"cls": "E_infrastructure/B_regulator",
+"affected": "PRJ-VI-0850; EV-VI-0452",
+"src": "Virginia Business",
+"url": "https://virginiabusiness.com/amazon-buys-loudoun-property-for-100m-plans-data-center/"
+},
+{
+"date": "2026-11-08",
+"st": "Multi",
+"headline": "Lordstown solicitor recommends extending the village data-center moratorium into 2027; mayor says ruling does\u2026",
+"why": "Moratorium (EV-OH-0258) expires Dec 31; extension now recommended but not voted. Ladder unchanged at 5 (adopted).",
+"cls": "B_regulator",
+"affected": "EV-OH-0258; Bristolville 25 site",
+"src": "Tribune Chronicle",
+"url": "https://www.tribtoday.com/news/local-news/2026/11/lordstown-officials-discuss-supreme-court-ruling-on-data-center/"
+},
+{
+"date": "2026-11-08",
+"st": "Multi",
+"headline": "Conserve Ohio reports 150,000+ signatures toward a constitutional amendment banning data centers above 25 MW\u2026",
+"why": "Petition stage only (EV-OH-0266, ladder 1); earliest ballot Nov 2027. No legal effect today.",
+"cls": "A_voter",
+"affected": "Ohio statewide pipeline (prospective)",
+"src": "Columbus Dispatch",
+"url": "https://www.dispatch.com/story/business/2026/11/06/local-data-center-bans-passed-easily-is-the-rest-of-ohio-next/92612381007/"
+},
+{
+"date": "2026-11-08",
+"st": "Multi",
+"headline": "Long County P&Z public hearing and vote on a proposed temporary data-center moratorium set for Nov 16",
+"why": "Proposed (EV-GE-0168, ladder 2); no project in the county. Adds to coastal-Georgia pause cluster around Project Camellia.",
+"cls": "B_regulator",
+"affected": "None (no pipeline campus)",
+"src": "WJCL",
+"url": "https://www.wjcl.com/article/long-county-ga-weighs-temporary-data-center-pause/74187199"
+},
+{
+"date": "2026-11-08",
+"st": "Multi",
+"headline": "DeKalb County BOC Nov 10 agenda: review of health/environmental study required before the data-center morator\u2026",
+"why": "Catalyst for EV-GE-0077 (moratorium to 2027-03-30); lifting is conditional on the study review.",
+"cls": "B_regulator",
+"affected": "EV-GE-0077",
+"src": "Siting Radar (agenda index)",
+"url": "https://sitingradar.com/states/ga"
+},
+{
+"date": "2026-11-08",
+"st": "Multi",
+"headline": "Backfill: Morgan County 120-day data-center application moratorium (July 7; extension on Oct 20 agenda) and C\u2026",
+"why": "Previously unlogged adopted instruments (EV-GE-0166/0167). Madison expiry Nov 30 is a live catalyst; Morgan extension unverified.",
+"cls": "B_regulator",
+"affected": "PRJ-GE-0857 (unverified Meta interest)",
+"src": "Morgan County minutes; AI Laws USA",
+"url": "https://www.morgancountyga.gov/AgendaCenter/ViewFile/Minutes/_07212026-866"
+},
+{
+"date": "2026-11-08",
+"st": "Multi",
+"headline": "CoreWeave letter to Gov.-elect Hinojosa seeks cooperation on data-center policy; Fort Worth confirms Nov 10 w\u2026",
+"why": "No instrument change. Fort Worth adoption tentatively Feb 16, 2027; Legislature convenes Jan 12, 2027; inauguration Jan 19.",
+"cls": "C_campaign/B_regulator",
+"affected": "Texas pipeline; Fort Worth campuses",
+"src": "Bloomberg via Yahoo; City of Fort Worth",
+"url": "https://www.fortworthtexas.gov/departments/city-manager/datacenters"
+},
+{
+"date": "2026-11-08",
+"st": "Multi",
+"headline": "datacentersontheballot.com: no change to any VA/OH/GA/TX entry since Nov 7; all 21 Ohio counts still unoffici\u2026",
+"why": "No certified result yet; Ohio county certification due ~Nov 24.",
+"cls": "A_voter",
+"affected": "Ohio Nov 3 measures",
+"src": "Data Centers on the Ballot",
+"url": "https://datacentersontheballot.com/"
 },
 {
 "date": "2026-11-07",
@@ -221,86 +301,6 @@
 "affected": "Multi-state",
 "src": "CBS News",
 "url": "https://www.cbsnews.com/news/midterm-election-results-data-center-buildout-artificial-intelligence-texas/"
-},
-{
-"date": "2026-11-05",
-"st": "Multi",
-"headline": "Data Centers on the Ballot tracker (daily review)",
-"why": "Ballot measures and candidate pledges; cross-check with official election authorities before treating as binding.",
-"cls": "A voter-driven",
-"affected": "Multi-state",
-"src": "datacentersontheballot.com",
-"url": "https://datacentersontheballot.com/"
-},
-{
-"date": "2026-11-05",
-"st": "TX",
-"headline": "Hinojosa on CNN: \"not that I hate data centers\"; will seek laws and pause activity \"until we have those prote\u2026",
-"why": "Tone softens to conditional/partnership framing; no change on the ladder (still a proposal, no EO until Jan 2027). Scope to permitted or under-construction projects rema\u2026",
-"cls": "C political campaign",
-"affected": "All Texas pipeline; ~25 GW reported under construction and\u2026",
-"src": "The Hill / Reuters",
-"url": "https://thehill.com/homenews/state-watch/6203045-texas-hinojosa-data-centers/"
-},
-{
-"date": "2026-11-05",
-"st": "OH",
-"headline": "Trenton Issue 17: effect on Prologis project under construction unclear; Amazon annexation could be refiled",
-"why": "Grandfathering unresolved; mayor (resigning Jan 1) offers no policy direction. Results unofficial.",
-"cls": "A voter-driven",
-"affected": "Prologis Trenton (~250 MW reported); proposed AWS campus ou\u2026",
-"src": "WCPO",
-"url": "https://www.wcpo.com/news/local-news/butler-county/trenton/trenton-voters-approve-data-center-ban-whats-next-for-amazon-prologis"
-},
-{
-"date": "2026-11-05",
-"st": "OH",
-"headline": "Lame-duck session Nov 10 - Dec 17; Sub. HB 646 recommitted to Senate Energy; advocates urge 12-month moratori\u2026",
-"why": "HB 646 (study commission, water reporting, large-load tariff, >250 MW generation requirement) could move in lame duck; moratorium ask is advocacy only, no sponsor.",
-"cls": "B regulator-driven",
-"affected": "All Ohio projects (prospective)",
-"src": "cleveland.com / Ohio House",
-"url": "https://www.ohiohouse.gov/legislation/136/hb646"
-},
-{
-"date": "2026-11-05",
-"st": "VA",
-"headline": "No confirmed material change; Loudoun formal pause resolution vote remains Nov 17; community marches in Hampt\u2026",
-"why": "Class D opposition without a specific instrument; Loudoun pause already in effect since Sept 15.",
-"cls": "D community opposition",
-"affected": "Loudoun pipeline (pause already effective)",
-"src": "Ground News (WAVY/WDBJ)",
-"url": "https://ground.news/article/va-residents-march-to-demand-pause-on-new-data-centers"
-},
-{
-"date": "2026-11-04",
-"st": "OH",
-"headline": "AP: Acton wins Ohio governor race",
-"why": "Governor-elect campaigned on a 'conditional moratorium'; takes office Jan 2027; legislature remains Republican.",
-"cls": "C political campaign",
-"affected": "Statewide OH unpermitted pipeline",
-"src": "AP",
-"url": "https://apnews.com/article/ohio-governor-race-2026-election-ramaswamy-acton-ee7b1860b0b8905c55df27318755f7e3"
-},
-{
-"date": "2026-11-04",
-"st": "GA",
-"headline": "NBC: Bottoms wins Georgia governor race",
-"why": "Governor-elect pledged statewide pause; told CBS she would sign an executive order.",
-"cls": "C political campaign",
-"affected": "Statewide GA unpermitted pipeline",
-"src": "NBC News",
-"url": "https://www.nbcnews.com/politics/2026-elections/georgia-governor-results"
-},
-{
-"date": "2026-11-04",
-"st": "Multi",
-"headline": "Yahoo Finance: Gas turbine shortage becomes AI's biggest bottleneck",
-"why": "GE Vernova 116 GW backlog, 2031 slots; Siemens Energy 3+ year lead times; relocation does not shorten power wait.",
-"cls": "E infrastructure constraint",
-"affected": "All on-site-generation projects",
-"src": "Yahoo Finance",
-"url": "https://finance.yahoo.com/energy/articles/gas-turbine-shortage-just-became-210000180.html"
 }
 ]
 }

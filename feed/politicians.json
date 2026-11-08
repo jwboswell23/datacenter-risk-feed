@@ -1,7 +1,25 @@
 {
-"updated": "2026-11-07T12:19:21.644816+00:00",
-"run_date": "2026-11-07",
+"updated": "2026-11-08T12:13:59.270549+00:00",
+"run_date": "2026-11-08",
 "rows": [
+{
+"who": "Jackie Woodward",
+"office": "Mayor, Village of Lordstown",
+"st": "OH",
+"party": "nonpartisan",
+"role": "Local permit / zoning authority",
+"tenure": "in_office",
+"weight": 1.0,
+"weight_basis": "Local executive/chair, tier 3: Lordstown = 0.4% of state tracked MW",
+"n": 2,
+"latest_date": "2026-11-07",
+"latest_stance": "-1",
+"avg_30d": -1.0,
+"avg_prior": -2.0,
+"direction": "relaxing (less restrictive)",
+"latest_quote": "I think for some people there is a misconception. We have the moratorium in place as we review data centers more and get guidelines in plac\u2026",
+"latest_url": "https://www.tribtoday.com/news/local-news/2026/11/lordstown-officials-discuss-supreme-court-ruling-on-data-center/"
+},
 {
 "who": "Amy Acton",
 "office": "Governor-elect (takes office Jan 2027)",
@@ -414,24 +432,6 @@
 "avg_prior": -1.0,
 "direction": "new / single data point",
 "latest_quote": "We see what those (contract) terms are and I do not believe that those provide sufficient financial guardrails to protect ratepayers.",
-"latest_url": "https://www.ajc.com/business/2026/08/georgia-power-deal-to-serve-20b-openai-data-center-under-regulators-microscope/"
-},
-{
-"who": "Alicia Johnson",
-"office": "Georgia Public Service Commissioner (Di\u2026",
-"st": "GA",
-"party": "D",
-"role": "State regulator",
-"tenure": "in_office",
-"weight": 2.0,
-"weight_basis": "PSC/PUC commissioner",
-"n": 1,
-"latest_date": "2026-08-13",
-"latest_stance": "-1",
-"avg_30d": "",
-"avg_prior": -1.0,
-"direction": "new / single data point",
-"latest_quote": "Any customer who is requiring this amount of energy should expect an equal amount of rigor and scrutiny.",
 "latest_url": "https://www.ajc.com/business/2026/08/georgia-power-deal-to-serve-20b-openai-data-center-under-regulators-microscope/"
 }
 ]

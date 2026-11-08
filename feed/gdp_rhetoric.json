@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-07T12:19:21.644816+00:00",
-"run_date": "2026-11-07",
+"updated": "2026-11-08T12:13:59.270549+00:00",
+"run_date": "2026-11-08",
 "rows": [
 {
 "st": "TX",
@@ -31,9 +31,9 @@
 "chg_1w": 0.0,
 "n_officials": 5,
 "w_total": 13.5,
-"n_exposed": 77,
+"n_exposed": 78,
 "n_permitted": 29,
-"n_land": 14,
+"n_land": 15,
 "n_contracted": 34,
 "exposed_mw_hi": 19028,
 "exposed_capex_lo": 247.6,
@@ -68,9 +68,9 @@
 {
 "st": "OH",
 "state": "Ohio",
-"index": 30.9,
+"index": 31.9,
 "index_1w": 20.0,
-"chg_1w": 10.0,
+"chg_1w": 12.0,
 "n_officials": 11,
 "w_total": 23.5,
 "n_exposed": 34,
@@ -89,5 +89,5 @@
 ],
 "exposed_stages": "permitted_not_under_construction (20% 12-mo spend), land_controlled_not_permitted (10%), contracted_or_projected (5%)",
 "note": "overlay inputs only; headline GDP model unchanged",
-"as_of_1w": "2026-10-31"
+"as_of_1w": "2026-11-01"
 }

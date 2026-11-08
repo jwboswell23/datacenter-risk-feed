@@ -1,7 +1,24 @@
 {
-"updated": "2026-11-07T12:19:21.644816+00:00",
-"run_date": "2026-11-07",
+"updated": "2026-11-08T12:13:59.270549+00:00",
+"run_date": "2026-11-08",
 "rows": [
+{
+"date": "2026-11-07",
+"who": "Jackie Woodward",
+"office": "Mayor, Village of Lordstown",
+"st": "OH",
+"party": "nonpartisan",
+"role": "Local permit / zoning authority",
+"tenure": "in_office",
+"type": "interview / council remarks reported",
+"quote": "I think for some people there is a misconception. We have the moratorium in place as we review data centers more and get guidelines in place,",
+"stance": "-1",
+"direction": "relaxing (less restrictive)",
+"topic": "local moratorium",
+"src": "Tribune Chronicle",
+"url": "https://www.tribtoday.com/news/local-news/2026/11/lordstown-officials-discuss-supreme-court-ruling-on-data-center/",
+"prec": "exact"
+},
 {
 "date": "2026-11-06",
 "who": "Bill Reineke",
@@ -493,23 +510,6 @@
 "topic": "on-site generation / conditio\u2026",
 "src": "Cardinal News",
 "url": "https://cardinalnews.org/2026/09/30/spanberger-wants-to-see-data-centers-generate-more-power-on-site/",
-"prec": "exact"
-},
-{
-"date": "2026-09-29",
-"who": "Deshundra Jefferson",
-"office": "Chair At-Large, Prince William Board of\u2026",
-"st": "VA",
-"party": "D",
-"role": "Local permit / zoning authority",
-"tenure": "in_office",
-"type": "board meeting remarks",
-"quote": "I don't believe that data centers are an answer to all of our problems. I cannot get on board with this.",
-"stance": "-2",
-"direction": "relaxing (less restrictive)",
-"topic": "project denial",
-"src": "Prince William Times",
-"url": "https://www.princewilliamtimes.com/localnews/updated-county-supervisors-reject-latest-massive-data-center-project-in-rural-gainesville/article_4d128867-32e8-4164-a21c-b15961317719.html",
 "prec": "exact"
 }
 ]

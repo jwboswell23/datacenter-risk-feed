@@ -1,7 +1,73 @@
 {
-"updated": "2026-11-07T12:19:21.644816+00:00",
-"run_date": "2026-11-07",
+"updated": "2026-11-08T12:13:59.270549+00:00",
+"run_date": "2026-11-08",
 "rows": [
+{
+"id": "EV-OH-0266",
+"st": "Ohio",
+"juris": "Ohio (statewide)",
+"cls": "A. Voter-driven",
+"status": "1 Rumored or reported",
+"summary": "Conserve Ohio is collecting signatures for a constitutional amendment banning data centers above 25 MW; organizers report more than 150,000 signature\u2026",
+"p_binding": "10",
+"next_date": "2027-07-01",
+"updated": "2026-11-08"
+},
+{
+"id": "EV-OH-0258",
+"st": "Ohio",
+"juris": "Village of Lordstown, Trumbull County",
+"cls": "B. Regulator-driven",
+"status": "5 Adopted by the relevant government",
+"summary": "After repealing its data-center ban, Lordstown adopted a moratorium on data-center permits and applications. The council later extended the moratoriu\u2026",
+"p_binding": "85",
+"next_date": "2026-12-31, reported end of e\u2026",
+"updated": "2026-11-08"
+},
+{
+"id": "EV-GE-0168",
+"st": "Georgia",
+"juris": "Long County",
+"cls": "B. Regulator-driven",
+"status": "2 Proposed by an official or legislator",
+"summary": "Long County Planning and Zoning Commission discussed on Oct 19 whether to recommend a temporary moratorium to county commissioners; a public hearing\u2026",
+"p_binding": "65",
+"next_date": "2026-11-16",
+"updated": "2026-11-08"
+},
+{
+"id": "EV-GE-0167",
+"st": "Georgia",
+"juris": "City of Madison (Morgan County)",
+"cls": "B. Regulator-driven",
+"status": "5 Adopted by the relevant government",
+"summary": "City Council voted unanimously on July 13, 2026 to pause data-center development in the city until Nov 30, 2026, mirroring the county pause; purpose\u2026",
+"p_binding": "100",
+"next_date": "2026-11-30",
+"updated": "2026-11-08"
+},
+{
+"id": "EV-GE-0166",
+"st": "Georgia",
+"juris": "Morgan County",
+"cls": "B. Regulator-driven",
+"status": "5 Adopted by the relevant government",
+"summary": "Board of Commissioners approved a 120-day moratorium on data-center applications on July 7, 2026 to allow staff to draft a data-center ordinance (Jul\u2026",
+"p_binding": "100",
+"next_date": "2026-11-19",
+"updated": "2026-11-08"
+},
+{
+"id": "EV-GE-0077",
+"st": "Georgia",
+"juris": "DeKalb County",
+"cls": "B. Regulator-driven",
+"status": "5 Adopted by the relevant government",
+"summary": "A resolution extended DeKalb County's data center moratorium through March 30, 2027.",
+"p_binding": "85",
+"next_date": "2026-11-10",
+"updated": "2026-11-08"
+},
 {
 "id": "EV-VI-0475",
 "st": "Virginia",
@@ -263,72 +329,6 @@
 "status": "7 Blocked, withdrawn, expired, or overturned",
 "summary": "The Board of Supervisors unanimously denied the rezoning application for the proposed Dulles South data-center campus. The application sought to rezo\u2026",
 "p_binding": "90",
-"next_date": "",
-"updated": "2026-11-05"
-},
-{
-"id": "EV-VI-0464",
-"st": "Virginia",
-"juris": "Prince William County",
-"cls": "D. Community opposition",
-"status": "3 Introduced as legislation or ordinance",
-"summary": "Environmental and community groups urged the Board to stop further legal efforts and spending to revive the PW Digital Gateway, effectively asking th\u2026",
-"p_binding": "5",
-"next_date": "",
-"updated": "2026-11-05"
-},
-{
-"id": "EV-VI-0463",
-"st": "Virginia",
-"juris": "Prince William County",
-"cls": "D. Community opposition",
-"status": "3 Introduced as legislation or ordinance",
-"summary": "Residents launched a nonbinding petition asking the Board to defer discretionary data-center applications for 12 months while the county updates stan\u2026",
-"p_binding": "5",
-"next_date": "",
-"updated": "2026-11-05"
-},
-{
-"id": "EV-VI-0462",
-"st": "Virginia",
-"juris": "Prince William County",
-"cls": "B. Regulator-driven",
-"status": "1 Rumored or reported",
-"summary": "A potential one-year county moratorium on all data-center applications was raised in public discussion. No formal introduction, sponsor, or Board vot\u2026",
-"p_binding": "5",
-"next_date": "",
-"updated": "2026-11-05"
-},
-{
-"id": "EV-VI-0461",
-"st": "Virginia",
-"juris": "Prince William County",
-"cls": "B. Regulator-driven",
-"status": "4 Approved by committee or planning commission",
-"summary": "The Planning Commission recommended a 500-foot buffer and a 120-day grace period for a separate data-center setback proposal. The recommendation was\u2026",
-"p_binding": "25",
-"next_date": "Planning Commission hearing t\u2026",
-"updated": "2026-11-05"
-},
-{
-"id": "EV-VI-0460",
-"st": "Virginia",
-"juris": "Prince William County",
-"cls": "B. Regulator-driven",
-"status": "5 Adopted by the relevant government",
-"summary": "The Board of County Supervisors adopted a countywide zoning text amendment that ends by-right data-center development going forward. Future projects\u2026",
-"p_binding": "95",
-"next_date": "End of the 90-day grace perio\u2026",
-"updated": "2026-11-05"
-},
-{
-"id": "EV-VI-0459",
-"st": "Virginia",
-"juris": "Northern Virginia",
-"cls": "E. Infrastructure constraint",
-"status": "Unknown / unverified",
-"summary": "Northern Virginia is reported as the world's largest data-center market, with 11,800 MW of connected capacity. This is a market-capacity report, not\u2026",
-"p_binding": "0",
 "next_date": "",
 "updated": "2026-11-05"
 }

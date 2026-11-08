@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-07T12:19:21.644816+00:00",
-"run_date": "2026-11-07",
+"updated": "2026-11-08T12:13:59.270549+00:00",
+"run_date": "2026-11-08",
 "rows": [
 {
 "state": "Texas",
@@ -56,13 +56,13 @@
 {
 "state": "Virginia",
 "abbr": "VA",
-"pipeline_n": 126,
+"pipeline_n": 127,
 "pipeline_gw_lo": 26.3,
 "pipeline_gw_hi": 28.6,
 "direct_n": 31,
 "direct_gw_lo": 4.4,
 "direct_gw_hi": 5.2,
-"potential_n": 16,
+"potential_n": 17,
 "potential_gw_lo": 2.1,
 "potential_gw_hi": 2.1,
 "shared_n": 77,
@@ -80,7 +80,7 @@
 "exp_incr_cost_hi_bn": 15.3,
 "capex_est_lo": 412,
 "capex_est_hi": 491,
-"reg7_n": 21,
+"reg7_n": 22,
 "reg7_gw": 2.1,
 "voter7_n": 0,
 "voter7_gw": 0.0,
