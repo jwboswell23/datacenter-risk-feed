@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-08T12:13:59.270549+00:00",
-"run_date": "2026-11-08",
+"updated": "2026-11-09T11:36:43.512930+00:00",
+"run_date": "2026-11-09",
 "rows": [
 {
 "st": "TX",
@@ -47,11 +47,11 @@
 {
 "st": "GA",
 "state": "Georgia",
-"index": 24.4,
-"index_1w": 14.6,
-"chg_1w": 0.0,
-"n_officials": 8,
-"w_total": 19.5,
+"index": 28.9,
+"index_1w": 26.7,
+"chg_1w": 3.3,
+"n_officials": 10,
+"w_total": 22.5,
 "n_exposed": 58,
 "n_permitted": 24,
 "n_land": 7,
@@ -89,5 +89,5 @@
 ],
 "exposed_stages": "permitted_not_under_construction (20% 12-mo spend), land_controlled_not_permitted (10%), contracted_or_projected (5%)",
 "note": "overlay inputs only; headline GDP model unchanged",
-"as_of_1w": "2026-11-01"
+"as_of_1w": "2026-11-02"
 }

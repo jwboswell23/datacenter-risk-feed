@@ -1,5 +1,5 @@
 st,state,index,index_1w,chg_1w,n_officials,w_total,n_exposed,n_permitted,n_land,n_contracted,exposed_mw_hi,exposed_capex_lo,exposed_capex_hi,b_lo,b_hi,pdelay_now,headline_delayed_lo,headline_delayed_hi
 TX,Texas,21.4,9.1,11.4,6,14.0,181,38,17,126,58036,651.6,836.6,51.45,66.95,50.5,25.53,33.52
 VA,Virginia,22.2,22.2,0.0,5,13.5,78,29,15,34,19028,247.6,297.8,16.46,20.27,55.2,8.2,9.66
-GA,Georgia,24.4,14.6,0.0,8,19.5,58,24,7,27,14174,159.3,187.1,21.53,25.0,41.8,8.11,9.34
+GA,Georgia,28.9,26.7,3.3,10,22.5,58,24,7,27,14174,159.3,187.1,21.53,25.0,41.8,8.11,9.34
 OH,Ohio,31.9,20.0,12.0,11,23.5,34,4,5,25,14528,81.2,88.6,6.86,7.27,49.6,2.94,3.17

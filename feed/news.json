@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-08T12:13:59.270549+00:00",
-"run_date": "2026-11-08",
+"updated": "2026-11-09T11:36:43.512930+00:00",
+"run_date": "2026-11-09",
 "rows": [
 {
 "date": "2026-11-09",
@@ -11,6 +11,26 @@
 "affected": "All large-load projects nationally",
 "src": "ENR / McGuireWoods",
 "url": "https://www.enr.com/articles/64174-senate-leaders-tee-up-vote-on-permitting-reform-after-midterms"
+},
+{
+"date": "2026-11-09",
+"st": "Multi",
+"headline": "Weekly sweep Nov 2-9: no confirmed material campus-level change beyond items already logged daily; datacenter\u2026",
+"why": "All verified items this week (Effingham tabling to Nov 17, Loudoun pause vote Nov 17, Ohio 21-for-21 local measures, Hinojosa/Bottoms/Acton pause pledges, ERCOT audit se\u2026",
+"cls": "B/C/D",
+"affected": "No change to campus stages or scores this week; next dated\u2026",
+"src": "Weekly sweep (multiple sources verified by fetch)",
+"url": "https://datacenterrecord.org/states/ga/statements"
+},
+{
+"date": "2026-11-09",
+"st": "GA",
+"headline": "Effingham commissioners Burdette and Helmly put on record conditions for Project Camellia site plan (berm, we\u2026",
+"why": "Local permitting authority for the OpenAI/Octans Effingham campus is now attaching explicit, quotable conditions; a county moratorium discussion on Nov 17 would be stage\u2026",
+"cls": "B/D",
+"affected": "PRJ Effingham Project Camellia (OpenAI/Octans) - site plan\u2026",
+"src": "Statesboro Herald; WTOC",
+"url": "https://www.statesboroherald.com/local/effingham-delays-vote-on-site-plan-for-openais-20-billion-planned-data-center/"
 },
 {
 "date": "2026-11-08",
@@ -281,26 +301,6 @@
 "affected": "Georgia Power large loads",
 "src": "AJC",
 "url": "https://www.ajc.com/business/2026/11/democrats-psc/"
-},
-{
-"date": "2026-11-05",
-"st": "GA",
-"headline": "WTOC: Effingham County delays vote on OpenAI data-center site plan",
-"why": "Local approval slip for a hyperscale campus.",
-"cls": "D community opposition",
-"affected": "Effingham County (OpenAI/Stargate site)",
-"src": "WTOC",
-"url": "https://www.wtoc.com/2026/11/05/effingham-county-delays-vote-openai-data-center-site-plan/"
-},
-{
-"date": "2026-11-05",
-"st": "Multi",
-"headline": "CBS: Midterm results will slow data-center buildout, experts predict",
-"why": "Bottoms executive-order commitment; Texas and Ohio outlook.",
-"cls": "C political campaign",
-"affected": "Multi-state",
-"src": "CBS News",
-"url": "https://www.cbsnews.com/news/midterm-election-results-data-center-buildout-artificial-intelligence-texas/"
 }
 ]
 }
