@@ -1,7 +1,18 @@
 {
-"updated": "2026-11-09T11:36:43.512930+00:00",
+"updated": "2026-11-09T12:09:17.460960+00:00",
 "run_date": "2026-11-09",
 "rows": [
+{
+"id": "EV-TE-0308",
+"st": "Texas",
+"juris": "Electric Reliability Council of Texas (\u2026",
+"cls": "E. Infrastructure constraint",
+"status": "3 Introduced as legislation or ordinance",
+"summary": "ERCOT introduced a special Batch Zero process for large-load customers requiring more than 75 MW. Customers must provide additional information and d\u2026",
+"p_binding": "75",
+"next_date": "No review outcome date stated",
+"updated": "2026-11-09"
+},
 {
 "id": "EV-OH-0266",
 "st": "Ohio",
@@ -319,17 +330,6 @@
 "summary": "The Gainesville District Rural Communities Small Area Plan, spearheaded by Supervisor George Stewart, was tabled until later in fall 2026. The report\u2026",
 "p_binding": "5",
 "next_date": "Later fall 2026; exact date n\u2026",
-"updated": "2026-11-05"
-},
-{
-"id": "EV-VI-0465",
-"st": "Virginia",
-"juris": "Prince William County",
-"cls": "B. Regulator-driven",
-"status": "7 Blocked, withdrawn, expired, or overturned",
-"summary": "The Board of Supervisors unanimously denied the rezoning application for the proposed Dulles South data-center campus. The application sought to rezo\u2026",
-"p_binding": "90",
-"next_date": "",
 "updated": "2026-11-05"
 }
 ]
