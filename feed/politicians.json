@@ -1,7 +1,25 @@
 {
-"updated": "2026-11-09T12:09:17.460960+00:00",
-"run_date": "2026-11-09",
+"updated": "2026-11-10T13:54:44.313425+00:00",
+"run_date": "2026-11-10",
 "rows": [
+{
+"who": "Joan Huffman",
+"office": "State Senator (R-Houston); Chair, Senat\u2026",
+"st": "TX",
+"party": "Republican",
+"role": "State legislature",
+"tenure": "current",
+"weight": 2.0,
+"weight_basis": "Committee chair",
+"n": 1,
+"latest_date": "2026-11-09",
+"latest_stance": "-1",
+"avg_30d": -1.0,
+"avg_prior": "",
+"direction": "new / single data point",
+"latest_quote": "Texas should welcome investment. It should not write a blank check. ... If a project makes sense in Texas, it should make sense without a m\u2026",
+"latest_url": "https://www.fox26houston.com/news/texas-state-senator-joan-huffman-files-legislation-repeal-data-center-sales-tax-exemptions"
+},
 {
 "who": "Jackie Woodward",
 "office": "Mayor, Village of Lordstown",
@@ -37,6 +55,24 @@
 "direction": "relaxing (less restrictive)",
 "latest_quote": "We put out a conditional moratorium ... until we can protect Ohioans' pocketbooks, until we can protect our water, our air.",
 "latest_url": "https://www.whio.com/news/local/governor-elect-amy-acton-opposes-bringing-data-centers-ohio-residents-react/R4H5TMHFERFQNAFDGS2RUOZZB4/"
+},
+{
+"who": "Keisha Lance Bottoms",
+"office": "Governor-elect (takes office Jan 2027)",
+"st": "GA",
+"party": "Democratic",
+"role": "State executive",
+"tenure": "incoming",
+"weight": 5.0,
+"weight_basis": "Governor / Governor-elect (veto, executive orders, agency appointment\u2026",
+"n": 4,
+"latest_date": "2026-11-06",
+"latest_stance": "-2",
+"avg_30d": -2.0,
+"avg_prior": -2.0,
+"direction": "steady",
+"latest_quote": "I'm certain that all things related to data centers will be on the table.",
+"latest_url": "https://www.gpb.org/news/2026/11/09/in-georgia-data-centers-may-be-getting-new-outlook"
 },
 {
 "who": "Bill Reineke",
@@ -199,24 +235,6 @@
 "direction": "new / single data point",
 "latest_quote": "Six months ago, I probably would've said absolutely not ... I've really changed. Now does that mean that it's the right fit for Dade County\u2026",
 "latest_url": "https://www.local3news.com/local-news/dade-county-commissioner-calls-for-90-day-data-center-moratorium/article_d92fddbf-afd4-45ef-aafd-1d974ffe0fd6.html"
-},
-{
-"who": "Keisha Lance Bottoms",
-"office": "Governor-elect (takes office Jan 2027)",
-"st": "GA",
-"party": "D",
-"role": "State executive",
-"tenure": "incoming",
-"weight": 5.0,
-"weight_basis": "Governor / Governor-elect (veto, executive orders, agency appointment\u2026",
-"n": 3,
-"latest_date": "2026-11-04",
-"latest_stance": "-2",
-"avg_30d": -2.0,
-"avg_prior": -2.0,
-"direction": "steady",
-"latest_quote": "[I would immediately] sign an executive order for that pause, and then we will determine what else we need to do administratively to take t\u2026",
-"latest_url": "https://www.cbsnews.com/news/midterm-election-results-data-center-buildout-artificial-intelligence-texas/"
 },
 {
 "who": "Shelia Edwards",
@@ -415,24 +433,6 @@
 "direction": "relaxing (less restrictive)",
 "latest_quote": "Data centers don't belong near homes, schools, national parks or any other culturally or environmentally sensitive areas. I have the scars\u2026",
 "latest_url": "https://www.princewilliamtimes.com/localnews/prince-william-county-supervisors-rake-in-316k-in-campaign-cash/article_85e22412-02cb-482b-b9f6-9a1af7f865a4.html"
-},
-{
-"who": "Matt Huffman",
-"office": "Speaker, Ohio House of Representatives",
-"st": "OH",
-"party": "R",
-"role": "State legislature",
-"tenure": "in_office",
-"weight": 3.0,
-"weight_basis": "Chamber leader (controls calendar and committees)",
-"n": 2,
-"latest_date": "2026-10-02",
-"latest_stance": "-1",
-"avg_30d": "",
-"avg_prior": -0.5,
-"direction": "ramping up (more restrictive)",
-"latest_quote": "We can't allow big users of electricity, and data centers are the biggest, to demand all of the supply and drive up the supply for everybod\u2026",
-"latest_url": "https://www.nbc4i.com/news/local-news/regional-electricity-supplier-delays-plans-to-add-resources/"
 }
 ]
 }

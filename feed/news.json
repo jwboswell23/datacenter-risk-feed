@@ -1,16 +1,16 @@
 {
-"updated": "2026-11-09T12:09:17.460960+00:00",
-"run_date": "2026-11-09",
+"updated": "2026-11-10T13:54:44.313425+00:00",
+"run_date": "2026-11-10",
 "rows": [
 {
 "date": "2026-11-09",
 "st": "Multi",
-"headline": "U.S. Senate cloture vote on BAAJA (S. 5653 via H.R. 2347) ~5:30 pm Nov 9; needs 60",
-"why": "Bill would require covered loads of 20 MW or more to pay full incremental grid costs; applies in all four states if enacted. Stage: introduced, not passed.",
+"headline": "U.S. Senate invoked cloture 73-25 on motion to proceed to BAAJA (H.R. 2347 vehicle), 9 Nov; final Senate pass\u2026",
+"why": "Bill would require covered loads of 20 MW or more to pay full incremental grid costs and streamline NEPA/transmission permitting; applies in all four states if enacted.\u2026",
 "cls": "B regulator-driven",
 "affected": "All large-load projects nationally",
-"src": "ENR / McGuireWoods",
-"url": "https://www.enr.com/articles/64174-senate-leaders-tee-up-vote-on-permitting-reform-after-midterms"
+"src": "U.S. Senate Daily Press; Politico",
+"url": "https://www.dailypress.senate.gov/monday-november-9-2026/"
 },
 {
 "date": "2026-11-09",
@@ -31,6 +31,46 @@
 "affected": "PRJ Effingham Project Camellia (OpenAI/Octans) - site plan\u2026",
 "src": "Statesboro Herald; WTOC",
 "url": "https://www.statesboroherald.com/local/effingham-delays-vote-on-site-plan-for-openais-20-billion-planned-data-center/"
+},
+{
+"date": "2026-11-09",
+"st": "TX",
+"headline": "Texas 2027 bill pre-filing opens: SB 293 (Huffman, Finance chair; majority of Senate as joint authors) would\u2026",
+"why": "First concrete legislative instruments of the post-election Texas backlash; cost (not siting) exposure for all Texas campuses if SB 293 passes; ladder 3 (introduced), se\u2026",
+"cls": "B regulator-driven",
+"affected": "All Texas campuses (cost); prospective siting for post-Sept\u2026",
+"src": "Texas Legislature Online; FOX 26; Dallas Morning News",
+"url": "https://capitol.texas.gov/tlodocs/90R/billtext/html/SB00293I.htm"
+},
+{
+"date": "2026-11-09",
+"st": "TX",
+"headline": "SpaceX proposes $24 bn gas-fired power plant and super-compute facility on 444 acres at Starbase (Cameron Cou\u2026",
+"why": "New behind-the-meter hyperscale project sidesteps the ERCOT energization queue; tests whether the TCEQ permit pause and 2027 incentive repeal bills reach on-site-generat\u2026",
+"cls": "E infrastructure constraint",
+"affected": "PRJ-TE-0860 (new)",
+"src": "City of Starbase notice; Reuters; Bloomberg",
+"url": "https://www.starbase.texas.gov/"
+},
+{
+"date": "2026-11-09",
+"st": "GA",
+"headline": "Second Effingham lawsuit (State Court, filed ~6 Nov) alleges civil racketeering/conspiracy by county official\u2026",
+"why": "Adds litigation pressure a week before the 17 Nov site-plan vote and moratorium discussion; damages suit does not itself seek to void approvals.",
+"cls": "D community opposition",
+"affected": "PRJ-GE-0167 Project Camellia",
+"src": "The Current; WSB-TV",
+"url": "https://thecurrentga.org/2026/11/09/new-lawsuit-alleges-conspiracy-in-effingham-county-openai-land-sale/"
+},
+{
+"date": "2026-11-09",
+"st": "OH",
+"headline": "Twin Township (Darke County) trustees adopt data-center definitions; 12-month moratorium vote set for 4 Dec (\u2026",
+"why": "Continues the post-election wave of pre-emptive township moratoria; no capacity affected.",
+"cls": "B regulator-driven",
+"affected": "None",
+"src": "WHIO; WDTN",
+"url": "https://www.whio.com/news/local/township-prepares-vote-data-center-moratorium/XNZ366JE45H6VDZWKRTSM56NHE/"
 },
 {
 "date": "2026-11-08",
@@ -261,46 +301,6 @@
 "affected": "ERCOT large loads >=75 MW",
 "src": "Utility Dive",
 "url": "https://www.utilitydive.com/news/texas-data-center-pause-puts-us-pipeline-risk-of-delay-bnef/827185/"
-},
-{
-"date": "2026-11-05",
-"st": "TX",
-"headline": "DCK: ERCOT tracking ~474.7 GW of large-load requests (90% data centers)",
-"why": "Queue scale vs 91 GW peak; requests are not committed demand.",
-"cls": "E infrastructure constraint",
-"affected": "ERCOT queue",
-"src": "Data Center Knowledge",
-"url": "https://www.datacenterknowledge.com/energy-power-supply/doe-retreat-on-transmission-corridors-tests-the-case-for-building-ahead"
-},
-{
-"date": "2026-11-05",
-"st": "TX",
-"headline": "Fort Worth: data-center zoning hearing Nov 10; council vote scheduled Feb 16, 2027",
-"why": "City process page lists public hearing and vote dates for data-center zoning amendments.",
-"cls": "B regulator-driven",
-"affected": "Fort Worth projects",
-"src": "City of Fort Worth",
-"url": "https://www.fortworthtexas.gov/departments/city-manager/datacenters"
-},
-{
-"date": "2026-11-05",
-"st": "OH",
-"headline": "WLWT: Southwest Ohio voters approve data-center bans, reject zoning",
-"why": "Local ballot outcomes (unofficial) on charter bans / zoning referenda.",
-"cls": "A voter-driven",
-"affected": "Townships/municipalities in SW Ohio",
-"src": "WLWT",
-"url": "https://www.wlwt.com/article/ohio-midterm-elections-data-center-bans-zoning-reject/74331616"
-},
-{
-"date": "2026-11-05",
-"st": "GA",
-"headline": "AJC: Democrats take Georgia PSC seats",
-"why": "PSC composition shift affects Georgia Power large-load cost-allocation and certification decisions.",
-"cls": "B regulator-driven",
-"affected": "Georgia Power large loads",
-"src": "AJC",
-"url": "https://www.ajc.com/business/2026/11/democrats-psc/"
 }
 ]
 }

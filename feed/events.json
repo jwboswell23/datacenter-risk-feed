@@ -1,7 +1,95 @@
 {
-"updated": "2026-11-09T12:09:17.460960+00:00",
-"run_date": "2026-11-09",
+"updated": "2026-11-10T13:54:44.313425+00:00",
+"run_date": "2026-11-10",
 "rows": [
+{
+"id": "EV-VI-0476",
+"st": "Virginia",
+"juris": "Fauquier County",
+"cls": "B. Regulator-driven",
+"status": "6 Effective and enforceable",
+"summary": "BACKFILL (not new this run). The Board of Supervisors adopted 4-1 (Culbertson no) a zoning text amendment ending by-right data centers, removing them\u2026",
+"p_binding": "100",
+"next_date": "",
+"updated": "2026-11-10"
+},
+{
+"id": "EV-VI-0408",
+"st": "Virginia",
+"juris": "Botetourt County Circuit Court",
+"cls": "D. Community opposition",
+"status": "3 Introduced as legislation or ordinance",
+"summary": "Robert Dallas filed suit alleging that Botetourt County violated Virginia FOIA when approving the Google data-center performance agreement. He asks t\u2026",
+"p_binding": "25",
+"next_date": "2026-11-10 (circuit court hea\u2026",
+"updated": "2026-11-10"
+},
+{
+"id": "EV-TE-0386",
+"st": "Texas",
+"juris": "Texas Legislature, 90th Regular Session\u2026",
+"cls": "B. Regulator-driven",
+"status": "3 Introduced as legislation or ordinance",
+"summary": "Bill pre-filing for the 2027 session opened 9 November with at least a dozen data-center bills from both parties: four House sales-tax-exemption repe\u2026",
+"p_binding": "50",
+"next_date": "2027-01-12",
+"updated": "2026-11-10"
+},
+{
+"id": "EV-TE-0385",
+"st": "Texas",
+"juris": "Texas Legislature (House), 90th Regular\u2026",
+"cls": "B. Regulator-driven",
+"status": "3 Introduced as legislation or ordinance",
+"summary": "Rep.-elect Armin Mizani (R-Keller, HD 98) pre-filed HB 928: no person may construct a data center inside a municipality unless the governing body vot\u2026",
+"p_binding": "30",
+"next_date": "2027-01-12",
+"updated": "2026-11-10"
+},
+{
+"id": "EV-TE-0384",
+"st": "Texas",
+"juris": "Texas Legislature (Senate), 90th Regula\u2026",
+"cls": "B. Regulator-driven",
+"status": "3 Introduced as legislation or ordinance",
+"summary": "On the first day of pre-filing for the 2027 session, Senate Finance Chair Joan Huffman (R-Houston) filed SB 293 repealing the state sales and use tax\u2026",
+"p_binding": "55",
+"next_date": "2027-01-12",
+"updated": "2026-11-10"
+},
+{
+"id": "EV-OH-0267",
+"st": "Ohio",
+"juris": "Twin Township, Darke County",
+"cls": "B. Regulator-driven",
+"status": "2 Proposed by an official or legislator",
+"summary": "At a 9 November meeting attended by about 100 residents, Twin Township trustees approved proposed data-center regulations (definitions) described as\u2026",
+"p_binding": "75",
+"next_date": "2026-12-04",
+"updated": "2026-11-10"
+},
+{
+"id": "EV-GE-0169",
+"st": "Georgia",
+"juris": "Effingham County State Court",
+"cls": "D. Community opposition",
+"status": "3 Introduced as legislation or ordinance",
+"summary": "Three residents filed a second lawsuit (reported filed 6 November) in Effingham County State Court alleging that officials, the development authority\u2026",
+"p_binding": "10",
+"next_date": "2026-11-17",
+"updated": "2026-11-10"
+},
+{
+"id": "EV-GE-0053",
+"st": "Georgia",
+"juris": "Camden County",
+"cls": "B. Regulator-driven",
+"status": "5 Adopted by the relevant government",
+"summary": "The Board of Commissioners adopted a six-month moratorium on data centers in the unincorporated county. The ordinance excluded sections 4, 5, 6, and\u2026",
+"p_binding": "50",
+"next_date": "Verify expiry/extension with\u2026",
+"updated": "2026-11-10"
+},
 {
 "id": "EV-TE-0308",
 "st": "Texas",
@@ -242,94 +330,6 @@
 "summary": "The circuit court voided Prince William County\u2019s Digital Gateway rezoning after finding public-notice violations. The Virginia Court of Appeals later\u2026",
 "p_binding": "85",
 "next_date": "Potential Virginia Supreme Co\u2026",
-"updated": "2026-11-05"
-},
-{
-"id": "EV-VI-0473",
-"st": "Virginia",
-"juris": "U.S. Army Corps of Engineers",
-"cls": "B. Regulator-driven",
-"status": "2 Proposed by an official or legislator",
-"summary": "The Army Corps of Engineers reportedly issued a notice soliciting public comment on Google's proposed Botetourt County campus, described as three dat\u2026",
-"p_binding": "15",
-"next_date": "",
-"updated": "2026-11-05"
-},
-{
-"id": "EV-VI-0472",
-"st": "Virginia",
-"juris": "Supreme Court of Virginia",
-"cls": "B. Regulator-driven",
-"status": "Court ruling",
-"summary": "A news article reports that Loudoun County Attorney Leo Rogers told the Board the Supreme Court of Virginia had determined that local moratoria are g\u2026",
-"p_binding": "55",
-"next_date": "",
-"updated": "2026-11-05"
-},
-{
-"id": "EV-VI-0471",
-"st": "Virginia",
-"juris": "Suffolk",
-"cls": "B. Regulator-driven",
-"status": "2 Proposed by an official or legislator",
-"summary": "City staff circulated an unfinished draft of possible data-center regulations. Reported draft provisions included a council-approved permit, limits t\u2026",
-"p_binding": "25",
-"next_date": "",
-"updated": "2026-11-05"
-},
-{
-"id": "EV-VI-0470",
-"st": "Virginia",
-"juris": "Suffolk",
-"cls": "B. Regulator-driven",
-"status": "5 Adopted by the relevant government",
-"summary": "City Council reportedly amended the Unified Development Ordinance to prohibit data centers in every zoning district. The reported definition covers p\u2026",
-"p_binding": "80",
-"next_date": "",
-"updated": "2026-11-05"
-},
-{
-"id": "EV-VI-0469",
-"st": "Virginia",
-"juris": "Suffolk",
-"cls": "B. Regulator-driven",
-"status": "5 Adopted by the relevant government",
-"summary": "City Council approved a temporary moratorium on data-center projects while the city develops rules and restrictions. Earlier reporting said Council w\u2026",
-"p_binding": "70",
-"next_date": "",
-"updated": "2026-11-05"
-},
-{
-"id": "EV-VI-0468",
-"st": "Virginia",
-"juris": "Stafford County",
-"cls": "E. Infrastructure constraint",
-"status": "Unknown / unverified",
-"summary": "A report describes increased data-center interest as Northern Virginia markets tighten, bringing potential siting and infrastructure debates to Staff\u2026",
-"p_binding": "0",
-"next_date": "",
-"updated": "2026-11-05"
-},
-{
-"id": "EV-VI-0467",
-"st": "Virginia",
-"juris": "Richmond",
-"cls": "E. Infrastructure constraint",
-"status": "Unknown / unverified",
-"summary": "A 900 MW data-center project is reported to receive power in three 300 MW phases through 2033. The source does not describe a regulatory decision, ta\u2026",
-"p_binding": "0",
-"next_date": "",
-"updated": "2026-11-05"
-},
-{
-"id": "EV-VI-0466",
-"st": "Virginia",
-"juris": "Prince William County",
-"cls": "B. Regulator-driven",
-"status": "Unknown / unverified",
-"summary": "The Gainesville District Rural Communities Small Area Plan, spearheaded by Supervisor George Stewart, was tabled until later in fall 2026. The report\u2026",
-"p_binding": "5",
-"next_date": "Later fall 2026; exact date n\u2026",
 "updated": "2026-11-05"
 }
 ]

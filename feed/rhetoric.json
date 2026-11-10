@@ -1,7 +1,24 @@
 {
-"updated": "2026-11-09T12:09:17.460960+00:00",
-"run_date": "2026-11-09",
+"updated": "2026-11-10T13:54:44.313425+00:00",
+"run_date": "2026-11-10",
 "rows": [
+{
+"date": "2026-11-09",
+"who": "Joan Huffman",
+"office": "State Senator (R-Houston); Chair, Senat\u2026",
+"st": "TX",
+"party": "Republican",
+"role": "State legislature",
+"tenure": "current",
+"type": "press release (bill filing)",
+"quote": "Texas should welcome investment. It should not write a blank check. ... If a project makes sense in Texas, it should make sense without a multi-billion-dollar subsidy.",
+"stance": "-1",
+"direction": "new / single data point",
+"topic": "Tax incentives; cost to state",
+"src": "FOX 26 Houston (reproducing\u2026",
+"url": "https://www.fox26houston.com/news/texas-state-senator-joan-huffman-files-legislation-repeal-data-center-sales-tax-exemptions",
+"prec": "exact"
+},
 {
 "date": "2026-11-07",
 "who": "Jackie Woodward",
@@ -103,6 +120,23 @@
 "src": "WHIO",
 "url": "https://www.whio.com/news/local/governor-elect-amy-acton-opposes-bringing-data-centers-ohio-residents-react/R4H5TMHFERFQNAFDGS2RUOZZB4/",
 "prec": "exact"
+},
+{
+"date": "2026-11-06",
+"who": "Keisha Lance Bottoms",
+"office": "Governor-elect (takes office Jan 2027)",
+"st": "GA",
+"party": "Democratic",
+"role": "State executive",
+"tenure": "incoming",
+"type": "remarks to press (state Capitol)",
+"quote": "I'm certain that all things related to data centers will be on the table.",
+"stance": "-2",
+"direction": "steady",
+"topic": "Tax incentives review; pause",
+"src": "Georgia Public Broadcasting",
+"url": "https://www.gpb.org/news/2026/11/09/in-georgia-data-centers-may-be-getting-new-outlook",
+"prec": "exact (Friday 6 Nov per GPB)"
 },
 {
 "date": "2026-11-05",
@@ -477,40 +511,6 @@
 "src": "Prince William Times",
 "url": "https://www.princewilliamtimes.com/localnews/prince-william-county-supervisors-rake-in-316k-in-campaign-cash/article_85e22412-02cb-482b-b9f6-9a1af7f865a4.html",
 "prec": "approx"
-},
-{
-"date": "2026-10-22",
-"who": "Gina Hinojosa",
-"office": "Governor-elect (takes office Jan 2027)",
-"st": "TX",
-"party": "D",
-"role": "State executive",
-"tenure": "incoming",
-"type": "direct quote",
-"quote": "When I am governor I will issue a moratorium \u2014 a ban \u2014 on all data center approvals until laws can be passed by the Legislature to protect Texans.",
-"stance": "-2",
-"direction": "relaxing (less restrictive)",
-"topic": "moratorium",
-"src": "Texas Tribune",
-"url": "https://www.texastribune.org/2026/11/04/data-center-texas-pause-gina-hinojosa-governor-policies/",
-"prec": "exact"
-},
-{
-"date": "2026-10-20",
-"who": "Keisha Lance Bottoms",
-"office": "Governor-elect (takes office Jan 2027)",
-"st": "GA",
-"party": "D",
-"role": "State executive",
-"tenure": "incoming",
-"type": "direct quote",
-"quote": "Georgia is currently No. 1 in the country for data centers. We need to pause.",
-"stance": "-2",
-"direction": "steady",
-"topic": "pause",
-"src": "WTOC",
-"url": "https://www.wtoc.com/2026/10/20/bottoms-focuses-campaign-affordability-calls-data-center-pause/",
-"prec": "exact"
 }
 ]
 }
