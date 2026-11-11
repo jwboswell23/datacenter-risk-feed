@@ -1,94 +1,17 @@
 {
-"updated": "2026-11-10T13:54:44.313425+00:00",
-"run_date": "2026-11-10",
+"updated": "2026-11-11T12:17:35.674325+00:00",
+"run_date": "2026-11-11",
 "rows": [
 {
-"date": "2026-11-10",
-"st": "Texas",
-"county": "Tarrant",
-"id": "PRJ-TE-0595",
-"name": "Black Mountain southeast Fort Worth dat\u2026",
-"catalyst": "First public hearing in Fort Worth's legal process for a possible data-center moratorium; it is a procedural\u2026",
+"date": "2026-11-16",
+"st": "Virginia",
+"county": "Botetourt County",
+"id": "PRJ-VI-0090",
+"name": "Google Botetourt Center at Greenfield D\u2026",
+"catalyst": "Botetourt Circuit Court hearing resumes (pleas in bar; injunction request)",
 "mx": 7,
-"comp": 5.2,
-"mw_hi": 0
-},
-{
-"date": "2026-11-10",
-"st": "Texas",
-"county": "Tarrant",
-"id": "PRJ-TE-0592",
-"name": "CyrusOne Fort Worth campus",
-"catalyst": "Fort Worth Council work session and first public hearing in the proposed moratorium process; these are proced\u2026",
-"mx": 7,
-"comp": 4.6,
-"mw_hi": 200
-},
-{
-"date": "2026-11-10",
-"st": "Texas",
-"county": "Tarrant",
-"id": "PRJ-TE-0593",
-"name": "ACS Hicks Field Road data center campus",
-"catalyst": "Scheduled Fort Worth Council work session and first public hearing in the proposed moratorium process; these\u2026",
-"mx": 7,
-"comp": 4.6,
-"mw_hi": 0
-},
-{
-"date": "2026-11-10",
-"st": "Texas",
-"county": "Denton County",
-"id": "PRJ-TE-0568",
-"name": "Meta North Fort Worth data center campus",
-"catalyst": "Fort Worth Council work session and first public hearing in the process for the proposed data-center moratori\u2026",
-"mx": 6,
-"comp": 4.45,
-"mw_hi": 0
-},
-{
-"date": "2026-11-10",
-"st": "Texas",
-"county": "Denton County",
-"id": "PRJ-TE-0565",
-"name": "Colovore Alliance data center",
-"catalyst": "Fort Worth special Council work session and first public hearing in the proposed moratorium process; procedur\u2026",
-"mx": 6,
-"comp": 4.35,
-"mw_hi": 0
-},
-{
-"date": "2026-11-10",
-"st": "Texas",
-"county": "",
-"id": "PRJ-TE-0744",
-"name": "CyrusOne DFW7 data center campus",
-"catalyst": "Fort Worth proposed-moratorium hearing/process milestone; ERCOT reports and PUCT meeting are additional grid-\u2026",
-"mx": 6,
-"comp": 3.85,
-"mw_hi": 0
-},
-{
-"date": "2026-11-10",
-"st": "Texas",
-"county": "",
-"id": "PRJ-TE-0786",
-"name": "Rock Creek data center",
-"catalyst": "Fort Worth\u2019s scheduled first public hearing in the proposed moratorium process and related Council work sessi\u2026",
-"mx": 6,
-"comp": 3.95,
-"mw_hi": 0
-},
-{
-"date": "2026-11-10; 2026-12-10",
-"st": "Texas",
-"county": "",
-"id": "PRJ-TE-0737",
-"name": "Compass Datacenters DFW campus",
-"catalyst": "Fort Worth hearing on the proposed moratorium, if the project is within Fort Worth; ERCOT audit-related updat\u2026",
-"mx": 7,
-"comp": 4.7,
-"mw_hi": 50
+"comp": 5.1,
+"mw_hi": 300
 },
 {
 "date": "2026-11-17",
@@ -399,6 +322,17 @@
 "mw_hi": 72
 },
 {
+"date": "2026-12-04",
+"st": "Ohio",
+"county": "Adams",
+"id": "PRJ-OH-0371",
+"name": "AWS Adams County / Sprigg Township data\u2026",
+"catalyst": "Township zoning text drafting/adoption; Ohio SoS certification by 2026-12-04",
+"mx": 8,
+"comp": 6.7,
+"mw_hi": 1300
+},
+{
 "date": "2026-12-10",
 "st": "Texas",
 "county": "Carson County",
@@ -441,6 +375,72 @@
 "mx": 7,
 "comp": 4.7,
 "mw_hi": 300
+},
+{
+"date": "2026-12-10",
+"st": "Texas",
+"county": "Willacy County",
+"id": "PRJ-TE-0240",
+"name": "Soluna Project Kati campus",
+"catalyst": "ERCOT/PUCT audit and large-load review updates; assess whether Kati 2 is identified as seeking an ERCOT conne\u2026",
+"mx": 6,
+"comp": 3.75,
+"mw_hi": 433
+},
+{
+"date": "2026-12-10",
+"st": "Texas",
+"county": "Milam County",
+"id": "PRJ-TE-0247",
+"name": "Stargate Milam County data center",
+"catalyst": "ERCOT/PUCT audit or large-load process update, alongside confirmation of this site\u2019s interconnection and perm\u2026",
+"mx": 7,
+"comp": 4.4,
+"mw_hi": 1200
+},
+{
+"date": "2026-12-10",
+"st": "Texas",
+"county": "Bosque",
+"id": "PRJ-TE-0627",
+"name": "CyrusOne DFW10 at Thad Hill Energy Cent\u2026",
+"catalyst": "Scheduled ERCOT/PUCT process or audit update; the record does not identify a project-specific decision date.",
+"mx": 7,
+"comp": 4.4,
+"mw_hi": 190
+},
+{
+"date": "2026-12-10",
+"st": "Texas",
+"county": "Hays County",
+"id": "PRJ-TE-0580",
+"name": "CloudBurst San Marcos-area campus",
+"catalyst": "Scheduled ERCOT/PUCT follow-up related to the grid-connection audit and large-load process; no project-specif\u2026",
+"mx": 8,
+"comp": 5.15,
+"mw_hi": 1200
+},
+{
+"date": "2026-12-10",
+"st": "Texas",
+"county": "Kent County",
+"id": "PRJ-TE-0214",
+"name": "Project Hyper Jayton Campus (Spur Build\u2026",
+"catalyst": "Scheduled ERCOT/PUCT process updates and the status of the Texas audit and local approvals; no project-specif\u2026",
+"mx": 8,
+"comp": 5.55,
+"mw_hi": 50
+},
+{
+"date": "2026-12-10",
+"st": "Texas",
+"county": "Shackelford County",
+"id": "PRJ-TE-0229",
+"name": "Vantage Frontier Campus",
+"catalyst": "Scheduled ERCOT/PUCT process developments and reported Batch Zero/community-impact materials; the project-spe\u2026",
+"mx": 7,
+"comp": 4.0,
+"mw_hi": 1400
 }
 ]
 }

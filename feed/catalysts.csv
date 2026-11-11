@@ -1,12 +1,5 @@
 date,st,county,id,name,catalyst,mx,comp,mw_hi
-2026-11-10,Texas,Tarrant,PRJ-TE-0595,Black Mountain southeast Fort Worth dat…,First public hearing in Fort Worth's legal process for a possible data-center moratorium; it is a procedural…,7,5.2,0
-2026-11-10,Texas,Tarrant,PRJ-TE-0592,CyrusOne Fort Worth campus,Fort Worth Council work session and first public hearing in the proposed moratorium process; these are proced…,7,4.6,200
-2026-11-10,Texas,Tarrant,PRJ-TE-0593,ACS Hicks Field Road data center campus,Scheduled Fort Worth Council work session and first public hearing in the proposed moratorium process; these…,7,4.6,0
-2026-11-10,Texas,Denton County,PRJ-TE-0568,Meta North Fort Worth data center campus,Fort Worth Council work session and first public hearing in the process for the proposed data-center moratori…,6,4.45,0
-2026-11-10,Texas,Denton County,PRJ-TE-0565,Colovore Alliance data center,Fort Worth special Council work session and first public hearing in the proposed moratorium process; procedur…,6,4.35,0
-2026-11-10,Texas,,PRJ-TE-0744,CyrusOne DFW7 data center campus,Fort Worth proposed-moratorium hearing/process milestone; ERCOT reports and PUCT meeting are additional grid-…,6,3.85,0
-2026-11-10,Texas,,PRJ-TE-0786,Rock Creek data center,Fort Worth’s scheduled first public hearing in the proposed moratorium process and related Council work sessi…,6,3.95,0
-2026-11-10; 2026-12-10,Texas,,PRJ-TE-0737,Compass Datacenters DFW campus,"Fort Worth hearing on the proposed moratorium, if the project is within Fort Worth; ERCOT audit-related updat…",7,4.7,50
+2026-11-16,Virginia,Botetourt County,PRJ-VI-0090,Google Botetourt Center at Greenfield D…,Botetourt Circuit Court hearing resumes (pleas in bar; injunction request),7,5.1,300
 2026-11-17,Georgia,Effingham County,PRJ-GE-0167,Project Camellia (Savannah Gateway Indu…,Effingham County’s deferred site-plan decision for Project Camellia; the county is also expected to discuss a…,7,5.55,3210
 2026-11-17,Georgia,Putnam County,PRJ-GE-0168,Eatonton 379 Data Center Campus,"Reported expiration of the Putnam County moratorium, including whether it is extended; the DRI regional revie…",7,4.95,520
 2026-11-17,Virginia,Loudoun County,PRJ-VI-0012,Spring Valley Technology Park,Loudoun County Board consideration of the formal temporary-pause resolution; the project record does not repo…,8,5.25,780
@@ -35,7 +28,14 @@ date,st,county,id,name,catalyst,mx,comp,mw_hi
 2026-12-03,Texas,,PRJ-TE-0761,Prime Data Centers Austin-area campus,Prospective Austin Title 4 vote on data-center rules; ERCOT audit-related update also reported for December.,7,4.7,0
 2026-12-03,Texas,Travis,PRJ-TE-0616,AUS02 data center,Prospective Austin Title 4 vote on data-center rules; ERCOT/PUCT audit-related meeting or update may also cla…,6,4.15,0
 2026-12-03,Texas,,PRJ-TE-0746,Sabey Austin data center campus,Potential Austin Title 4 vote on data-center rules; ERCOT/PUCT process updates may also clarify large-load au…,6,3.85,72
+2026-12-04,Ohio,Adams,PRJ-OH-0371,AWS Adams County / Sprigg Township data…,Township zoning text drafting/adoption; Ohio SoS certification by 2026-12-04,8,6.7,1300
 2026-12-10,Texas,Carson County,PRJ-TE-0202,Project Matador (Fermi America HyperGri…,Scheduled ERCOT/PUCT follow-up associated with the statewide large-load audit and reporting process; project-…,7,4.4,17000
 2026-12-10,Texas,Dickens County,PRJ-TE-0517,Galaxy Helios campus (including Helios…,ERCOT/PUCT audit and large-load review updates; confirm whether Helios's remaining-phase connections and perm…,7,4.4,526
 2026-12-10,Texas,Milam County,PRJ-TE-0248,Riot Platforms Rockdale AI/HPC campus,"ERCOT/PUCT audit or large-load process updates, including the reported December meeting dates; confirmation o…",7,4.9,700
 2026-12-10,Texas,Bell,PRJ-TE-0585,Rowan Digital Infrastructure Temple Cam…,"Scheduled ERCOT/PUCT process dates and any project-specific update on the final facility's approval, permits,…",7,4.7,300
+2026-12-10,Texas,Willacy County,PRJ-TE-0240,Soluna Project Kati campus,ERCOT/PUCT audit and large-load review updates; assess whether Kati 2 is identified as seeking an ERCOT conne…,6,3.75,433
+2026-12-10,Texas,Milam County,PRJ-TE-0247,Stargate Milam County data center,"ERCOT/PUCT audit or large-load process update, alongside confirmation of this site’s interconnection and perm…",7,4.4,1200
+2026-12-10,Texas,Bosque,PRJ-TE-0627,CyrusOne DFW10 at Thad Hill Energy Cent…,Scheduled ERCOT/PUCT process or audit update; the record does not identify a project-specific decision date.,7,4.4,190
+2026-12-10,Texas,Hays County,PRJ-TE-0580,CloudBurst San Marcos-area campus,Scheduled ERCOT/PUCT follow-up related to the grid-connection audit and large-load process; no project-specif…,8,5.15,1200
+2026-12-10,Texas,Kent County,PRJ-TE-0214,Project Hyper Jayton Campus (Spur Build…,Scheduled ERCOT/PUCT process updates and the status of the Texas audit and local approvals; no project-specif…,8,5.55,50
+2026-12-10,Texas,Shackelford County,PRJ-TE-0229,Vantage Frontier Campus,Scheduled ERCOT/PUCT process developments and reported Batch Zero/community-impact materials; the project-spe…,7,4.0,1400

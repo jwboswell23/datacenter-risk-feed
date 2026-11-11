@@ -1,16 +1,106 @@
 {
-"updated": "2026-11-10T13:54:44.313425+00:00",
-"run_date": "2026-11-10",
+"updated": "2026-11-11T12:17:35.674325+00:00",
+"run_date": "2026-11-11",
 "rows": [
 {
-"date": "2026-11-09",
+"date": "2026-11-10",
 "st": "Multi",
-"headline": "U.S. Senate invoked cloture 73-25 on motion to proceed to BAAJA (H.R. 2347 vehicle), 9 Nov; final Senate pass\u2026",
-"why": "Bill would require covered loads of 20 MW or more to pay full incremental grid costs and streamline NEPA/transmission permitting; applies in all four states if enacted.\u2026",
+"headline": "U.S. Senate agreed 62-21 to the motion to proceed to BAAJA (H.R. 2347 vehicle) on 10 Nov after 73-25 cloture\u2026",
+"why": "Bill would require covered loads of 20 MW or more to pay full incremental grid costs and streamline NEPA/transmission permitting; weekend amendment narrows the behind-th\u2026",
 "cls": "B regulator-driven",
 "affected": "All large-load projects nationally",
-"src": "U.S. Senate Daily Press; Politico",
-"url": "https://www.dailypress.senate.gov/monday-november-9-2026/"
+"src": "U.S. Senate roll call 258; Senate Daily Press; McGuireWoods; Center Square",
+"url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00258.htm"
+},
+{
+"date": "2026-11-10",
+"st": "OH",
+"headline": "Butler County Planning Commission unanimously recommended St. Clair Township zoning amendment prohibiting dat\u2026",
+"why": "Second advisory approval for a permanent prohibition on the St. Clair portion of the AWS ~600-acre Madison/St. Clair site; trustees say they will adopt (date TBD). Count\u2026",
+"cls": "B regulator-driven",
+"affected": "PRJ-OH-0155 AWS Butler County / Trenton-area",
+"src": "Journal-News; WCPO",
+"url": "https://www.journal-news.com/local/proposed-amazon-data-center-could-face-another-hurdle-as-township-moves-to-ban-the-developments/article_bb83bba2-9a91-563b-bb44-220dc9de2ad3.html"
+},
+{
+"date": "2026-11-10",
+"st": "TX",
+"headline": "Fort Worth held first statutory hearing on 90-day data-center moratorium; DCIC delivered 19 recommendations;\u2026",
+"why": "Moratorium remains proposed (ladder 2). NBC DFW headline saying the city \"approves\" the moratorium is contradicted by the City page, WFAA, Fox 4, CBS and the Star-Telegr\u2026",
+"cls": "B regulator-driven",
+"affected": "Fort Worth pipeline incl. PRJ-TE-0565 Colovore Alliance ($4\u2026",
+"src": "Fort Worth Report; City of Fort Worth; WFAA",
+"url": "https://fortworthreport.org/2026/11/10/fort-worth-takes-next-step-toward-data-center-moratorium-as-lawmakers-prep-legislation/"
+},
+{
+"date": "2026-11-10",
+"st": "TX",
+"headline": "Lubbock held first public hearing on a 90-day data-center moratorium; second hearing and first vote Dec 10",
+"why": "Procedural step only; adoption needs 6 of 7 council votes. Council consideration of the 12 P&Z development standards reported for Dec 1 or Dec 8 (conflict).",
+"cls": "B regulator-driven",
+"affected": "Lubbock-area proposals",
+"src": "KCBD / Fox34",
+"url": "https://www.fox34.com/2026/11/11/lubbock-residents-urge-council-pass-data-center-moratorium/"
+},
+{
+"date": "2026-11-10",
+"st": "VA",
+"headline": "Botetourt judge overruled demurrers in FOIA suit against the Google (Helio Capital) performance agreement; he\u2026",
+"why": "Suit seeking to void the June 2025 agreement and halt grading at Greenfield advances past the first dismissal attempt; pleas in bar under advisement. Resumption date rep\u2026",
+"cls": "D community",
+"affected": "PRJ-VI-0090 Google Botetourt (300 MW, under construction)",
+"src": "WDBJ7; Virginia Business",
+"url": "https://www.wdbj7.com/2026/11/10/judge-denies-request-dismiss-botetourt-google-data-center-lawsuit/"
+},
+{
+"date": "2026-11-10",
+"st": "VA",
+"headline": "Spanberger and General Assembly Democratic leaders unveiled a 2027 agenda to end by-right approval for data c\u2026",
+"why": "Proposal by the governor and both chamber leaders in a Democratic trifecta (ladder 2; no bills filed; drafts due Dec 31; session Jan 13). Retroactivity language is the k\u2026",
+"cls": "B regulator-driven",
+"affected": "Virginia by-right pipeline (statewide; not project-specific)",
+"src": "Virginia Mercury; WJLA",
+"url": "https://virginiamercury.com/2026/11/11/spanberger-va-democrats-pitch-medical-debt-relief-data-center-limits-for-2027/"
+},
+{
+"date": "2026-11-10",
+"st": "VA",
+"headline": "JLARC: data-center sales-tax exemption was 60% of Virginia incentive spending over a decade ($4.5 bn FY2021-2\u2026",
+"why": "Strengthens the case for revisiting the exemption in 2027 (joint subcommittee Dec 15; session Jan 13). Study only; no change to the exemption, which runs under HB 30 wit\u2026",
+"cls": "B regulator-driven",
+"affected": "All Virginia campuses using the exemption",
+"src": "Virginia Mercury (JLARC review)",
+"url": "https://virginiamercury.com/2026/11/10/jlarc-data-center-tax-break-accounts-for-60-of-virginias-incentive-spending/"
+},
+{
+"date": "2026-11-10",
+"st": "GA",
+"headline": "DeKalb County deferred data-center definitions resolution to Dec 15 and withdrew (5-2) a proposed independent\u2026",
+"why": "No change to the moratorium; the definitions vote on Dec 15 will shape what the post-moratorium rules cover.",
+"cls": "B regulator-driven",
+"affected": "DeKalb County proposals",
+"src": "Decaturish; DeKalb Legistar",
+"url": "https://www.decaturish.com/news/dekalb/dekalb-data-center-proposals-stall-amid-debate-over-studies/article_087c46bf-2c72-4e71-b555-8714fcbd296c.html"
+},
+{
+"date": "2026-11-10",
+"st": "TX",
+"headline": "Second-day bill detail: SB 36 (Zaffirini) would bar new Ch. 380/381 agreements and Ch. 312 abatements for dat\u2026",
+"why": "Incentive-stripping bills now span sales-tax (SB 293/HB 167) and local abatements (SB 36). None restricts siting; effect is on project economics, not permits.",
+"cls": "B regulator-driven",
+"affected": "Texas projects relying on Ch. 312/380/381 incentives",
+"src": "Star-Telegram; Community Impact",
+"url": "https://www.star-telegram.com/news/state/texas/article318025622.html"
+},
+{
+"date": "2026-11-10",
+"st": "OH",
+"headline": "Ohio lame duck: Senate President-presumptive Reineke would not commit to passing data-center rules this year;\u2026",
+"why": "No movement on HB 646 as of Nov 10; voting sessions run weekly through Dec 17. Statewide moratorium remains a demand, not a bill with momentum.",
+"cls": "B regulator-driven",
+"affected": "All Ohio projects (statewide; not project-specific)",
+"src": "WKBN; Greater Ohio Policy Center",
+"url": "https://www.wkbn.com/news/ohio/ohio-lawmakers-say-compromise-possible-in-data-center-regulations/"
 },
 {
 "date": "2026-11-09",
@@ -71,6 +161,16 @@
 "affected": "None",
 "src": "WHIO; WDTN",
 "url": "https://www.whio.com/news/local/township-prepares-vote-data-center-moratorium/XNZ366JE45H6VDZWKRTSM56NHE/"
+},
+{
+"date": "2026-11-09",
+"st": "OH",
+"headline": "Adams County BOE certified the Nov 3 results: Sprigg Twp zoning plan 332-301, Monroe Twp 149-102 (Official Ca\u2026",
+"why": "First county-certified results in the four-state coverage. Zoning adoption lets both AWS-evaluation townships regulate land use; it is not a ban until restrictive text i\u2026",
+"cls": "A voter-driven",
+"affected": "PRJ-OH-0371 AWS Adams County; PRJ-OH-0373; PRJ-OH-0374",
+"src": "Adams County Board of Elections (PDF viewed)",
+"url": "https://www.boe.ohio.gov/adams/c/elecres/20261103results.pdf"
 },
 {
 "date": "2026-11-08",
@@ -201,106 +301,6 @@
 "affected": "PRJ-GE-0167 (EV-GE-0165)",
 "src": "OpenAI / WJCL",
 "url": "https://www.wjcl.com/article/openai-effingham-county-delays-data-center-vote/74357634"
-},
-{
-"date": "2026-11-07",
-"st": "OH",
-"headline": "Ohio legislators signal compromise possible on data-center rules but no lame-duck commitment (Reineke, DeMora\u2026",
-"why": "HB 646 components (cost coverage, sales-tax change) could move by Dec 31; probability 25%. Rhetoric index updated.",
-"cls": "C campaign/political",
-"affected": "All Ohio pipeline (EV-OH-0265)",
-"src": "WKBN",
-"url": "https://www.wkbn.com/news/ohio/ohio-lawmakers-say-compromise-possible-in-data-center-regulations/"
-},
-{
-"date": "2026-11-07",
-"st": "VA",
-"headline": "NextEra-Dominion accept 101 of 117 SCC merger conditions; evidentiary hearing Nov 17 (PUR-2026-00112)",
-"why": "Shared-infrastructure item: conditions could shape capital plan and large-load posture for the 54.9 GW Dominion queue; not a restriction.",
-"cls": "E infrastructure",
-"affected": "Dominion-served VA pipeline (EV-VI-0475)",
-"src": "Environment+Energy Leader",
-"url": "https://www.environmentenergyleader.com/articles/45510-nextera-and-dominion-accept-101-virginia-merger-conditions"
-},
-{
-"date": "2026-11-07",
-"st": "Multi",
-"headline": "Data Centers on the Ballot tracker: all 21 Ohio counts unchanged since Nov 3-4; nothing certified; no VA/GA/T\u2026",
-"why": "No change vs Nov 6 copy; Ohio county boards certify by Nov 24 (statutory window).",
-"cls": "A voter",
-"affected": "Ohio local measures",
-"src": "datacentersontheballot.com",
-"url": "https://datacentersontheballot.com/"
-},
-{
-"date": "2026-11-06",
-"st": "TX",
-"headline": "Industry expects any Texas pause to run into mid-2027; Aurora, Modo Energy, GLJ estimates",
-"why": "Houston Chronicle: Aurora Energy Research expects a pause to last to June/July 2027; GLJ Research estimates ~13 GW of Texas capacity exposed. Analyst estimates, not offi\u2026",
-"cls": "C political campaign",
-"affected": "Texas projects not yet permitted",
-"src": "Houston Chronicle",
-"url": "https://www.houstonchronicle.com/business/economy/article/democratic-texas-data-center-hinojosa-meaning-22511688.php"
-},
-{
-"date": "2026-11-06",
-"st": "Multi",
-"headline": "Bloomberg/Cleanview: ~40% of pending U.S. capacity sits in states whose governors-elect pledged pauses; BNEF\u2026",
-"why": "Macro context only; statewide headlines are not applied to individual projects in the database.",
-"cls": "C political campaign",
-"affected": "Context",
-"src": "Bloomberg",
-"url": "https://www.bloomberg.com/news/articles/2026-11-06/new-governors-set-to-challenge-big-swath-of-data-center-capacity"
-},
-{
-"date": "2026-11-06",
-"st": "Multi",
-"headline": "Data Centers on the Ballot tracker: 44 of 45 restriction counts complete; all 21 Ohio measures complete; no c\u2026",
-"why": "Site displays a \"simulated returns\" preview banner; nothing certified. Cross-check with county boards before treating as binding.",
-"cls": "A voter-driven",
-"affected": "Multi-state",
-"src": "datacentersontheballot.com",
-"url": "https://datacentersontheballot.com/"
-},
-{
-"date": "2026-11-05",
-"st": "Multi",
-"headline": "Politico: AI boom meets a blue-state roadblock after midterms",
-"why": "Post-election analysis of governors-elect pledging data-center pauses; cites Allianz estimate of ~$200bn delayed in H1 2026.",
-"cls": "C political campaign",
-"affected": "Statewide (TX, GA, OH)",
-"src": "Politico",
-"url": "https://www.politico.com/news/2026/11/05/ai-boom-blue-state-roadblock-01150485"
-},
-{
-"date": "2026-11-05",
-"st": "TX",
-"headline": "Texas Tribune: What Hinojosa's data-center pause could mean",
-"why": "Governor-elect's pledge applies to new approvals; legislature controls statute; TCEQ/PUCT levers.",
-"cls": "C political campaign",
-"affected": "Statewide TX pipeline not yet permitted",
-"src": "Texas Tribune",
-"url": "https://www.texastribune.org/2026/11/04/data-center-texas-pause-gina-hinojosa-governor-policies/"
-},
-{
-"date": "2026-11-05",
-"st": "TX",
-"headline": "Texan: Goodwin defeats Lt. Gov. Patrick",
-"why": "Change of Senate presiding officer in Jan 2027; Goodwin campaigned to end data-center sales-tax exemption.",
-"cls": "C political campaign",
-"affected": "Statewide TX incentives",
-"src": "The Texan",
-"url": "https://thetexan.news/elections/2026/democratic-state-rep-vikki-goodwin-defeats-republican-lt-gov-dan-patrick/article_406ed4f4-533c-42b8-b255-4a0c622a97c5.html"
-},
-{
-"date": "2026-11-05",
-"st": "TX",
-"headline": "Utility Dive/BNEF: Texas pause puts ~50 GW at risk of delay",
-"why": "BNEF estimates ERCOT energization pause risks ~3-month delay for ~a fifth of national pipeline.",
-"cls": "E infrastructure constraint",
-"affected": "ERCOT large loads >=75 MW",
-"src": "Utility Dive",
-"url": "https://www.utilitydive.com/news/texas-data-center-pause-puts-us-pipeline-risk-of-delay-bnef/827185/"
 }
 ]
 }
