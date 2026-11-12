@@ -1,7 +1,57 @@
 {
-"updated": "2026-11-11T12:17:35.674325+00:00",
-"run_date": "2026-11-11",
+"updated": "2026-11-12T12:16:14.974320+00:00",
+"run_date": "2026-11-12",
 "rows": [
+{
+"date": "2026-11-12",
+"st": "TX",
+"headline": "Fort Worth City page: moratorium adoption vote is Feb 23, 2027 (second reading), not Feb 16; 90-day pause sta\u2026",
+"why": "Schedule correction from the primary source; ladder unchanged (proposed). Second hearing and first reading remain Jan 12.",
+"cls": "B regulator-driven",
+"affected": "Fort Worth pipeline incl. PRJ-TE-0565",
+"src": "City of Fort Worth",
+"url": "https://www.fortworthtexas.gov/departments/city-manager/datacenters"
+},
+{
+"date": "2026-11-12",
+"st": "OH",
+"headline": "Rossford Planning Commission approved a special use permit and preliminary site plan for a 16 MW, $150 mn QLE\u2026",
+"why": "Small non-hyperscale approval in the Toledo area (new PRJ-OH-0861); shows permitting continuing for sub-25 MW projects after the Nov 3 votes.",
+"cls": "B regulator-driven",
+"affected": "PRJ-OH-0861",
+"src": "WTVG 13abc",
+"url": "https://www.13abc.com/2026/11/12/rossford-planning-commission-approves-special-use-permit-preliminary-site-plan-data-center/"
+},
+{
+"date": "2026-11-11",
+"st": "TX",
+"headline": "ERCOT CEO Pablo Vegas said he will ask the Legislature for authority to require data-center curtailment at EE\u2026",
+"why": "Request to lawmakers, not a rule or bill. Would raise the interruptibility data centers must plan for and the value of on-site backup; does not affect siting. Statewide;\u2026",
+"cls": "E infrastructure",
+"affected": "All ERCOT large loads (statewide)",
+"src": "Bloomberg (syndicated accounts)",
+"url": "https://www.bloomberg.com/news/articles/2026-11-11/texas-grid-boss-wants-data-centers-to-cut-power-before-blackouts"
+},
+{
+"date": "2026-11-11",
+"st": "VA",
+"headline": "More than a dozen environmental groups launched a \"Pause to Protect\" platform in Hanover calling for a statew\u2026",
+"why": "Advocacy demand, not a government proposal; splits from the governor's agenda, which has no moratorium. Data Center Coalition opposed. DEQ water-scarcity-area report due\u2026",
+"cls": "D community",
+"affected": "Statewide (no project)",
+"src": "Virginia Mercury; CBF",
+"url": "https://virginiamercury.com/2026/11/12/environmental-groups-rally-for-statewide-data-center-moratorium-in-hanover-county/"
+},
+{
+"date": "2026-11-11",
+"st": "Multi",
+"headline": "Senate: Thune filed cloture on the Capito substitute and on H.R. 2347 (permitting bill) on Nov 11; no final v\u2026",
+"why": "Cloture votes expected late this week or next; House concurrence still required. Nothing enacted.",
+"cls": "B regulator-driven",
+"affected": "All four states (federal)",
+"src": "U.S. Senate Daily Press",
+"url": "https://www.dailypress.senate.gov/wednesday-november-11-2026/"
+},
 {
 "date": "2026-11-10",
 "st": "Multi",
@@ -103,6 +153,56 @@
 "url": "https://www.wkbn.com/news/ohio/ohio-lawmakers-say-compromise-possible-in-data-center-regulations/"
 },
 {
+"date": "2026-11-10",
+"st": "VA",
+"headline": "Washington County, Va. supervisors unanimously adopted an ordinance requiring a special exception permit and\u2026",
+"why": "First data-center zoning language in the county; a review process, not a ban. No tracked projects; chair says none are seeking to locate there.",
+"cls": "B regulator-driven",
+"affected": "None tracked",
+"src": "WJHL",
+"url": "https://www.wjhl.com/news/local/washington-co-va-approves-data-center-ordinance/"
+},
+{
+"date": "2026-11-10",
+"st": "GA",
+"headline": "Lee County extended its data-center moratorium (unincorporated areas) from Dec 31, 2026 to June 30, 2027; eff\u2026",
+"why": "Second extension of a December 2025 moratorium while staff draft an ordinance; full resolution text published. No tracked projects.",
+"cls": "B regulator-driven",
+"affected": "None tracked",
+"src": "WALB (resolution text)",
+"url": "https://www.walb.com/2026/11/11/lee-county-commissioners-extend-moratorium-data-centers-into-next-summer/"
+},
+{
+"date": "2026-11-10",
+"st": "GA",
+"headline": "McIntosh County commissioners approved a zoning change requiring special use permits for data centers, descri\u2026",
+"why": "Adds mandatory public hearings and commission oversight on the Georgia coast; not a ban. No tracked projects.",
+"cls": "B regulator-driven",
+"affected": "None tracked",
+"src": "The Current GA",
+"url": "https://thecurrentga.org/2026/"
+},
+{
+"date": "2026-11-10",
+"st": "VA",
+"headline": "Fluidstack (formerly Solis Arx) Progress Park campus in Wythe County reported under construction; majority co\u2026",
+"why": "Stage change in the master: county described the project as under construction on Oct 27 and grading was observed; Preserve Wythe opposition noted. MW undisclosed.",
+"cls": "E infrastructure",
+"affected": "PRJ-VI-0070",
+"src": "DCD; WDBJ7",
+"url": "https://www.datacenterdynamics.com/en/news/fluidstack-begins-construction-of-99-acre-data-center-campus-in-wythe-county-virginia/"
+},
+{
+"date": "2026-11-10",
+"st": "VA",
+"headline": "Goochland draft TOD amendments: prohibit data centers outside the overlay, keep by-right status in TOD North\u2026",
+"why": "Tightening at the margins; the by-right path for the Google West Creek site would remain under the draft. Residents demanded hearings for every project.",
+"cls": "B regulator-driven",
+"affected": "PRJ-VI-0066 Google Goochland; PRJ-VI-0067 Tract; Tuckahoe T\u2026",
+"src": "Richmond Times-Dispatch",
+"url": "https://richmond.com/news/local/business/development/article_85ad60d3-27fc-46ad-9bd7-52e6903ef0e6.html"
+},
+{
 "date": "2026-11-09",
 "st": "Multi",
 "headline": "Weekly sweep Nov 2-9: no confirmed material campus-level change beyond items already logged daily; datacenter\u2026",
@@ -201,106 +301,6 @@
 "affected": "Ohio statewide pipeline (prospective)",
 "src": "Columbus Dispatch",
 "url": "https://www.dispatch.com/story/business/2026/11/06/local-data-center-bans-passed-easily-is-the-rest-of-ohio-next/92612381007/"
-},
-{
-"date": "2026-11-08",
-"st": "Multi",
-"headline": "Long County P&Z public hearing and vote on a proposed temporary data-center moratorium set for Nov 16",
-"why": "Proposed (EV-GE-0168, ladder 2); no project in the county. Adds to coastal-Georgia pause cluster around Project Camellia.",
-"cls": "B_regulator",
-"affected": "None (no pipeline campus)",
-"src": "WJCL",
-"url": "https://www.wjcl.com/article/long-county-ga-weighs-temporary-data-center-pause/74187199"
-},
-{
-"date": "2026-11-08",
-"st": "Multi",
-"headline": "DeKalb County BOC Nov 10 agenda: review of health/environmental study required before the data-center morator\u2026",
-"why": "Catalyst for EV-GE-0077 (moratorium to 2027-03-30); lifting is conditional on the study review.",
-"cls": "B_regulator",
-"affected": "EV-GE-0077",
-"src": "Siting Radar (agenda index)",
-"url": "https://sitingradar.com/states/ga"
-},
-{
-"date": "2026-11-08",
-"st": "Multi",
-"headline": "Backfill: Morgan County 120-day data-center application moratorium (July 7; extension on Oct 20 agenda) and C\u2026",
-"why": "Previously unlogged adopted instruments (EV-GE-0166/0167). Madison expiry Nov 30 is a live catalyst; Morgan extension unverified.",
-"cls": "B_regulator",
-"affected": "PRJ-GE-0857 (unverified Meta interest)",
-"src": "Morgan County minutes; AI Laws USA",
-"url": "https://www.morgancountyga.gov/AgendaCenter/ViewFile/Minutes/_07212026-866"
-},
-{
-"date": "2026-11-08",
-"st": "Multi",
-"headline": "CoreWeave letter to Gov.-elect Hinojosa seeks cooperation on data-center policy; Fort Worth confirms Nov 10 w\u2026",
-"why": "No instrument change. Fort Worth adoption tentatively Feb 16, 2027; Legislature convenes Jan 12, 2027; inauguration Jan 19.",
-"cls": "C_campaign/B_regulator",
-"affected": "Texas pipeline; Fort Worth campuses",
-"src": "Bloomberg via Yahoo; City of Fort Worth",
-"url": "https://www.fortworthtexas.gov/departments/city-manager/datacenters"
-},
-{
-"date": "2026-11-08",
-"st": "Multi",
-"headline": "datacentersontheballot.com: no change to any VA/OH/GA/TX entry since Nov 7; all 21 Ohio counts still unoffici\u2026",
-"why": "No certified result yet; Ohio county certification due ~Nov 24.",
-"cls": "A_voter",
-"affected": "Ohio Nov 3 measures",
-"src": "Data Centers on the Ballot",
-"url": "https://datacentersontheballot.com/"
-},
-{
-"date": "2026-11-07",
-"st": "TX",
-"headline": "ERCOT issuing second-round information requests to ~80% of 257 developers; probing whether projects were down\u2026",
-"why": "Audit report due Dec 10, PUCT Dec 17; downsizing findings could reclassify projects. Pause on new 75 MW+ energizations continues.",
-"cls": "E infrastructure",
-"affected": "All ERCOT-connected pipeline (EV-TE-0383)",
-"src": "San Antonio Express-News",
-"url": "https://www.expressnews.com/business/article/ercot-data-centers-power-grid-oversight-22514525.php"
-},
-{
-"date": "2026-11-07",
-"st": "TX",
-"headline": "Lubbock P&Z unanimously sends 12 data-center regulations to council; first moratorium hearing Nov 10, 2 p.m.",
-"why": "Ladder moves to 4 (committee approved); 90-day pause needs 6 of 7 votes after Dec 10 second hearing.",
-"cls": "B regulator",
-"affected": "Lubbock pipeline (EV-TE-0345/0347)",
-"src": "Texas Scorecard / Lubbock Lights",
-"url": "https://texasscorecard.com/local/commission-votes-to-send-data-center-regulation-recommendations-to-lubbock-city-council/"
-},
-{
-"date": "2026-11-07",
-"st": "TX",
-"headline": "Riot 10-Q names Anthropic as tenant of 910 MW Corsicana powered-land lease (15 yr, ~$28bn); phases Sep 2027 /\u2026",
-"why": "Largest single Texas AI lease; existing ~1 GW interconnection limits exposure to the ERCOT pause but phase deliveries still depend on ERCOT/PUCT treatment.",
-"cls": "E infrastructure",
-"affected": "PRJ-TE-0620",
-"src": "Riot Platforms / Bitcoin Magazine",
-"url": "https://www.riotplatforms.com/riot-platforms-reports-third-quarter-2026-financial-results-and-strategic-highlights/"
-},
-{
-"date": "2026-11-07",
-"st": "GA",
-"headline": "Dade County commissioner proposes 90-day data-center moratorium after Master Works signals ~300 MW interest;\u2026",
-"why": "First Dade instrument; new project row PRJ-GE-0859 (0-300 MW, no capex). Public meeting Nov 23.",
-"cls": "B regulator",
-"affected": "PRJ-GE-0859 (EV-GE-0164)",
-"src": "Local 3 News",
-"url": "https://www.local3news.com/local-news/dade-county-commissioner-calls-for-90-day-data-center-moratorium/article_d92fddbf-afd4-45ef-aafd-1d974ffe0fd6.html"
-},
-{
-"date": "2026-11-07",
-"st": "GA",
-"headline": "OpenAI publishes Project Camellia Community Compact; says it will work to keep project on schedule ahead of N\u2026",
-"why": "Voluntary commitments (full energy-cost coverage, closed-loop cooling, annual audit) are counter-evidence to opposition but not binding until written into conditions.",
-"cls": "D community opposition",
-"affected": "PRJ-GE-0167 (EV-GE-0165)",
-"src": "OpenAI / WJCL",
-"url": "https://www.wjcl.com/article/openai-effingham-county-delays-data-center-vote/74357634"
 }
 ]
 }

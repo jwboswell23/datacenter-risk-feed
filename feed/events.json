@@ -1,7 +1,150 @@
 {
-"updated": "2026-11-11T12:17:35.674325+00:00",
-"run_date": "2026-11-11",
+"updated": "2026-11-12T12:16:14.974320+00:00",
+"run_date": "2026-11-12",
 "rows": [
+{
+"id": "EV-VI-0479",
+"st": "Virginia",
+"juris": "Commonwealth of Virginia (advocacy coal\u2026",
+"cls": "D. Community opposition",
+"status": "1 Rumored or reported",
+"summary": "On 2026-11-11 more than a dozen environmental organisations (Chesapeake Bay Foundation, Southern Environmental Law Center, Virginia League of Conserv\u2026",
+"p_binding": "10",
+"next_date": "2027-01-13",
+"updated": "2026-11-12"
+},
+{
+"id": "EV-VI-0478",
+"st": "Virginia",
+"juris": "Washington County",
+"cls": "B. Regulator-driven",
+"status": "6 Effective and enforceable",
+"summary": "On 2026-11-10 the Washington County Board of Supervisors voted unanimously to approve an ordinance that for the first time addresses data centers in\u2026",
+"p_binding": "100",
+"next_date": "",
+"updated": "2026-11-12"
+},
+{
+"id": "EV-VI-0443",
+"st": "Virginia",
+"juris": "Goochland County",
+"cls": "B. Regulator-driven",
+"status": "5 Adopted by the relevant government",
+"summary": "The Board of Supervisors approved a motion to re-examine what is included in the Technology Overlay District. The effect on the district's existing r\u2026",
+"p_binding": "10",
+"next_date": "2026-12-16",
+"updated": "2026-11-12"
+},
+{
+"id": "EV-TE-0387",
+"st": "Texas",
+"juris": "ERCOT / Texas Legislature (90th session)",
+"cls": "E. Infrastructure constraint",
+"status": "2 Proposed by an official or legislator",
+"summary": "At the BloombergNEF Summit in Houston on 2026-11-11, ERCOT CEO Pablo Vegas said he will ask the Legislature for authority to require data centers to\u2026",
+"p_binding": "40",
+"next_date": "2027-01-12",
+"updated": "2026-11-12"
+},
+{
+"id": "EV-TE-0319",
+"st": "Texas",
+"juris": "Fort Worth",
+"cls": "B. Regulator-driven",
+"status": "2 Proposed by an official or legislator",
+"summary": "City Council adopted a resolution initiating the legal process for a possible moratorium on new data-center development applications; the moratorium\u2026",
+"p_binding": "55",
+"next_date": "2027-01-12 (second hearing an\u2026",
+"updated": "2026-11-12"
+},
+{
+"id": "EV-TE-0306",
+"st": "Georgia",
+"juris": "Effingham County (U.S. Army Corps of En\u2026",
+"cls": "B. Regulator-driven",
+"status": "3 Introduced as legislation or ordinance",
+"summary": "A report said OpenAI applied for a federal permit to fill 72 acres of wetlands for a data center, with public comment open through November 4, 2026.\u2026",
+"p_binding": "20",
+"next_date": "2026-12-03 (USACE Savannah Di\u2026",
+"updated": "2026-11-12"
+},
+{
+"id": "EV-TE-0301",
+"st": "Texas",
+"juris": "Brownsville",
+"cls": "B. Regulator-driven",
+"status": "6 Effective and enforceable",
+"summary": "City commissioners directed the city manager to draft a temporary 90-day moratorium ordinance covering new rezoning or permit applications for high-i\u2026",
+"p_binding": "100",
+"next_date": "2027-01-19 (extension first r\u2026",
+"updated": "2026-11-12"
+},
+{
+"id": "EV-OH-0269",
+"st": "Ohio",
+"juris": "City of Rossford (Wood County)",
+"cls": "B. Regulator-driven",
+"status": "4 Approved by committee or planning commission",
+"summary": "The Rossford Planning Commission approved a special use permit and preliminary site plan for a roughly 90,000 sq ft, up-to-16 MW, $150 million data c\u2026",
+"p_binding": "80",
+"next_date": "Final site plan (date not set)",
+"updated": "2026-11-12"
+},
+{
+"id": "EV-OH-0205",
+"st": "Ohio",
+"juris": "Hubbard",
+"cls": "A. Voter-driven",
+"status": "Election result (unofficial, not certified)",
+"summary": "Voters reportedly approved a ballot measure imposing a total ban on data-center development in Hubbard. Unofficial reporting gives about 76% support;\u2026",
+"p_binding": "80",
+"next_date": "2026-11-19 (Trumbull County B\u2026",
+"updated": "2026-11-12"
+},
+{
+"id": "EV-GE-0171",
+"st": "Georgia",
+"juris": "McIntosh County",
+"cls": "B. Regulator-driven",
+"status": "5 Adopted by the relevant government",
+"summary": "On 2026-11-10 the McIntosh County Board of Commissioners approved a zoning change requiring any data center to obtain a special use permit, adding ma\u2026",
+"p_binding": "95",
+"next_date": "",
+"updated": "2026-11-12"
+},
+{
+"id": "EV-GE-0170",
+"st": "Georgia",
+"juris": "Lee County",
+"cls": "B. Regulator-driven",
+"status": "6 Effective and enforceable",
+"summary": "On 2026-11-10 the Lee County Board of Commissioners approved a resolution extending the county data-center moratorium (first adopted 2025-12-09 as Re\u2026",
+"p_binding": "100",
+"next_date": "2027-06-30",
+"updated": "2026-11-12"
+},
+{
+"id": "EV-GE-0140",
+"st": "Georgia",
+"juris": "Putnam County",
+"cls": "B. Regulator-driven",
+"status": "5 Adopted by the relevant government",
+"summary": "Resolution 2026.8.7 reportedly imposed a moratorium on consideration of and action on land-development permits for data centers, battery energy stora\u2026",
+"p_binding": "80",
+"next_date": "2026-11-17 (alt. 2026-11-18)",
+"updated": "2026-11-12"
+},
+{
+"id": "EV-GE-0053",
+"st": "Georgia",
+"juris": "Camden County",
+"cls": "B. Regulator-driven",
+"status": "5 Adopted by the relevant government",
+"summary": "The Board of Commissioners adopted a six-month moratorium on data centers in the unincorporated county. The ordinance excluded sections 4, 5, 6, and\u2026",
+"p_binding": "85",
+"next_date": "Verify extension resolution o\u2026",
+"updated": "2026-11-12"
+},
 {
 "id": "EV-VI-0477",
 "st": "Virginia",
@@ -88,17 +231,6 @@
 "summary": "A special Council work session concerning the DCIC report and the first public hearing in the legal process for the proposed data-center moratorium w\u2026",
 "p_binding": "10",
 "next_date": "",
-"updated": "2026-11-11"
-},
-{
-"id": "EV-TE-0319",
-"st": "Texas",
-"juris": "Fort Worth",
-"cls": "B. Regulator-driven",
-"status": "2 Proposed by an official or legislator",
-"summary": "City Council adopted a resolution initiating the legal process for a possible moratorium on new data-center development applications; the moratorium\u2026",
-"p_binding": "55",
-"next_date": "2027-01-12; 2027-02-16",
 "updated": "2026-11-11"
 },
 {
@@ -199,138 +331,6 @@
 "p_binding": "75",
 "next_date": "2026-12-04",
 "updated": "2026-11-10"
-},
-{
-"id": "EV-GE-0169",
-"st": "Georgia",
-"juris": "Effingham County State Court",
-"cls": "D. Community opposition",
-"status": "3 Introduced as legislation or ordinance",
-"summary": "Three residents filed a second lawsuit (reported filed 6 November) in Effingham County State Court alleging that officials, the development authority\u2026",
-"p_binding": "10",
-"next_date": "2026-11-17",
-"updated": "2026-11-10"
-},
-{
-"id": "EV-GE-0053",
-"st": "Georgia",
-"juris": "Camden County",
-"cls": "B. Regulator-driven",
-"status": "5 Adopted by the relevant government",
-"summary": "The Board of Commissioners adopted a six-month moratorium on data centers in the unincorporated county. The ordinance excluded sections 4, 5, 6, and\u2026",
-"p_binding": "50",
-"next_date": "Verify expiry/extension with\u2026",
-"updated": "2026-11-10"
-},
-{
-"id": "EV-TE-0308",
-"st": "Texas",
-"juris": "Electric Reliability Council of Texas (\u2026",
-"cls": "E. Infrastructure constraint",
-"status": "3 Introduced as legislation or ordinance",
-"summary": "ERCOT introduced a special Batch Zero process for large-load customers requiring more than 75 MW. Customers must provide additional information and d\u2026",
-"p_binding": "75",
-"next_date": "No review outcome date stated",
-"updated": "2026-11-09"
-},
-{
-"id": "EV-OH-0266",
-"st": "Ohio",
-"juris": "Ohio (statewide)",
-"cls": "A. Voter-driven",
-"status": "1 Rumored or reported",
-"summary": "Conserve Ohio is collecting signatures for a constitutional amendment banning data centers above 25 MW; organizers report more than 150,000 signature\u2026",
-"p_binding": "10",
-"next_date": "2027-07-01",
-"updated": "2026-11-08"
-},
-{
-"id": "EV-OH-0258",
-"st": "Ohio",
-"juris": "Village of Lordstown, Trumbull County",
-"cls": "B. Regulator-driven",
-"status": "5 Adopted by the relevant government",
-"summary": "After repealing its data-center ban, Lordstown adopted a moratorium on data-center permits and applications. The council later extended the moratoriu\u2026",
-"p_binding": "85",
-"next_date": "2026-12-31, reported end of e\u2026",
-"updated": "2026-11-08"
-},
-{
-"id": "EV-GE-0168",
-"st": "Georgia",
-"juris": "Long County",
-"cls": "B. Regulator-driven",
-"status": "2 Proposed by an official or legislator",
-"summary": "Long County Planning and Zoning Commission discussed on Oct 19 whether to recommend a temporary moratorium to county commissioners; a public hearing\u2026",
-"p_binding": "65",
-"next_date": "2026-11-16",
-"updated": "2026-11-08"
-},
-{
-"id": "EV-GE-0167",
-"st": "Georgia",
-"juris": "City of Madison (Morgan County)",
-"cls": "B. Regulator-driven",
-"status": "5 Adopted by the relevant government",
-"summary": "City Council voted unanimously on July 13, 2026 to pause data-center development in the city until Nov 30, 2026, mirroring the county pause; purpose\u2026",
-"p_binding": "100",
-"next_date": "2026-11-30",
-"updated": "2026-11-08"
-},
-{
-"id": "EV-GE-0166",
-"st": "Georgia",
-"juris": "Morgan County",
-"cls": "B. Regulator-driven",
-"status": "5 Adopted by the relevant government",
-"summary": "Board of Commissioners approved a 120-day moratorium on data-center applications on July 7, 2026 to allow staff to draft a data-center ordinance (Jul\u2026",
-"p_binding": "100",
-"next_date": "2026-11-19",
-"updated": "2026-11-08"
-},
-{
-"id": "EV-VI-0475",
-"st": "Virginia",
-"juris": "Virginia State Corporation Commission (\u2026",
-"cls": "E. Infrastructure constraint",
-"status": "Unknown / unverified",
-"summary": "NextEra and Dominion accepted 101 of 117 merger conditions proposed by SCC staff and the Consumer Counsel and 13 more with modifications, in rebuttal\u2026",
-"p_binding": "",
-"next_date": "2026-11-17",
-"updated": "2026-11-07"
-},
-{
-"id": "EV-TE-0383",
-"st": "Texas",
-"juris": "ERCOT / Public Utility Commission of Te\u2026",
-"cls": "E. Infrastructure constraint",
-"status": "6 Effective and enforceable",
-"summary": "ERCOT told the Express-News it is issuing a second round of requests for information to about 80% of the 257 developers that answered the September R\u2026",
-"p_binding": "100",
-"next_date": "2026-12-10",
-"updated": "2026-11-07"
-},
-{
-"id": "EV-TE-0268",
-"st": "Texas",
-"juris": "Governor of Texas; ERCOT; Public Utilit\u2026",
-"cls": "E. Infrastructure constraint",
-"status": "6 Effective and enforceable",
-"summary": "Abbott directed an audit and verification of data-center projects seeking ERCOT grid connections. The directive was reported to halt projects or new\u2026",
-"p_binding": "85",
-"next_date": "2026-12-10",
-"updated": "2026-11-07"
-},
-{
-"id": "EV-OH-0265",
-"st": "Ohio",
-"juris": "Ohio General Assembly (136th), lame-duc\u2026",
-"cls": "C. Political campaign",
-"status": "2 Proposed by an official or legislator",
-"summary": "Sen. Bill Reineke (R-Tiffin), reported as likely next Senate president, would not promise data-center regulation passes in lame duck (\"I don't know w\u2026",
-"p_binding": "25",
-"next_date": "2026-12-31",
-"updated": "2026-11-07"
 }
 ]
 }
