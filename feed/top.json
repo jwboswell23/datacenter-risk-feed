@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-12T12:16:14.974320+00:00",
-"run_date": "2026-11-12",
+"updated": "2026-11-13T12:20:59.564561+00:00",
+"run_date": "2026-11-13",
 "rows": [
 {
 "id": "PRJ-OH-0148",
@@ -318,8 +318,8 @@
 "pdel": "75 to 90",
 "dmo": "12 to 36",
 "pcan": "20 to 35",
-"cat": "Clarification of the moratorium\u2019s duration and expiration, and a dete\u2026",
-"cat_date": "Unclear; one supplied report says the moratorium was scheduled to expire in November 2026, while another reports a six-month extension."
+"cat": "Portage County Regional Planning Commission revisit of conditional-us\u2026",
+"cat_date": "2026-12 (RPC, date not set); ~2027-05-03"
 },
 {
 "id": "PRJ-OH-0495",
@@ -1076,35 +1076,6 @@
 "cat_date": "2027-09-16"
 },
 {
-"id": "PRJ-TE-0596",
-"name": "PowerHouse Circle T Data Center",
-"dev": "PowerHouse Data Centers\u2026",
-"st": "Texas",
-"county": "Tarrant",
-"stage": "permitted_not_under_construction",
-"mw_lo": 300,
-"mw_hi": 300,
-"capex": "2.7 to 3.9",
-"exposure": "potentially",
-"reg": 6,
-"voter": 1,
-"camp": 3,
-"comm": 7,
-"infra": 7,
-"water": 5,
-"mx": 7,
-"comp": 5.2,
-"band": "moderate",
-"sci": 4,
-"feas": "medium",
-"lag": "30 to 48",
-"pdel": "35 to 55",
-"dmo": "6 to 18",
-"pcan": "10 to 25",
-"cat": "Reported October 23, 2026 lawsuit hearing outcome, which is not suppl\u2026",
-"cat_date": "2026-12-10"
-},
-{
 "id": "PRJ-OH-0100",
 "name": "Bristolville 25 Lordstown Data Center",
 "dev": "Bristolville 25 Develop\u2026",
@@ -1161,6 +1132,35 @@
 "pcan": "10 to 20",
 "cat": "First public hearing in Fort Worth's legal process for a possible dat\u2026",
 "cat_date": "2026-11-10"
+},
+{
+"id": "PRJ-OH-0102",
+"name": "Potential Hubbard Data Center Project",
+"dev": "Unidentified; a possibl\u2026",
+"st": "Ohio",
+"county": "Trumbull County",
+"stage": "delayed_or_paused",
+"mw_lo": 0,
+"mw_hi": 0,
+"capex": "",
+"exposure": "directly",
+"reg": 9,
+"voter": 8,
+"camp": 1,
+"comm": 6,
+"infra": 2,
+"water": 1,
+"mx": 9,
+"comp": 5.2,
+"band": "moderate",
+"sci": 5,
+"feas": "low",
+"lag": "30 to 54",
+"pdel": "75 to 90",
+"dmo": "12 to 24",
+"pcan": "55 to 75",
+"cat": "Certification of the Hubbard ballot result and clarification of the m\u2026",
+"cat_date": "Not reported; election certification is subsequent to the November 3, 2026 vote."
 }
 ]
 }

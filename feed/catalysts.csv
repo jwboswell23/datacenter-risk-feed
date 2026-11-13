@@ -2,6 +2,7 @@ date,st,county,id,name,catalyst,mx,comp,mw_hi
 2026-11-16,Virginia,Botetourt County,PRJ-VI-0090,Google Botetourt Center at Greenfield D…,Botetourt Circuit Court hearing resumes (pleas in bar; injunction request),7,5.1,300
 2026-11-17,Georgia,Effingham County,PRJ-GE-0167,Project Camellia (Savannah Gateway Indu…,Effingham County’s deferred site-plan decision for Project Camellia; the county is also expected to discuss a…,7,5.55,3210
 2026-11-17,Georgia,Putnam County,PRJ-GE-0168,Eatonton 379 Data Center Campus,"Reported expiration of the Putnam County moratorium, including whether it is extended; the DRI regional revie…",7,4.95,520
+2026-11-17,Texas,Hudspeth County,PRJ-TE-0238,Hueco Ranch data center complex (Server…,Hudspeth County judge appointment (2026-11-17 special hearing); any TCEQ air-permit application for the on-si…,6,4.75,750
 2026-11-17,Virginia,Loudoun County,PRJ-VI-0012,Spring Valley Technology Park,Loudoun County Board consideration of the formal temporary-pause resolution; the project record does not repo…,8,5.25,780
 2026-11-17,Virginia,Loudoun County,PRJ-VI-0018,STACK NVA06 Leesburg campus,Loudoun County Board consideration of the temporary-pause resolution; relevance to NVA06 depends on whether a…,4,2.25,72
 2026-11-17,Virginia,Loudoun County,PRJ-VI-0013,Greenlin Park data center campus,Loudoun County Board consideration related to the temporary pause; monitor for formalization and any project-…,6,3.35,300
@@ -18,6 +19,7 @@ date,st,county,id,name,catalyst,mx,comp,mw_hi
 2026-11-18,Virginia,Stafford County,PRJ-VI-0084,Sisson South data center campus,Stafford County Planning Commission public hearing on the Sisson South / Kings Highway application,5,3.05,0
 2026-11-18,Virginia,Stafford County,PRJ-VI-0082,Forest Lane data center campus,Stafford County Planning Commission public hearing on the Forest Lane application,5,3.05,0
 2026-11-21,Georgia,Floyd County,PRJ-GE-0169,Microsoft ATL80 Floyd County Campus,"DRI #4860 regional review finding (scheduled completion Nov 21, 2026); then local site-plan/permits",5,3.3,380
+2026-11-24,Ohio,Butler,PRJ-OH-0156,"Prologis Project Mila, Trenton (Trenton…",Federal court scheduling and any preliminary-injunction motion; city response to the 2026-11-09 taxpayer dema…,7,4.75,250
 2026-11-29,Georgia,Clayton County,PRJ-GE-0161,Digital Realty Fort Gillem Campus,Estimated expiration of Forest Park’s 90-day moratorium; also monitor whether Clayton County extends or allow…,8,3.9,212
 2026-11-30,Georgia,Rockdale County,PRJ-GE-0338,DC BLOX Atlanta East campus,Reported public-comment period closes for proposed air permit No. 29932; relevance to this campus remains unc…,5,3.25,216
 2026-12-01,Georgia,Coweta County,PRJ-GE-0189,T5 ATL IV (Project Pegasus),Coweta County rezoning public hearing; also monitor signature certification for the county petition.,5,3.9,0
@@ -37,5 +39,3 @@ date,st,county,id,name,catalyst,mx,comp,mw_hi
 2026-12-10,Texas,Milam County,PRJ-TE-0247,Stargate Milam County data center,"ERCOT/PUCT audit or large-load process update, alongside confirmation of this site’s interconnection and perm…",7,4.4,1200
 2026-12-10,Texas,Bosque,PRJ-TE-0627,CyrusOne DFW10 at Thad Hill Energy Cent…,Scheduled ERCOT/PUCT process or audit update; the record does not identify a project-specific decision date.,7,4.4,190
 2026-12-10,Texas,Hays County,PRJ-TE-0580,CloudBurst San Marcos-area campus,Scheduled ERCOT/PUCT follow-up related to the grid-connection audit and large-load process; no project-specif…,8,5.15,1200
-2026-12-10,Texas,Kent County,PRJ-TE-0214,Project Hyper Jayton Campus (Spur Build…,Scheduled ERCOT/PUCT process updates and the status of the Texas audit and local approvals; no project-specif…,8,5.55,50
-2026-12-10,Texas,Shackelford County,PRJ-TE-0229,Vantage Frontier Campus,Scheduled ERCOT/PUCT process developments and reported Batch Zero/community-impact materials; the project-spe…,7,4.0,1400

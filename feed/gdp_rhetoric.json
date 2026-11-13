@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-12T12:16:14.974320+00:00",
-"run_date": "2026-11-12",
+"updated": "2026-11-13T12:20:59.564561+00:00",
+"run_date": "2026-11-13",
 "rows": [
 {
 "st": "TX",
@@ -10,18 +10,18 @@
 "chg_1w": 0.0,
 "n_officials": 8,
 "w_total": 17.5,
-"n_exposed": 182,
+"n_exposed": 183,
 "n_permitted": 38,
-"n_land": 18,
+"n_land": 19,
 "n_contracted": 126,
-"exposed_mw_hi": 58036,
-"exposed_capex_lo": 675.6,
-"exposed_capex_hi": 860.6,
-"b_lo": 53.85,
-"b_hi": 69.34,
+"exposed_mw_hi": 58786,
+"exposed_capex_lo": 689.1,
+"exposed_capex_hi": 875.6,
+"b_lo": 55.2,
+"b_hi": 70.84,
 "pdelay_now": 50.3,
-"headline_delayed_lo": 25.53,
-"headline_delayed_hi": 33.52
+"headline_delayed_lo": 27.24,
+"headline_delayed_hi": 35.29
 },
 {
 "st": "VA",
@@ -47,11 +47,11 @@
 {
 "st": "GA",
 "state": "Georgia",
-"index": 28.9,
+"index": 29.8,
 "index_1w": 28.9,
 "chg_1w": 0.0,
-"n_officials": 10,
-"w_total": 22.5,
+"n_officials": 11,
+"w_total": 23.5,
 "n_exposed": 58,
 "n_permitted": 24,
 "n_land": 7,
@@ -63,31 +63,31 @@
 "b_hi": 25.0,
 "pdelay_now": 41.8,
 "headline_delayed_lo": 8.11,
-"headline_delayed_hi": 9.34
+"headline_delayed_hi": 9.35
 },
 {
 "st": "OH",
 "state": "Ohio",
-"index": 31.9,
-"index_1w": 21.1,
-"chg_1w": 9.4,
-"n_officials": 11,
-"w_total": 23.5,
-"n_exposed": 35,
+"index": 32.8,
+"index_1w": 30.9,
+"chg_1w": 1.0,
+"n_officials": 12,
+"w_total": 24.0,
+"n_exposed": 36,
 "n_permitted": 5,
-"n_land": 5,
+"n_land": 6,
 "n_contracted": 25,
 "exposed_mw_hi": 14544,
-"exposed_capex_lo": 81.4,
-"exposed_capex_hi": 88.8,
-"b_lo": 6.89,
-"b_hi": 7.3,
-"pdelay_now": 49.6,
-"headline_delayed_lo": 2.94,
-"headline_delayed_hi": 3.17
+"exposed_capex_lo": 83.1,
+"exposed_capex_hi": 90.5,
+"b_lo": 7.06,
+"b_hi": 7.47,
+"pdelay_now": 49.9,
+"headline_delayed_lo": 3.06,
+"headline_delayed_hi": 3.29
 }
 ],
 "exposed_stages": "permitted_not_under_construction (20% 12-mo spend), land_controlled_not_permitted (10%), contracted_or_projected (5%)",
 "note": "overlay inputs only; headline GDP model unchanged",
-"as_of_1w": "2026-11-05"
+"as_of_1w": "2026-11-06"
 }

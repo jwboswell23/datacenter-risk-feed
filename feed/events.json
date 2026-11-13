@@ -1,7 +1,139 @@
 {
-"updated": "2026-11-12T12:16:14.974320+00:00",
-"run_date": "2026-11-12",
+"updated": "2026-11-13T12:20:59.564561+00:00",
+"run_date": "2026-11-13",
 "rows": [
+{
+"id": "EV-VI-0451",
+"st": "Virginia",
+"juris": "Loudoun County",
+"cls": "B. Regulator-driven",
+"status": "5 Adopted by the relevant government",
+"summary": "The Board of Supervisors voted unanimously on a series of measures under a preliminary agreement with Amazon, intended to eliminate potential data-ce\u2026",
+"p_binding": "65",
+"next_date": "",
+"updated": "2026-11-13"
+},
+{
+"id": "EV-TE-0388",
+"st": "Texas",
+"juris": "Town of Westlake (Tarrant/Denton counti\u2026",
+"cls": "B. Regulator-driven",
+"status": "5 Adopted by the relevant government",
+"summary": "At a special meeting on 2026-11-12 the Westlake Town Council unanimously approved the development agreement for the roughly 88-acre, four-building, ~\u2026",
+"p_binding": "100",
+"next_date": "2026-12-10 (ERCOT verificatio\u2026",
+"updated": "2026-11-13"
+},
+{
+"id": "EV-TE-0271",
+"st": "Texas",
+"juris": "Texas",
+"cls": "B. Regulator-driven",
+"status": "5 Adopted by the relevant government",
+"summary": "Abbott directed the Texas Water Development Board to enforce data-center water-use reporting requirements, address past and future noncompliance, and\u2026",
+"p_binding": "75",
+"next_date": "",
+"updated": "2026-11-13"
+},
+{
+"id": "EV-OH-0273",
+"st": "Ohio",
+"juris": "Ohio EPA (Division of Air Pollution Con\u2026",
+"cls": "E. Infrastructure constraint",
+"status": "3 Introduced as legislation or ordinance",
+"summary": "Ohio EPA held a public hearing on 2026-11-10 (Buckeye Lake) on the draft air permit for the 1,300 MW Fairfield Energy Center that would supply Vantag\u2026",
+"p_binding": "75",
+"next_date": "Ohio EPA final action (not sc\u2026",
+"updated": "2026-11-13"
+},
+{
+"id": "EV-OH-0272",
+"st": "Ohio",
+"juris": "City of Cuyahoga Falls (Summit County)",
+"cls": "B. Regulator-driven",
+"status": "6 Effective and enforceable",
+"summary": "City Council passed Ordinance A-60 on 2026-11-09 by 10-1 (Councilman Stams dissenting) as an emergency measure. Data centers are allowed only as limi\u2026",
+"p_binding": "100",
+"next_date": "",
+"updated": "2026-11-13"
+},
+{
+"id": "EV-OH-0271",
+"st": "Ohio",
+"juris": "Shalersville Township (Portage County)",
+"cls": "B. Regulator-driven",
+"status": "6 Effective and enforceable",
+"summary": "Shalersville trustees unanimously extended the township data-center moratorium for another six months on 2026-10-20 (it had been due to expire 2026-1\u2026",
+"p_binding": "100",
+"next_date": "2026-12 (Portage County RPC r\u2026",
+"updated": "2026-11-13"
+},
+{
+"id": "EV-OH-0270",
+"st": "Ohio",
+"juris": "U.S. District Court for the Southern Di\u2026",
+"cls": "A. Voter-driven",
+"status": "3 Introduced as legislation or ordinance",
+"summary": "On 2026-11-12 Prologis sued the City of Trenton in federal court in Cincinnati, arguing the Nov 3 charter amendment cannot lawfully be applied retroa\u2026",
+"p_binding": "35",
+"next_date": "Court scheduling order not ye\u2026",
+"updated": "2026-11-13"
+},
+{
+"id": "EV-OH-0243",
+"st": "Ohio",
+"juris": "Trenton",
+"cls": "A. Voter-driven",
+"status": "Election result (unofficial, not certified)",
+"summary": "Voters approved Issue 17, a data-center restriction. Reports differ on its scope: some describe a ban on data centers above 25 MW within city limits,\u2026",
+"p_binding": "75",
+"next_date": "2026-11-24 (Butler County cer\u2026",
+"updated": "2026-11-13"
+},
+{
+"id": "EV-GE-0173",
+"st": "Georgia",
+"juris": "City of Kennesaw (Cobb County)",
+"cls": "B. Regulator-driven",
+"status": "6 Effective and enforceable",
+"summary": "Kennesaw passed a six-month data-center moratorium at the beginning of October 2026, per Marietta Daily Journal reporting on the later Acworth pause.\u2026",
+"p_binding": "90",
+"next_date": "",
+"updated": "2026-11-13"
+},
+{
+"id": "EV-GE-0172",
+"st": "Georgia",
+"juris": "City of Acworth (Cobb County)",
+"cls": "B. Regulator-driven",
+"status": "6 Effective and enforceable",
+"summary": "The Acworth Board of Aldermen unanimously approved a 12-month moratorium on data-center projects at its meeting the week of 2026-11-02 (reported 2026\u2026",
+"p_binding": "95",
+"next_date": "",
+"updated": "2026-11-13"
+},
+{
+"id": "EV-GE-0130",
+"st": "Georgia",
+"juris": "Marietta",
+"cls": "B. Regulator-driven",
+"status": "5 Adopted by the relevant government",
+"summary": "Resolution 2026-1765 reportedly established a temporary moratorium on accepting rezoning and permit applications for new data centers.",
+"p_binding": "75",
+"next_date": "2026-11-13 (confirm outcome o\u2026",
+"updated": "2026-11-13"
+},
+{
+"id": "EV-GE-0053",
+"st": "Georgia",
+"juris": "Camden County",
+"cls": "B. Regulator-driven",
+"status": "5 Adopted by the relevant government",
+"summary": "The Board of Commissioners adopted a six-month moratorium on data centers in the unincorporated county. The ordinance excluded sections 4, 5, 6, and\u2026",
+"p_binding": "85",
+"next_date": "2026-11-17 (Board of Commissi\u2026",
+"updated": "2026-11-13"
+},
 {
 "id": "EV-VI-0479",
 "st": "Virginia",
@@ -135,17 +267,6 @@
 "updated": "2026-11-12"
 },
 {
-"id": "EV-GE-0053",
-"st": "Georgia",
-"juris": "Camden County",
-"cls": "B. Regulator-driven",
-"status": "5 Adopted by the relevant government",
-"summary": "The Board of Commissioners adopted a six-month moratorium on data centers in the unincorporated county. The ordinance excluded sections 4, 5, 6, and\u2026",
-"p_binding": "85",
-"next_date": "Verify extension resolution o\u2026",
-"updated": "2026-11-12"
-},
-{
 "id": "EV-VI-0477",
 "st": "Virginia",
 "juris": "Commonwealth of Virginia (Governor and\u2026",
@@ -210,127 +331,6 @@
 "p_binding": "40",
 "next_date": "2026-12-01 (reported; alt. 20\u2026",
 "updated": "2026-11-11"
-},
-{
-"id": "EV-TE-0345",
-"st": "Texas",
-"juris": "Lubbock",
-"cls": "B. Regulator-driven",
-"status": "3 Introduced as legislation or ordinance",
-"summary": "Lubbock City Council initiated the procedure to consider a 90-day pause on requests and approvals for large-scale data centers. The proposal requires\u2026",
-"p_binding": "55",
-"next_date": "2026-12-10",
-"updated": "2026-11-11"
-},
-{
-"id": "EV-TE-0320",
-"st": "Texas",
-"juris": "Fort Worth City Council",
-"cls": "B. Regulator-driven",
-"status": "5 Adopted by the relevant government",
-"summary": "A special Council work session concerning the DCIC report and the first public hearing in the legal process for the proposed data-center moratorium w\u2026",
-"p_binding": "10",
-"next_date": "",
-"updated": "2026-11-11"
-},
-{
-"id": "EV-TE-0317",
-"st": "Texas",
-"juris": "Fort Worth",
-"cls": "B. Regulator-driven",
-"status": "5 Adopted by the relevant government",
-"summary": "City Council adopted a resolution directing establishment of the Fort Worth Data Center & Infrastructure Commission, with up to 11 members, to study\u2026",
-"p_binding": "25",
-"next_date": "2027-01-12",
-"updated": "2026-11-11"
-},
-{
-"id": "EV-OH-0268",
-"st": "Ohio",
-"juris": "Butler County (unincorporated, county-z\u2026",
-"cls": "B. Regulator-driven",
-"status": "6 Effective and enforceable",
-"summary": "Six-month moratorium on data-center applications in county-zoned townships, adopted by the Butler County Commissioners in June 2026 after the AWS Mad\u2026",
-"p_binding": "95",
-"next_date": "2026-12-16 (approximate expir\u2026",
-"updated": "2026-11-11"
-},
-{
-"id": "EV-OH-0241",
-"st": "Ohio",
-"juris": "St. Clair Township, Butler County",
-"cls": "B. Regulator-driven",
-"status": "4 Approved by committee or planning commission",
-"summary": "The township zoning commission passed a resolution to ban data centers in township zoning. The resolution was scheduled for a Butler County hearing a\u2026",
-"p_binding": "80",
-"next_date": "Trustee final vote TBD (not s\u2026",
-"updated": "2026-11-11"
-},
-{
-"id": "EV-OH-0238",
-"st": "Ohio",
-"juris": "Sprigg Township, Adams County",
-"cls": "A. Voter-driven",
-"status": "Election result (certified by county board)",
-"summary": "Voters approved a zoning measure for unincorporated areas of Sprigg Township, described as making data-center development easier to regulate and as a\u2026",
-"p_binding": "85",
-"next_date": "2026-12-04 (Secretary of Stat\u2026",
-"updated": "2026-11-11"
-},
-{
-"id": "EV-OH-0216",
-"st": "Ohio",
-"juris": "Monroe Township, Adams County",
-"cls": "A. Voter-driven",
-"status": "Election result (certified by county board)",
-"summary": "Voters approved a township zoning measure intended to establish new regulations for unincorporated areas and make data-center development easier to r\u2026",
-"p_binding": "85",
-"next_date": "2026-12-04 (Secretary of Stat\u2026",
-"updated": "2026-11-11"
-},
-{
-"id": "EV-GE-0077",
-"st": "Georgia",
-"juris": "DeKalb County",
-"cls": "B. Regulator-driven",
-"status": "5 Adopted by the relevant government",
-"summary": "A resolution extended DeKalb County's data center moratorium through March 30, 2027.",
-"p_binding": "85",
-"next_date": "2026-12-15",
-"updated": "2026-11-11"
-},
-{
-"id": "EV-VI-0476",
-"st": "Virginia",
-"juris": "Fauquier County",
-"cls": "B. Regulator-driven",
-"status": "6 Effective and enforceable",
-"summary": "BACKFILL (not new this run). The Board of Supervisors adopted 4-1 (Culbertson no) a zoning text amendment ending by-right data centers, removing them\u2026",
-"p_binding": "100",
-"next_date": "",
-"updated": "2026-11-10"
-},
-{
-"id": "EV-TE-0385",
-"st": "Texas",
-"juris": "Texas Legislature (House), 90th Regular\u2026",
-"cls": "B. Regulator-driven",
-"status": "3 Introduced as legislation or ordinance",
-"summary": "Rep.-elect Armin Mizani (R-Keller, HD 98) pre-filed HB 928: no person may construct a data center inside a municipality unless the governing body vot\u2026",
-"p_binding": "30",
-"next_date": "2027-01-12",
-"updated": "2026-11-10"
-},
-{
-"id": "EV-OH-0267",
-"st": "Ohio",
-"juris": "Twin Township, Darke County",
-"cls": "B. Regulator-driven",
-"status": "2 Proposed by an official or legislator",
-"summary": "At a 9 November meeting attended by about 100 residents, Twin Township trustees approved proposed data-center regulations (definitions) described as\u2026",
-"p_binding": "75",
-"next_date": "2026-12-04",
-"updated": "2026-11-10"
 }
 ]
 }

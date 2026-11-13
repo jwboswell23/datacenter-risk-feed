@@ -1,7 +1,27 @@
 {
-"updated": "2026-11-12T12:16:14.974320+00:00",
-"run_date": "2026-11-12",
+"updated": "2026-11-13T12:20:59.564561+00:00",
+"run_date": "2026-11-13",
 "rows": [
+{
+"date": "2026-11-13",
+"st": "OH",
+"headline": "Washington County commissioners say they cannot block two Waterford data-center proposals (Riverbend, Crystal\u2026",
+"why": "Adds a second Washington County project to the pipeline (ACS Digital & Energy Riverbend) and identifies the HashWorks successor as Continuum Partners.",
+"cls": "D community",
+"affected": "PRJ-OH-0803; PRJ-OH-0862",
+"src": "WTAP",
+"url": "https://www.wtap.com/2026/11/13/waterford-data-centers-what-washington-county-commissioners-say-they-can-cant-control/"
+},
+{
+"date": "2026-11-13",
+"st": "TX",
+"headline": "Counter-check: AG Paxton water-reporting letters to 156 data centers resurfaced by aggregators date from Oct\u2026",
+"why": "Three widely recirculated items were date-checked and excluded from today's new developments.",
+"cls": "n/a (date check)",
+"affected": "None",
+"src": "Texas AG; Virginia Energy; WHRO",
+"url": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-sends-letters-data-center-developments-across-texas-ensure-reporting"
+},
 {
 "date": "2026-11-12",
 "st": "TX",
@@ -21,6 +41,76 @@
 "affected": "PRJ-OH-0861",
 "src": "WTVG 13abc",
 "url": "https://www.13abc.com/2026/11/12/rossford-planning-commission-approves-special-use-permit-preliminary-site-plan-data-center/"
+},
+{
+"date": "2026-11-12",
+"st": "OH",
+"headline": "Prologis sues Trenton in federal court to block the voter-approved 25 MW cap (Issue 17) from reaching its 250\u2026",
+"why": "First developer suit against an Ohio voter-adopted data-center restriction; tests vested rights for a permitted project with $42.3 mn spent. Outcome will set the templat\u2026",
+"cls": "A voter-driven (litigation)",
+"affected": "PRJ-OH-0156; EV-OH-0243; EV-OH-0270",
+"src": "Journal-News",
+"url": "https://www.journal-news.com/local/prologis-files-federal-lawsuit-challenging-data-center-ban-against-city-of-trenton/article_0a089bbd-98f7-5ff8-a45f-bd3ae6b5f6d1.html"
+},
+{
+"date": "2026-11-12",
+"st": "TX",
+"headline": "Westlake Town Council unanimously approves development agreement for the 1.1 mn sq ft PowerHouse Circle T cam\u2026",
+"why": "Local blockage removed for a ~300 MW DFW campus; shows litigation settling into developer-funded operating conditions rather than denial.",
+"cls": "B regulator-driven (approval)",
+"affected": "PRJ-TE-0596; EV-TE-0388",
+"src": "CBS Texas",
+"url": "https://www.cbsnews.com/texas/news/westlake-data-center-approved-keller-settlement-noise-restrictions-november-2026/"
+},
+{
+"date": "2026-11-12",
+"st": "VA",
+"headline": "Loudoun releases details of the unanimous Nov 10 Board vote implementing Project Potomac Promise: no data cen\u2026",
+"why": "Confirms the 217 MW Amazon Bridgefield proposal is dead; rezoning to a district barring data centers even by special exception still to come.",
+"cls": "B regulator-driven",
+"affected": "PRJ-VI-0002; EV-VI-0451",
+"src": "Loudoun County",
+"url": "https://www.loudoun.gov/m/newsflash/home/detail/10944"
+},
+{
+"date": "2026-11-12",
+"st": "TX",
+"headline": "Hueco Ranch (ServerDome) is not under construction; founders say a 2027 start, $13.5-15 bn, ~1 GW on-site gas\u2026",
+"why": "Master record corrected (was under_construction); removes 200-350 MW from the Texas under-construction bucket.",
+"cls": "D community / data correction",
+"affected": "PRJ-TE-0238",
+"src": "El Paso Times via Galveston Daily News",
+"url": "https://www.galvnews.com/news_reuters/texas/whos-behind-13-billion-data-center-plan-east-of-el-paso/article_38fa8227-2b49-553a-a35d-cbc2be0aee96.html"
+},
+{
+"date": "2026-11-12",
+"st": "TX",
+"headline": "SpaceX announces $24 bn Starbase supercomputing project with its own gas generation; Starbase hearing on ince\u2026",
+"why": "Company announcement only; stage unchanged. Self-generation sidesteps the ERCOT review and the Brownsville moratorium does not reach the site.",
+"cls": "E infrastructure",
+"affected": "PRJ-TE-0860",
+"src": "S&P Global",
+"url": "https://www.spglobal.com/energy/en/news-research/latest-news/natural-gas/111226-spacex-plans-24b-data-center-with-gas-generation-ahead-of-proposed-moratorium"
+},
+{
+"date": "2026-11-12",
+"st": "GA",
+"headline": "Marietta council held hearing and vote on stopgap ordinance CA2026-06 (data centers as special land use in He\u2026",
+"why": "Would convert a pause into a discretionary permit regime; verify minutes before treating the moratorium as lifted.",
+"cls": "B regulator-driven",
+"affected": "EV-GE-0130; PRJ-GE-0344; PRJ-GE-0343",
+"src": "Marietta Daily Journal",
+"url": "https://www.mdjonline.com/news/local/marietta-proposal-would-limit-data-centers-to-heavy-industrial-areas/article_49472f13-4efb-4883-a706-2fddb4a02ed3.html"
+},
+{
+"date": "2026-11-12",
+"st": "Multi",
+"headline": "Senate: cloture vote on the Capito substitute to H.R. 2347 (permitting bill) set for Monday Nov 16 at 5:30 p.\u2026",
+"why": "Federal permitting reform would ease transmission and generation siting; nothing enacted yet.",
+"cls": "B regulator-driven",
+"affected": "All four states (federal)",
+"src": "U.S. Senate Daily Press",
+"url": "https://www.dailypress.senate.gov/thursday-november-12-2026/"
 },
 {
 "date": "2026-11-11",
@@ -203,104 +293,14 @@
 "url": "https://richmond.com/news/local/business/development/article_85ad60d3-27fc-46ad-9bd7-52e6903ef0e6.html"
 },
 {
-"date": "2026-11-09",
-"st": "Multi",
-"headline": "Weekly sweep Nov 2-9: no confirmed material campus-level change beyond items already logged daily; datacenter\u2026",
-"why": "All verified items this week (Effingham tabling to Nov 17, Loudoun pause vote Nov 17, Ohio 21-for-21 local measures, Hinojosa/Bottoms/Acton pause pledges, ERCOT audit se\u2026",
-"cls": "B/C/D",
-"affected": "No change to campus stages or scores this week; next dated\u2026",
-"src": "Weekly sweep (multiple sources verified by fetch)",
-"url": "https://datacenterrecord.org/states/ga/statements"
-},
-{
-"date": "2026-11-09",
-"st": "GA",
-"headline": "Effingham commissioners Burdette and Helmly put on record conditions for Project Camellia site plan (berm, we\u2026",
-"why": "Local permitting authority for the OpenAI/Octans Effingham campus is now attaching explicit, quotable conditions; a county moratorium discussion on Nov 17 would be stage\u2026",
-"cls": "B/D",
-"affected": "PRJ Effingham Project Camellia (OpenAI/Octans) - site plan\u2026",
-"src": "Statesboro Herald; WTOC",
-"url": "https://www.statesboroherald.com/local/effingham-delays-vote-on-site-plan-for-openais-20-billion-planned-data-center/"
-},
-{
-"date": "2026-11-09",
-"st": "TX",
-"headline": "Texas 2027 bill pre-filing opens: SB 293 (Huffman, Finance chair; majority of Senate as joint authors) would\u2026",
-"why": "First concrete legislative instruments of the post-election Texas backlash; cost (not siting) exposure for all Texas campuses if SB 293 passes; ladder 3 (introduced), se\u2026",
-"cls": "B regulator-driven",
-"affected": "All Texas campuses (cost); prospective siting for post-Sept\u2026",
-"src": "Texas Legislature Online; FOX 26; Dallas Morning News",
-"url": "https://capitol.texas.gov/tlodocs/90R/billtext/html/SB00293I.htm"
-},
-{
-"date": "2026-11-09",
-"st": "TX",
-"headline": "SpaceX proposes $24 bn gas-fired power plant and super-compute facility on 444 acres at Starbase (Cameron Cou\u2026",
-"why": "New behind-the-meter hyperscale project sidesteps the ERCOT energization queue; tests whether the TCEQ permit pause and 2027 incentive repeal bills reach on-site-generat\u2026",
-"cls": "E infrastructure constraint",
-"affected": "PRJ-TE-0860 (new)",
-"src": "City of Starbase notice; Reuters; Bloomberg",
-"url": "https://www.starbase.texas.gov/"
-},
-{
-"date": "2026-11-09",
-"st": "GA",
-"headline": "Second Effingham lawsuit (State Court, filed ~6 Nov) alleges civil racketeering/conspiracy by county official\u2026",
-"why": "Adds litigation pressure a week before the 17 Nov site-plan vote and moratorium discussion; damages suit does not itself seek to void approvals.",
-"cls": "D community opposition",
-"affected": "PRJ-GE-0167 Project Camellia",
-"src": "The Current; WSB-TV",
-"url": "https://thecurrentga.org/2026/11/09/new-lawsuit-alleges-conspiracy-in-effingham-county-openai-land-sale/"
-},
-{
-"date": "2026-11-09",
+"date": "2026-11-10",
 "st": "OH",
-"headline": "Twin Township (Darke County) trustees adopt data-center definitions; 12-month moratorium vote set for 4 Dec (\u2026",
-"why": "Continues the post-election wave of pre-emptive township moratoria; no capacity affected.",
-"cls": "B regulator-driven",
-"affected": "None",
-"src": "WHIO; WDTN",
-"url": "https://www.whio.com/news/local/township-prepares-vote-data-center-moratorium/XNZ366JE45H6VDZWKRTSM56NHE/"
-},
-{
-"date": "2026-11-09",
-"st": "OH",
-"headline": "Adams County BOE certified the Nov 3 results: Sprigg Twp zoning plan 332-301, Monroe Twp 149-102 (Official Ca\u2026",
-"why": "First county-certified results in the four-state coverage. Zoning adoption lets both AWS-evaluation townships regulate land use; it is not a ban until restrictive text i\u2026",
-"cls": "A voter-driven",
-"affected": "PRJ-OH-0371 AWS Adams County; PRJ-OH-0373; PRJ-OH-0374",
-"src": "Adams County Board of Elections (PDF viewed)",
-"url": "https://www.boe.ohio.gov/adams/c/elecres/20261103results.pdf"
-},
-{
-"date": "2026-11-08",
-"st": "Multi",
-"headline": "Amazon paid $99.8M for 23 acres at 44146 Wade Drive (Loudoun) for a 100-ft data center; no special exception\u2026",
-"why": "New land-controlled campus (PRJ-VI-0850). Any SE application would fall under the Loudoun pause if adopted Nov 17; staff already flagged height vs General Plan.",
-"cls": "E_infrastructure/B_regulator",
-"affected": "PRJ-VI-0850; EV-VI-0452",
-"src": "Virginia Business",
-"url": "https://virginiabusiness.com/amazon-buys-loudoun-property-for-100m-plans-data-center/"
-},
-{
-"date": "2026-11-08",
-"st": "Multi",
-"headline": "Lordstown solicitor recommends extending the village data-center moratorium into 2027; mayor says ruling does\u2026",
-"why": "Moratorium (EV-OH-0258) expires Dec 31; extension now recommended but not voted. Ladder unchanged at 5 (adopted).",
-"cls": "B_regulator",
-"affected": "EV-OH-0258; Bristolville 25 site",
-"src": "Tribune Chronicle",
-"url": "https://www.tribtoday.com/news/local-news/2026/11/lordstown-officials-discuss-supreme-court-ruling-on-data-center/"
-},
-{
-"date": "2026-11-08",
-"st": "Multi",
-"headline": "Conserve Ohio reports 150,000+ signatures toward a constitutional amendment banning data centers above 25 MW\u2026",
-"why": "Petition stage only (EV-OH-0266, ladder 1); earliest ballot Nov 2027. No legal effect today.",
-"cls": "A_voter",
-"affected": "Ohio statewide pipeline (prospective)",
-"src": "Columbus Dispatch",
-"url": "https://www.dispatch.com/story/business/2026/11/06/local-data-center-bans-passed-easily-is-the-rest-of-ohio-next/92612381007/"
+"headline": "Ohio EPA hearing on 1,300 MW Fairfield Energy Center air permit serving Vantage Millersport; comments closed\u2026",
+"why": "Behind-the-meter gas is the power path for this campus; permit conditions or delay would slow energization.",
+"cls": "E infrastructure",
+"affected": "PRJ-OH-0391; EV-OH-0273",
+"src": "NBC4",
+"url": "https://www.nbc4i.com/news/local-news/fairfield-county/epa-considers-power-plant-for-fairfield-county-data-centers/"
 }
 ]
 }

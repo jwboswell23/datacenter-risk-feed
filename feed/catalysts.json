@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-12T12:16:14.974320+00:00",
-"run_date": "2026-11-12",
+"updated": "2026-11-13T12:20:59.564561+00:00",
+"run_date": "2026-11-13",
 "rows": [
 {
 "date": "2026-11-16",
@@ -34,6 +34,17 @@
 "mx": 7,
 "comp": 4.95,
 "mw_hi": 520
+},
+{
+"date": "2026-11-17",
+"st": "Texas",
+"county": "Hudspeth County",
+"id": "PRJ-TE-0238",
+"name": "Hueco Ranch data center complex (Server\u2026",
+"catalyst": "Hudspeth County judge appointment (2026-11-17 special hearing); any TCEQ air-permit application for the on-si\u2026",
+"mx": 6,
+"comp": 4.75,
+"mw_hi": 750
 },
 {
 "date": "2026-11-17",
@@ -210,6 +221,17 @@
 "mx": 5,
 "comp": 3.3,
 "mw_hi": 380
+},
+{
+"date": "2026-11-24",
+"st": "Ohio",
+"county": "Butler",
+"id": "PRJ-OH-0156",
+"name": "Prologis Project Mila, Trenton (Trenton\u2026",
+"catalyst": "Federal court scheduling and any preliminary-injunction motion; city response to the 2026-11-09 taxpayer dema\u2026",
+"mx": 7,
+"comp": 4.75,
+"mw_hi": 250
 },
 {
 "date": "2026-11-29",
@@ -419,28 +441,6 @@
 "mx": 8,
 "comp": 5.15,
 "mw_hi": 1200
-},
-{
-"date": "2026-12-10",
-"st": "Texas",
-"county": "Kent County",
-"id": "PRJ-TE-0214",
-"name": "Project Hyper Jayton Campus (Spur Build\u2026",
-"catalyst": "Scheduled ERCOT/PUCT process updates and the status of the Texas audit and local approvals; no project-specif\u2026",
-"mx": 8,
-"comp": 5.55,
-"mw_hi": 50
-},
-{
-"date": "2026-12-10",
-"st": "Texas",
-"county": "Shackelford County",
-"id": "PRJ-TE-0229",
-"name": "Vantage Frontier Campus",
-"catalyst": "Scheduled ERCOT/PUCT process developments and reported Batch Zero/community-impact materials; the project-spe\u2026",
-"mx": 7,
-"comp": 4.0,
-"mw_hi": 1400
 }
 ]
 }
