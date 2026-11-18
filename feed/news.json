@@ -1,7 +1,147 @@
 {
-"updated": "2026-11-13T12:20:59.564561+00:00",
-"run_date": "2026-11-13",
+"updated": "2026-11-18T12:27:21.427418+00:00",
+"run_date": "2026-11-18",
 "rows": [
+{
+"date": "2026-11-18",
+"st": "OH",
+"headline": "Trumbull County BOE special session 9 a.m. Nov 19 to certify the Nov 3 election (Hubbard ban 76.6%); Butler C\u2026",
+"why": "First certifications of the Ohio 25 MW/ban measures arrive this week; measures remain uncertified until then.",
+"cls": "A_voter",
+"affected": "Hubbard (Crane Project Milo); Trenton (PRJ-OH-0156)",
+"src": "Trumbull County BOE; Butler County BOE via Oxford Free Press",
+"url": "https://boe.co.trumbull.oh.gov/"
+},
+{
+"date": "2026-11-17",
+"st": "GA",
+"headline": "Effingham commissioners approve OpenAI Project Camellia site plan 5-0 (Rahn recused); moratorium tabled 4-1 t\u2026",
+"why": "Local entitlement secured for the 3.2 GW campus; construction still needs county permits and the USACE wetlands permit (comments to Dec 3). Not under construction.",
+"cls": "B_regulator; D_community",
+"affected": "PRJ-GE-0167",
+"src": "Effingham Herald; WJCL; WSAV; The Current",
+"url": "https://www.effinghamherald.net/data-centers/effingham-approves-openai-site-plan-tables-moratorium-project-camellia-data-center-georgia/"
+},
+{
+"date": "2026-11-17",
+"st": "VA",
+"headline": "Loudoun Board adopts 7-1-1 resolution pausing action on legislative data-center and substation applications (\u2026",
+"why": "Formalises the pause on ~33 pending applications; county attorney says a moratorium is unlawful so this is a scheduling pause; approved and administrative projects unaff\u2026",
+"cls": "B_regulator",
+"affected": "PRJ-VI-0012; PRJ-VI-0850; other Loudoun legislative applica\u2026",
+"src": "Loudoun Now; WUSA9; Loudoun County",
+"url": "https://www.loudounnow.com/news/loudoun-supervisors-approve-12-month-data-center-pause/article_595ee60a-6c09-427e-ac37-af7bde569964.html"
+},
+{
+"date": "2026-11-17",
+"st": "VA",
+"headline": "Spotsylvania supervisors approve 4-3 the 555-acre, ~894 MW Crossroads Technology Campus SUP (RCK Digital; AWS\u2026",
+"why": "Second large Fredericksburg-area approval in six weeks despite opposition; shows Virginia boards still approving while state-level restrictions are debated.",
+"cls": "B_regulator; D_community",
+"affected": "PRJ-VI-0447",
+"src": "WJLA; Go FXBG",
+"url": "https://wjla.com/news/local/story/spotsylvania-county-board-approves-550-acre-data-center-site-despite-fierce-opposition"
+},
+{
+"date": "2026-11-17",
+"st": "OH",
+"headline": "Trenton will \"defend\" Issue 17 in Prologis v. Trenton; taxpayer demand under review pending Nov 24 certificat\u2026",
+"why": "Removes doubt that the city would fold; vesting question remains for the court. No ruling.",
+"cls": "A_voter; D_community",
+"affected": "PRJ-OH-0156",
+"src": "WCPO; cleveland.com; Spectrum News 1",
+"url": "https://www.wcpo.com/news/local-news/prologis-sues-trenton-over-voter-approved-data-center-restrictions-as-project-mila-construction-continues"
+},
+{
+"date": "2026-11-17",
+"st": "GA",
+"headline": "Paulding joint hearing advances 5-2 a UDO text amendment moving data processing/BESS to special use permits;\u2026",
+"why": "Would make future Paulding campuses discretionary rather than permitted uses in technology-park districts.",
+"cls": "B_regulator",
+"affected": "Paulding County proposals (none pending per county)",
+"src": "WSB Radio; Paulding Brief",
+"url": "https://www.wsbradio.com/news/local/new-plan-regulate-data-center-development-advances-paulding-county/A5777KTUQJANLOR54SBEIUY5ZY/"
+},
+{
+"date": "2026-11-17",
+"st": "OH",
+"headline": "Conserve Ohio cleared to gather ~12,500 signatures for a Columbus charter amendment banning data centers abov\u2026",
+"why": "Extends the 25 MW charter model to Ohio's largest city; no pending Columbus applications; qualification is the hurdle.",
+"cls": "A_voter",
+"affected": "Future Columbus proposals",
+"src": "NBC4",
+"url": "https://www.nbc4i.com/news/local-news/columbus/proposed-columbus-charter-amendment-would-restrict-large-data-centers/"
+},
+{
+"date": "2026-11-17",
+"st": "OH",
+"headline": "Howland Twp extends its data-center moratorium 180 days from Nov 13; Licking Twp adopted a 12-month moratoriu\u2026",
+"why": "Township pauses keep spreading in Trumbull and Licking counties; the AEP filing adds cost allocation rather than siting risk; the draft bill is unintroduced.",
+"cls": "B_regulator; E_infrastructure",
+"affected": "Ohio pipeline (indirect)",
+"src": "Tribune Chronicle; Licking Twp; AEP Ohio; WCPO via Yahoo",
+"url": "https://www.aepohio.com/company/news/view?releaseID=12395"
+},
+{
+"date": "2026-11-17",
+"st": "TX",
+"headline": "Giga Energy signs two 10-year, ~$1 bn leases (Project Clay, Project Marl; 60 MW each, Hunt County) with an un\u2026",
+"why": "Capital continues to commit to grid-connected Texas sites below and above ERCOT's 75 MW large-load threshold despite the political shift.",
+"cls": "E_infrastructure",
+"affected": "PRJ-TE-0813; PRJ-TE-0812",
+"src": "GlobeNewswire; Reuters; IDC Nova",
+"url": "https://www.globenewswire.com/news-release/2026/11/17/3405044/0/en/giga-energy-inks-10-year-1b-lease-on-project-clay-a-60mw-ai-data-center-in-hunt-county-tx.html"
+},
+{
+"date": "2026-11-17",
+"st": "TX",
+"headline": "Counter-check: Hinojosa clarifies her promised moratorium covers state permits not yet issued (\"I don't have\u2026",
+"why": "Three recirculated framings corrected before scoring.",
+"cls": "n/a (date/fact check)",
+"affected": "None",
+"src": "Detroit News; Fort Worth city page; Loudoun Now",
+"url": "https://www.fortworthtexas.gov/departments/city-manager/datacenters"
+},
+{
+"date": "2026-11-16",
+"st": "TX",
+"headline": "TCEQ ends the Sept 21 data-center permitting pause after a Nov 13 Governor's-office notice; issues SpaceX Sta\u2026",
+"why": "Removes a statewide gating item two months before Gov.-elect Hinojosa takes office promising a new permit moratorium that she says would not reach projects already permi\u2026",
+"cls": "B_regulator; E_infrastructure",
+"affected": "PRJ-TE-0860; all Texas projects awaiting TCEQ permits",
+"src": "Texas Tribune; Politico; TCEQ record",
+"url": "https://www.texastribune.org/2026/11/17/tceq-environmental-data-center-permits-resume/"
+},
+{
+"date": "2026-11-16",
+"st": "Multi",
+"headline": "Senate invokes cloture 70-27 on the Capito substitute to H.R. 2347 (permitting reform) reported to include a\u2026",
+"why": "Federal cost-allocation language would reinforce state large-load tariffs; cloture is not passage and the House must still act.",
+"cls": "B_regulator; E_infrastructure",
+"affected": "All four states (indirect)",
+"src": "Senate roll call; The Hill; Spectrum News 1",
+"url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00264.htm"
+},
+{
+"date": "2026-11-16",
+"st": "VA",
+"headline": "Botetourt FOIA suit: judge takes Google/Helio performance-agreement case under advisement after ~6-hour heari\u2026",
+"why": "A finding could void the 2025 agreement or pause permits for the under-construction 300 MW campus; no ruling yet.",
+"cls": "D_community; B_regulator",
+"affected": "PRJ-VI-0090",
+"src": "WDBJ7; Cardinal News; WSLS",
+"url": "https://cardinalnews.org/2026/11/17/judge-asks-for-final-legal-briefs-before-deciding-whether-botetourt-county-violated-open-meetings-law-in-greenlighting-data-center/"
+},
+{
+"date": "2026-11-16",
+"st": "GA",
+"headline": "Dade County IDA unanimously rescinds the Masterworks Atlanta letter of intent for ~200 industrial-park acres;\u2026",
+"why": "Earliest-stage Georgia proposal removed from the pipeline; county 90-day moratorium proposal still pending.",
+"cls": "D_community; B_regulator",
+"affected": "PRJ-GE-0859",
+"src": "Local 3 News; Times Free Press",
+"url": "https://www.timesfreepress.com/news/2026/nov/17/dade-county-backs-out-of-letting-data-center-company-study-industrial-park-site/"
+},
 {
 "date": "2026-11-13",
 "st": "OH",
@@ -113,6 +253,16 @@
 "url": "https://www.dailypress.senate.gov/thursday-november-12-2026/"
 },
 {
+"date": "2026-11-12",
+"st": "GA",
+"headline": "Marietta council unanimously adopts a new data-center moratorium for calendar 2027 (follows the current one e\u2026",
+"why": "Marietta decisions on data centers now deferred to 2028; the stopgap that would have ended the pause early was shelved.",
+"cls": "B_regulator",
+"affected": "PRJ-GE Marietta proposals (none permitted)",
+"src": "MDJ; WSB Radio; WSB-TV",
+"url": "https://www.mdjonline.com/news/local/marietta-delays-data-center-decisions-until-2028/article_1630a43e-27c9-483c-91d5-49dd8307443b.html"
+},
+{
 "date": "2026-11-11",
 "st": "TX",
 "headline": "ERCOT CEO Pablo Vegas said he will ask the Legislature for authority to require data-center curtailment at EE\u2026",
@@ -151,156 +301,6 @@
 "affected": "All large-load projects nationally",
 "src": "U.S. Senate roll call 258; Senate Daily Press; McGuireWoods; Center Square",
 "url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00258.htm"
-},
-{
-"date": "2026-11-10",
-"st": "OH",
-"headline": "Butler County Planning Commission unanimously recommended St. Clair Township zoning amendment prohibiting dat\u2026",
-"why": "Second advisory approval for a permanent prohibition on the St. Clair portion of the AWS ~600-acre Madison/St. Clair site; trustees say they will adopt (date TBD). Count\u2026",
-"cls": "B regulator-driven",
-"affected": "PRJ-OH-0155 AWS Butler County / Trenton-area",
-"src": "Journal-News; WCPO",
-"url": "https://www.journal-news.com/local/proposed-amazon-data-center-could-face-another-hurdle-as-township-moves-to-ban-the-developments/article_bb83bba2-9a91-563b-bb44-220dc9de2ad3.html"
-},
-{
-"date": "2026-11-10",
-"st": "TX",
-"headline": "Fort Worth held first statutory hearing on 90-day data-center moratorium; DCIC delivered 19 recommendations;\u2026",
-"why": "Moratorium remains proposed (ladder 2). NBC DFW headline saying the city \"approves\" the moratorium is contradicted by the City page, WFAA, Fox 4, CBS and the Star-Telegr\u2026",
-"cls": "B regulator-driven",
-"affected": "Fort Worth pipeline incl. PRJ-TE-0565 Colovore Alliance ($4\u2026",
-"src": "Fort Worth Report; City of Fort Worth; WFAA",
-"url": "https://fortworthreport.org/2026/11/10/fort-worth-takes-next-step-toward-data-center-moratorium-as-lawmakers-prep-legislation/"
-},
-{
-"date": "2026-11-10",
-"st": "TX",
-"headline": "Lubbock held first public hearing on a 90-day data-center moratorium; second hearing and first vote Dec 10",
-"why": "Procedural step only; adoption needs 6 of 7 council votes. Council consideration of the 12 P&Z development standards reported for Dec 1 or Dec 8 (conflict).",
-"cls": "B regulator-driven",
-"affected": "Lubbock-area proposals",
-"src": "KCBD / Fox34",
-"url": "https://www.fox34.com/2026/11/11/lubbock-residents-urge-council-pass-data-center-moratorium/"
-},
-{
-"date": "2026-11-10",
-"st": "VA",
-"headline": "Botetourt judge overruled demurrers in FOIA suit against the Google (Helio Capital) performance agreement; he\u2026",
-"why": "Suit seeking to void the June 2025 agreement and halt grading at Greenfield advances past the first dismissal attempt; pleas in bar under advisement. Resumption date rep\u2026",
-"cls": "D community",
-"affected": "PRJ-VI-0090 Google Botetourt (300 MW, under construction)",
-"src": "WDBJ7; Virginia Business",
-"url": "https://www.wdbj7.com/2026/11/10/judge-denies-request-dismiss-botetourt-google-data-center-lawsuit/"
-},
-{
-"date": "2026-11-10",
-"st": "VA",
-"headline": "Spanberger and General Assembly Democratic leaders unveiled a 2027 agenda to end by-right approval for data c\u2026",
-"why": "Proposal by the governor and both chamber leaders in a Democratic trifecta (ladder 2; no bills filed; drafts due Dec 31; session Jan 13). Retroactivity language is the k\u2026",
-"cls": "B regulator-driven",
-"affected": "Virginia by-right pipeline (statewide; not project-specific)",
-"src": "Virginia Mercury; WJLA",
-"url": "https://virginiamercury.com/2026/11/11/spanberger-va-democrats-pitch-medical-debt-relief-data-center-limits-for-2027/"
-},
-{
-"date": "2026-11-10",
-"st": "VA",
-"headline": "JLARC: data-center sales-tax exemption was 60% of Virginia incentive spending over a decade ($4.5 bn FY2021-2\u2026",
-"why": "Strengthens the case for revisiting the exemption in 2027 (joint subcommittee Dec 15; session Jan 13). Study only; no change to the exemption, which runs under HB 30 wit\u2026",
-"cls": "B regulator-driven",
-"affected": "All Virginia campuses using the exemption",
-"src": "Virginia Mercury (JLARC review)",
-"url": "https://virginiamercury.com/2026/11/10/jlarc-data-center-tax-break-accounts-for-60-of-virginias-incentive-spending/"
-},
-{
-"date": "2026-11-10",
-"st": "GA",
-"headline": "DeKalb County deferred data-center definitions resolution to Dec 15 and withdrew (5-2) a proposed independent\u2026",
-"why": "No change to the moratorium; the definitions vote on Dec 15 will shape what the post-moratorium rules cover.",
-"cls": "B regulator-driven",
-"affected": "DeKalb County proposals",
-"src": "Decaturish; DeKalb Legistar",
-"url": "https://www.decaturish.com/news/dekalb/dekalb-data-center-proposals-stall-amid-debate-over-studies/article_087c46bf-2c72-4e71-b555-8714fcbd296c.html"
-},
-{
-"date": "2026-11-10",
-"st": "TX",
-"headline": "Second-day bill detail: SB 36 (Zaffirini) would bar new Ch. 380/381 agreements and Ch. 312 abatements for dat\u2026",
-"why": "Incentive-stripping bills now span sales-tax (SB 293/HB 167) and local abatements (SB 36). None restricts siting; effect is on project economics, not permits.",
-"cls": "B regulator-driven",
-"affected": "Texas projects relying on Ch. 312/380/381 incentives",
-"src": "Star-Telegram; Community Impact",
-"url": "https://www.star-telegram.com/news/state/texas/article318025622.html"
-},
-{
-"date": "2026-11-10",
-"st": "OH",
-"headline": "Ohio lame duck: Senate President-presumptive Reineke would not commit to passing data-center rules this year;\u2026",
-"why": "No movement on HB 646 as of Nov 10; voting sessions run weekly through Dec 17. Statewide moratorium remains a demand, not a bill with momentum.",
-"cls": "B regulator-driven",
-"affected": "All Ohio projects (statewide; not project-specific)",
-"src": "WKBN; Greater Ohio Policy Center",
-"url": "https://www.wkbn.com/news/ohio/ohio-lawmakers-say-compromise-possible-in-data-center-regulations/"
-},
-{
-"date": "2026-11-10",
-"st": "VA",
-"headline": "Washington County, Va. supervisors unanimously adopted an ordinance requiring a special exception permit and\u2026",
-"why": "First data-center zoning language in the county; a review process, not a ban. No tracked projects; chair says none are seeking to locate there.",
-"cls": "B regulator-driven",
-"affected": "None tracked",
-"src": "WJHL",
-"url": "https://www.wjhl.com/news/local/washington-co-va-approves-data-center-ordinance/"
-},
-{
-"date": "2026-11-10",
-"st": "GA",
-"headline": "Lee County extended its data-center moratorium (unincorporated areas) from Dec 31, 2026 to June 30, 2027; eff\u2026",
-"why": "Second extension of a December 2025 moratorium while staff draft an ordinance; full resolution text published. No tracked projects.",
-"cls": "B regulator-driven",
-"affected": "None tracked",
-"src": "WALB (resolution text)",
-"url": "https://www.walb.com/2026/11/11/lee-county-commissioners-extend-moratorium-data-centers-into-next-summer/"
-},
-{
-"date": "2026-11-10",
-"st": "GA",
-"headline": "McIntosh County commissioners approved a zoning change requiring special use permits for data centers, descri\u2026",
-"why": "Adds mandatory public hearings and commission oversight on the Georgia coast; not a ban. No tracked projects.",
-"cls": "B regulator-driven",
-"affected": "None tracked",
-"src": "The Current GA",
-"url": "https://thecurrentga.org/2026/"
-},
-{
-"date": "2026-11-10",
-"st": "VA",
-"headline": "Fluidstack (formerly Solis Arx) Progress Park campus in Wythe County reported under construction; majority co\u2026",
-"why": "Stage change in the master: county described the project as under construction on Oct 27 and grading was observed; Preserve Wythe opposition noted. MW undisclosed.",
-"cls": "E infrastructure",
-"affected": "PRJ-VI-0070",
-"src": "DCD; WDBJ7",
-"url": "https://www.datacenterdynamics.com/en/news/fluidstack-begins-construction-of-99-acre-data-center-campus-in-wythe-county-virginia/"
-},
-{
-"date": "2026-11-10",
-"st": "VA",
-"headline": "Goochland draft TOD amendments: prohibit data centers outside the overlay, keep by-right status in TOD North\u2026",
-"why": "Tightening at the margins; the by-right path for the Google West Creek site would remain under the draft. Residents demanded hearings for every project.",
-"cls": "B regulator-driven",
-"affected": "PRJ-VI-0066 Google Goochland; PRJ-VI-0067 Tract; Tuckahoe T\u2026",
-"src": "Richmond Times-Dispatch",
-"url": "https://richmond.com/news/local/business/development/article_85ad60d3-27fc-46ad-9bd7-52e6903ef0e6.html"
-},
-{
-"date": "2026-11-10",
-"st": "OH",
-"headline": "Ohio EPA hearing on 1,300 MW Fairfield Energy Center air permit serving Vantage Millersport; comments closed\u2026",
-"why": "Behind-the-meter gas is the power path for this campus; permit conditions or delay would slow energization.",
-"cls": "E infrastructure",
-"affected": "PRJ-OH-0391; EV-OH-0273",
-"src": "NBC4",
-"url": "https://www.nbc4i.com/news/local-news/fairfield-county/epa-considers-power-plant-for-fairfield-county-data-centers/"
 }
 ]
 }

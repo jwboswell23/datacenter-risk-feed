@@ -1,216 +1,7 @@
 {
-"updated": "2026-11-13T12:20:59.564561+00:00",
-"run_date": "2026-11-13",
+"updated": "2026-11-18T12:27:21.427418+00:00",
+"run_date": "2026-11-18",
 "rows": [
-{
-"date": "2026-11-16",
-"st": "Virginia",
-"county": "Botetourt County",
-"id": "PRJ-VI-0090",
-"name": "Google Botetourt Center at Greenfield D\u2026",
-"catalyst": "Botetourt Circuit Court hearing resumes (pleas in bar; injunction request)",
-"mx": 7,
-"comp": 5.1,
-"mw_hi": 300
-},
-{
-"date": "2026-11-17",
-"st": "Georgia",
-"county": "Effingham County",
-"id": "PRJ-GE-0167",
-"name": "Project Camellia (Savannah Gateway Indu\u2026",
-"catalyst": "Effingham County\u2019s deferred site-plan decision for Project Camellia; the county is also expected to discuss a\u2026",
-"mx": 7,
-"comp": 5.55,
-"mw_hi": 3210
-},
-{
-"date": "2026-11-17",
-"st": "Georgia",
-"county": "Putnam County",
-"id": "PRJ-GE-0168",
-"name": "Eatonton 379 Data Center Campus",
-"catalyst": "Reported expiration of the Putnam County moratorium, including whether it is extended; the DRI regional revie\u2026",
-"mx": 7,
-"comp": 4.95,
-"mw_hi": 520
-},
-{
-"date": "2026-11-17",
-"st": "Texas",
-"county": "Hudspeth County",
-"id": "PRJ-TE-0238",
-"name": "Hueco Ranch data center complex (Server\u2026",
-"catalyst": "Hudspeth County judge appointment (2026-11-17 special hearing); any TCEQ air-permit application for the on-si\u2026",
-"mx": 6,
-"comp": 4.75,
-"mw_hi": 750
-},
-{
-"date": "2026-11-17",
-"st": "Virginia",
-"county": "Loudoun County",
-"id": "PRJ-VI-0012",
-"name": "Spring Valley Technology Park",
-"catalyst": "Loudoun County Board consideration of the formal temporary-pause resolution; the project record does not repo\u2026",
-"mx": 8,
-"comp": 5.25,
-"mw_hi": 780
-},
-{
-"date": "2026-11-17",
-"st": "Virginia",
-"county": "Loudoun County",
-"id": "PRJ-VI-0018",
-"name": "STACK NVA06 Leesburg campus",
-"catalyst": "Loudoun County Board consideration of the temporary-pause resolution; relevance to NVA06 depends on whether a\u2026",
-"mx": 4,
-"comp": 2.25,
-"mw_hi": 72
-},
-{
-"date": "2026-11-17",
-"st": "Virginia",
-"county": "Loudoun County",
-"id": "PRJ-VI-0013",
-"name": "Greenlin Park data center campus",
-"catalyst": "Loudoun County Board consideration related to the temporary pause; monitor for formalization and any project-\u2026",
-"mx": 6,
-"comp": 3.35,
-"mw_hi": 300
-},
-{
-"date": "2026-11-17",
-"st": "Virginia",
-"county": "Loudoun County",
-"id": "PRJ-VI-0016",
-"name": "EdgeCore Ashburn campus",
-"catalyst": "Loudoun County\u2019s scheduled consideration of the temporary-pause resolution; monitor for any project-specific\u2026",
-"mx": 4,
-"comp": 2.45,
-"mw_hi": 114
-},
-{
-"date": "2026-11-17",
-"st": "Virginia",
-"county": "Loudoun County",
-"id": "PRJ-VI-0009",
-"name": "Sabey Intergate.Ashburn Building A",
-"catalyst": "Loudoun County Board action related to the temporary pause is scheduled for Nov. 17, 2026; monitor for releva\u2026",
-"mx": 4,
-"comp": 2.05,
-"mw_hi": 54
-},
-{
-"date": "2026-11-17",
-"st": "Virginia",
-"county": "Loudoun County",
-"id": "PRJ-VI-0024",
-"name": "JK Land Holdings former Telos headquart\u2026",
-"catalyst": "Loudoun County Board consideration of the temporary pause and related data-center actions; applicability to t\u2026",
-"mx": 5,
-"comp": 3.1,
-"mw_hi": 50
-},
-{
-"date": "2026-11-17",
-"st": "Virginia",
-"county": "Loudoun County",
-"id": "PRJ-VI-0032",
-"name": "Google Loudoun County data center expan\u2026",
-"catalyst": "Loudoun County's next stated date concerning the temporary pause is the Board's November 17, 2026 meeting; mo\u2026",
-"mx": 4,
-"comp": 2.45,
-"mw_hi": 0
-},
-{
-"date": "2026-11-17",
-"st": "Virginia",
-"county": "Loudoun County",
-"id": "PRJ-VI-0028",
-"name": "Chuck Kuhn Loudoun County data center s\u2026",
-"catalyst": "Loudoun County\u2019s scheduled consideration related to the temporary pause; the supplied event record lists this\u2026",
-"mx": 4,
-"comp": 2.5,
-"mw_hi": 0
-},
-{
-"date": "2026-11-17",
-"st": "Virginia",
-"county": "Loudoun County",
-"id": "PRJ-VI-0025",
-"name": "EdgeCore Sterling campus",
-"catalyst": "Loudoun County Board action concerning the temporary application pause; project-specific permitting and power\u2026",
-"mx": 6,
-"comp": 3.45,
-"mw_hi": 114
-},
-{
-"date": "2026-11-17",
-"st": "Virginia",
-"county": "Loudoun County",
-"id": "PRJ-VI-0015",
-"name": "STACK Infrastructure Loudoun County 144\u2026",
-"catalyst": "Loudoun Board consideration of the formal resolution related to the temporary pause; applicability to this ca\u2026",
-"mx": 5,
-"comp": 3.4,
-"mw_hi": 144
-},
-{
-"date": "2026-11-17",
-"st": "Virginia",
-"county": "Loudoun County",
-"id": "PRJ-VI-0005",
-"name": "Twin Creeks data center development",
-"catalyst": "Loudoun Board consideration of the temporary-pause resolution; subsequent Phase 2 standards work may also cla\u2026",
-"mx": 6,
-"comp": 3.45,
-"mw_hi": 0
-},
-{
-"date": "2026-11-17",
-"st": "Virginia",
-"county": "Loudoun County",
-"id": "PRJ-VI-0031",
-"name": "Belmont Innovation Data Center Campus",
-"catalyst": "Loudoun County's scheduled consideration of the temporary-pause resolution; relevance depends on whether the\u2026",
-"mx": 4,
-"comp": 2.05,
-"mw_hi": 0
-},
-{
-"date": "2026-11-18",
-"st": "Virginia",
-"county": "Prince William County",
-"id": "PRJ-VI-0061",
-"name": "Kings Corridor Technology Campus",
-"catalyst": "Rescheduled commission hearing on the applications; the hearing outcome may clarify the effect of the staff r\u2026",
-"mx": 8,
-"comp": 4.7,
-"mw_hi": 0
-},
-{
-"date": "2026-11-18",
-"st": "Virginia",
-"county": "Stafford County",
-"id": "PRJ-VI-0084",
-"name": "Sisson South data center campus",
-"catalyst": "Stafford County Planning Commission public hearing on the Sisson South / Kings Highway application",
-"mx": 5,
-"comp": 3.05,
-"mw_hi": 0
-},
-{
-"date": "2026-11-18",
-"st": "Virginia",
-"county": "Stafford County",
-"id": "PRJ-VI-0082",
-"name": "Forest Lane data center campus",
-"catalyst": "Stafford County Planning Commission public hearing on the Forest Lane application",
-"mx": 5,
-"comp": 3.05,
-"mw_hi": 0
-},
 {
 "date": "2026-11-21",
 "st": "Georgia",
@@ -223,12 +14,34 @@
 "mw_hi": 380
 },
 {
+"date": "2026-11-23",
+"st": "Virginia",
+"county": "Botetourt County",
+"id": "PRJ-VI-0090",
+"name": "Google Botetourt Center at Greenfield D\u2026",
+"catalyst": "Botetourt Circuit Court ruling on the FOIA suit (briefs due 2026-11-20; opinion expected about 2026-11-23); A\u2026",
+"mx": 7,
+"comp": 5.4,
+"mw_hi": 300
+},
+{
+"date": "2026-11-24",
+"st": "Ohio",
+"county": "Butler",
+"id": "PRJ-OH-0155",
+"name": "Amazon Web Services Butler County / Tre\u2026",
+"catalyst": "St. Clair trustees final vote on the zoning prohibition (not scheduled); Butler County moratorium expiry ~202\u2026",
+"mx": 7,
+"comp": 5.6,
+"mw_hi": 0
+},
+{
 "date": "2026-11-24",
 "st": "Ohio",
 "county": "Butler",
 "id": "PRJ-OH-0156",
 "name": "Prologis Project Mila, Trenton (Trenton\u2026",
-"catalyst": "Federal court scheduling and any preliminary-injunction motion; city response to the 2026-11-09 taxpayer dema\u2026",
+"catalyst": "Butler County certification of Issue 17 (2026-11-24); federal court scheduling / any preliminary-injunction m\u2026",
 "mx": 7,
 "comp": 4.75,
 "mw_hi": 250
@@ -267,6 +80,17 @@
 "mw_hi": 0
 },
 {
+"date": "2026-12-01 (approx.; earth-movement permit)",
+"st": "Texas",
+"county": "Hudspeth County",
+"id": "PRJ-TE-0238",
+"name": "Hueco Ranch data center complex (Server\u2026",
+"catalyst": "Hudspeth County judge appointment outcome; mass-earth-movement permit (developer expects 30-45 days from late\u2026",
+"mx": 6,
+"comp": 4.75,
+"mw_hi": 750
+},
+{
 "date": "2026-12-02",
 "st": "Virginia",
 "county": "Fairfax County",
@@ -276,6 +100,17 @@
 "mx": 6,
 "comp": 4.35,
 "mw_hi": 50
+},
+{
+"date": "2026-12-03",
+"st": "Georgia",
+"county": "Effingham County",
+"id": "PRJ-GE-0167",
+"name": "Project Camellia (Savannah Gateway Indu\u2026",
+"catalyst": "USACE Section 404 comment deadline 2026-12-03 and permit decision; conditional-use ordinance second reading (\u2026",
+"mx": 7,
+"comp": 5.35,
+"mw_hi": 3210
 },
 {
 "date": "2026-12-03",
@@ -441,6 +276,171 @@
 "mx": 8,
 "comp": 5.15,
 "mw_hi": 1200
+},
+{
+"date": "2026-12-10",
+"st": "Texas",
+"county": "Kent County",
+"id": "PRJ-TE-0214",
+"name": "Project Hyper Jayton Campus (Spur Build\u2026",
+"catalyst": "Scheduled ERCOT/PUCT process updates and the status of the Texas audit and local approvals; no project-specif\u2026",
+"mx": 8,
+"comp": 5.55,
+"mw_hi": 50
+},
+{
+"date": "2026-12-10",
+"st": "Texas",
+"county": "Shackelford County",
+"id": "PRJ-TE-0229",
+"name": "Vantage Frontier Campus",
+"catalyst": "Scheduled ERCOT/PUCT process developments and reported Batch Zero/community-impact materials; the project-spe\u2026",
+"mx": 7,
+"comp": 4.0,
+"mw_hi": 1400
+},
+{
+"date": "2026-12-10",
+"st": "Texas",
+"county": "Wilbarger County",
+"id": "PRJ-TE-0624",
+"name": "Google Wilbarger County data center and\u2026",
+"catalyst": "ERCOT audit and large-load review developments, including the scheduled Dec. 10 date and the Dec. 10\u201317 repor\u2026",
+"mx": 7,
+"comp": 4.4,
+"mw_hi": 1000
+},
+{
+"date": "2026-12-10",
+"st": "Texas",
+"county": "Wichita",
+"id": "PRJ-TE-0816",
+"name": "DataNovaX Airport Drive data center",
+"catalyst": "ERCOT/PUCT reporting or meeting on large-load project review and community impacts; project-specific confirma\u2026",
+"mx": 7,
+"comp": 4.6,
+"mw_hi": 12
+},
+{
+"date": "2026-12-10",
+"st": "Texas",
+"county": "Freestone",
+"id": "PRJ-TE-0814",
+"name": "CyrusOne Freestone Energy Center campus",
+"catalyst": "ERCOT/state audit or interconnection-review update; the record lists December 10 as the next date associated\u2026",
+"mx": 8,
+"comp": 5.15,
+"mw_hi": 760
+},
+{
+"date": "2026-12-10",
+"st": "Texas",
+"county": "Somervell",
+"id": "PRJ-TE-0653",
+"name": "Amazon Somervell County data center cam\u2026",
+"catalyst": "Scheduled ERCOT/PUCT process updates and meeting; project-specific status of the state audit, any TCEQ permit\u2026",
+"mx": 7,
+"comp": 4.9,
+"mw_hi": 600
+},
+{
+"date": "2026-12-10",
+"st": "Texas",
+"county": "Caldwell County",
+"id": "PRJ-TE-0274",
+"name": "Tract Caldwell County Data Center Techn\u2026",
+"catalyst": "Scheduled PUCT/large-load process activity and any update on the statewide audit; no project-specific decisio\u2026",
+"mx": 7,
+"comp": 4.9,
+"mw_hi": 4000
+},
+{
+"date": "2026-12-10",
+"st": "Texas",
+"county": "Matagorda County",
+"id": "PRJ-TE-0853",
+"name": "Matagorda County powered land data cent\u2026",
+"catalyst": "ERCOT/state audit milestone update and any project-specific review outcome",
+"mx": 8,
+"comp": 5.35,
+"mw_hi": 2000
+},
+{
+"date": "2026-12-10",
+"st": "Texas",
+"county": "Ward County",
+"id": "PRJ-TE-0810",
+"name": "Ionic Digital Cedarvale / Nscale Ward C\u2026",
+"catalyst": "Scheduled ERCOT/PUCT open meeting and related audit or large-load process updates; no project-specific outcom\u2026",
+"mx": 6,
+"comp": 3.85,
+"mw_hi": 240
+},
+{
+"date": "2026-12-10",
+"st": "Texas",
+"county": "Milam County",
+"id": "PRJ-TE-0249",
+"name": "Bitdeer Rockdale AI/HPC campus expansion",
+"catalyst": "Scheduled state/PUCT process following the ERCOT audit pause; confirm whether the project is named or has a p\u2026",
+"mx": 7,
+"comp": 4.9,
+"mw_hi": 563
+},
+{
+"date": "2026-12-10",
+"st": "Texas",
+"county": "Pecos County",
+"id": "PRJ-TE-0510",
+"name": "GW Ranch data center and power campus",
+"catalyst": "ERCOT audit or large-load interconnection review developments; the listed PUCT meeting following the expected\u2026",
+"mx": 6,
+"comp": 3.75,
+"mw_hi": 5000
+},
+{
+"date": "2026-12-10",
+"st": "Texas",
+"county": "Ector",
+"id": "PRJ-TE-0787",
+"name": "Texas Critical Data Centers campus",
+"catalyst": "Expected ERCOT/PUCT audit or large-load process update; the project\u2019s own audit and interconnection status sh\u2026",
+"mx": 7,
+"comp": 4.7,
+"mw_hi": 757
+},
+{
+"date": "2026-12-10",
+"st": "Texas",
+"county": "Tarrant",
+"id": "PRJ-TE-0596",
+"name": "PowerHouse Circle T Data Center",
+"catalyst": "Construction start and TDLR/permit filings; ERCOT verification report 2026-12-10; Legislature convenes 2027-0\u2026",
+"mx": 7,
+"comp": 4.7,
+"mw_hi": 300
+},
+{
+"date": "2026-12-10",
+"st": "Texas",
+"county": "Wharton County",
+"id": "PRJ-TE-0213",
+"name": "Project Eagle (Boling)",
+"catalyst": "ERCOT/state audit or interconnection-process update; the project\u2019s connection status and remaining permit req\u2026",
+"mx": 7,
+"comp": 4.3,
+"mw_hi": 75
+},
+{
+"date": "2026-12-10",
+"st": "Texas",
+"county": "Reeves County",
+"id": "PRJ-TE-0513",
+"name": "Microsoft Pecos AI Data Center (Project\u2026",
+"catalyst": "ERCOT/PUCT scheduled reporting and meeting dates, plus clarification of TCEQ permit status and whether the ca\u2026",
+"mx": 8,
+"comp": 5.55,
+"mw_hi": 2670
 }
 ]
 }
